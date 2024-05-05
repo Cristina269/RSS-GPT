@@ -5,13 +5,67 @@
 <link>https://www.ithome.com/</link>
 
 <item>
+<title>赛车游戏《EA Sports WRC》PC 版本新增 VR 支持，Steam 国区售 228 元</title>
+<link>https://www.ithome.com/0/765/868.htm</link>
+<guid>https://www.ithome.com/0/765/868.htm</guid>
+<content:encoded><![CDATA[
+<div> Codemasters、赛车模拟游戏、VR模式、价格、配置需求。<br>
+总结:<br>
+《世界汽车拉力锦标赛（EA Sports WRC）》是一款由Codemasters开发，EA发行的赛车模拟游戏，最新版本在PC平台上添加了VR模式支持。游戏在国区定价为228元，需求较高的配置包括AMD R5 2600X或Intel i5 9600K处理器、Nvidia GTX 1060 Radeon RX Vega 56级显卡，并预计VR模式需要RTX 3070水平显卡。 <div>
+<p>IT之家 5 月 5 日消息，《世界汽车拉力锦标赛（EA Sports WRC）》是一款由&nbsp;Codemasters&nbsp;开发，EA 发行的赛车模拟游戏，本作于&nbsp;2023&nbsp;年&nbsp;11&nbsp;月&nbsp;3&nbsp;日正式发售，登陆&nbsp;PS5 / Xbox Series X|S&nbsp;以及&nbsp;PC&nbsp;平台（Steam、Epic、EA）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1f022f55-58b2-4fb2-ac4d-814a6c2dc560.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzg2LnBuZw==,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>近日开发商 Codemasters 宣布为本作 PC 版本添加&nbsp;VR&nbsp;模式支持，<span class="accentTextColor">任何支持&nbsp;Steam VR&nbsp;的头显都能够在虚拟现实模式下游玩这款游戏</span>，不过官方没有提到本作&nbsp;PS5&nbsp;将在何时支持&nbsp;PS VR 2。</p><p>从&nbsp;<a href="https://store.steampowered.com/app/1849250/WRC/" target="_blank">Steam</a>&nbsp;价格来看，IT之家注意到这款游戏在国区定价为 228&nbsp;元，不支持中文，且包含&nbsp;D&nbsp;加密。</p><p>配置需求方面，Steam&nbsp;显示这款游戏最低需要&nbsp;AMD R5 2600X&nbsp;或&nbsp;Intel i5 9600K&nbsp;级别的处理器，配备&nbsp;Nvidia GTX 1060 Radeon RX Vega 56&nbsp;级别的显卡，推荐&nbsp;R7 3700X / i5 10600K+RTX 2070 / RX 5700 XT&nbsp;显卡，还需要&nbsp;80 GB&nbsp;硬盘空间，<span class="accentTextColor">官方暂未公布&nbsp;VR&nbsp;模式下游戏配置要求，但预计需要&nbsp;RTX 3070&nbsp;水平显卡才能流畅运行</span>。</p><h3>游戏图赏：</h3><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/ee32577b-90e9-4a06-a978-d90a332f3c62.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/8c6b012b-915d-4347-9f26-834bc80e6e0f.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/295197ad-b733-46d2-ae5a-3e7696f0956d.png?x-bce-process=image/format,f_auto" /></p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/729/688.htm" target="_blank">赛车游戏〈EA Sports WRC〉今日发售，登陆 PS5 / XSX / PC 平台</a>》</p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 06:34:59 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 06:34:59 GMT</pubDate>
+</item>
+<item>
+<title>微软详解 MSN 天气全新 AI 模型：一周预报准确度提升 17%、可预测 30 日天象</title>
+<link>https://www.ithome.com/0/765/867.htm</link>
+<guid>https://www.ithome.com/0/765/867.htm</guid>
+<content:encoded><![CDATA[
+<div> 微软, MSN 天气, 人工智能模型, 天气预测, 预测准确性<br>
+<br>
+AI技术为微软的MSN天气引入了最新的天气预测模型，结合了5种不同的人工智能模型和3种深度学习架构，能够准确预测30天内的天气情况。该模型基于三维地球仪上大气层的当前状态，以预测未来的大气状态，并可以使用GPU在几分钟内模拟。相比传统的NWP / ECMWF模型，新的AI天气系统在1周和4周的天气预报结果上分别准确率提高了17%和4%。这种新模型能够更频繁地运行，生成更多的模拟，从而提高天气预测的准确性。总结: 微软利用人工智能模型改进了MSN天气的预测准确性，并能够更快速地准确预测天气情况。 <div>
+<p>IT之家 5 月 5 日消息，微软为 MSN&nbsp;天气引入一项最新的天气预测模型，该模型基于微软旗下 Start 团队近日在 <a href="https://arxiv.org/abs/2403.15598" target="_blank">arXiv</a> 发表的论文，结合了 5 种不同的人工智能模型和 3 种深度学习架构，<span class="accentTextColor">据称能够准确预测&nbsp;30&nbsp;天内天气预报</span>，IT之家查询论文信息，整理相关模型要点如下：<span class="accentTextColor"></span></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/1fa81009-694d-46e2-8c28-3d06887776d8.png?x-bce-process=image/format,f_auto" /></p><p>微软表示，目前普遍使用的 NWP / ECMWF 模型需要超级计算机才能运行，而当下微软引入的&nbsp;AI&nbsp;预测模型相对于传统的 NWP / ECMWF 方案可以更快、更准确地预测天气。</p><p>而这款模型运作方式基于三维地球仪上大气层的当前状态（纬度、经度和高度）预测未来一段时间的大气状态，此后将相关状态数据重复反馈到模型中，以预测更长时间后的天象变化：</p><blockquote><p>由于相关&nbsp;AI&nbsp;模型能够以更粗糙的空间分辨率运行，并且相对于等效的热力学模型计算负债耕地，因此在&nbsp;GPU 只需几分钟就可以模拟。因此这些模型“可以更频繁地运行，以产生更多的模拟，从而获得更好的天气预测”。</p></blockquote><p>微软表示，新的&nbsp;AI&nbsp;天气系统同&nbsp;ECWMF&nbsp;相比，<span class="accentTextColor">在&nbsp;1&nbsp;周和&nbsp;4&nbsp;周的天气预报结果上分别准确&nbsp;17%&nbsp;和&nbsp;4%</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/9442b72f-a62a-4644-b566-60368cc3bcc7.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzcwLnBuZw==,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><h3>相关阅读：</h3><p style="text-align: left;">《<a href="https://www.ithome.com/0/765/816.htm" target="_blank">微软 Start 团队开发 AI 模型，能更准确预报未来 30 天天气情况</a>》</p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 06:22:32 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 06:22:32 GMT</pubDate>
+</item>
+<item>
+<title>零跑 C01 / C10 / C11 等 5 月购车权益公布，可叠加 1 万元国家置换补贴</title>
+<link>https://www.ithome.com/0/765/864.htm</link>
+<guid>https://www.ithome.com/0/765/864.htm</guid>
+<content:encoded><![CDATA[
+<div> 零跑汽车 购车权益 5月<br>
+<br>
+总结:<br>
+零跑汽车公布了5月的购车权益，涉及C01、C10、C11和T03车型，可叠加1万元国家置换补贴使用。具体包括C10车型的增换购补贴、置换补贴和其他优惠；全新C11和C01车型的金融贴息、置换补贴和其他优惠；全新T03车型的金融贴息、置换补贴和其他优惠。活动仅限特定时间内通过零跑官方渠道下定用户。根据国家规定，置换补贴仅针对报废燃油或新能源乘用车并购买新能源乘用车新车的用户。 <div>
+<p>IT之家 5 月 5 日消息，零跑汽车日前公布 5 月购车权益，涉及 C01、C10、C11 以及 T03 车型，可叠加 1 万元国家置换补贴使用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/de197346-9a5a-49eb-9f86-a47f25cdf185.png?x-bce-process=image/format,f_auto" /></p><p>IT之家汇总如下：</p><p style="text-align: start;"><span class="accentTextColor">零跑 C10</span></p><ul class=" list-paddingleft-2"><li><p style="text-align: start;">本品增换购补贴 3000 元 / 台。</p></li><li><p style="text-align: start;">置换补贴 6000 元。</p></li><li><p style="text-align: start;">全配套装选装抵扣券 3000 元（410 舒享版除外）。</p></li><li><p style="text-align: start;">至高 5000 元金融贴息。</p></li><li><p style="text-align: start;">价值 1000 元交付礼包（限 5 月 7 日前完成下定并于 6 月 30 日前提车的用户）。</p></li><li><p style="text-align: start;">价值 3680 元家充服务包（含 7kW 充电桩和 30 米内基础安装服务）。</p></li><li><p style="text-align: start;">首任车主（非营运）终身免费三电质保。</p></li><li><p style="text-align: start;">2 年免费车机娱乐流量（4G / 月），车机基础流量终身免费。</p></li></ul><p style="text-align: start;"><span class="accentTextColor">零跑全新 C11 和 C01&nbsp;</span></p><ul class=" list-paddingleft-2"><li><p style="text-align: start;">至高 5000 元金融贴息。</p></li><li><p style="text-align: start;">至高 6000 元置换补贴。</p></li><li><p style="text-align: start;">免费价值 3680 元 7kW 家充服务包（含 7kW 充电桩和 30 米内基础安装服务）。</p></li><li><p style="text-align: start;">首任车主（非营运）三电终身质保。</p></li><li><p style="text-align: start;">2 年免费娱乐流量（4G / 月），车机基础流量终身免费。</p></li></ul><p style="text-align: start;"><span class="accentTextColor">零跑全新 T03&nbsp;</span></p><ul class=" list-paddingleft-2"><li><p style="text-align: start;">至高 2000 元金融贴息（200 轻享版除外）。</p></li><li><p style="text-align: start;">至高 3000 元置换补贴。</p></li><li><p style="text-align: start;">免费赠送 7kW 家充桩（200 轻享版除外，赠送不含安装服务）。</p></li><li><p style="text-align: start;">首任车主（非营运）三电终身质保。</p></li><li><p style="text-align: start;">1 年免费娱乐流量（1G / 月），车机基础流量终身免费。</p></li></ul><p style="text-align: start;">需要注意的是，本次活动仅限 2024 年 4 月 28 日到 5 月 31 日期间通过零跑官方渠道下定用户（缴纳 5000 元定金）。根据国家出台的《汽车以旧换新补贴实施细则》，10000 元置换补贴仅针对<span class="accentTextColor">报废燃油或新能源乘用车并购买新能源乘用车新车的用户</span>。</p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 06:01:57 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 06:01:57 GMT</pubDate>
+</item>
+<item>
+<title>前 Oculus CTO：Meta 不会推出廉价 VR 头显，现款 Quest 产品线已是“成本价”</title>
+<link>https://www.ithome.com/0/765/863.htm</link>
+<guid>https://www.ithome.com/0/765/863.htm</guid>
+<content:encoded><![CDATA[
+<div> Meta 公司、Horizon OS、John Carmack、VR 头显、市场份额
+<br>
+Meta 公司的前首席技术官 John Carmack 认为，Meta 公司的 Horizon OS 系统有望与苹果 Vision Pro 等设备展开有利竞争，但他表示公司不会推出更廉价的 VR 头显。Meta 公司以成本价销售 Quest 头显，目前在市场占比领先地位。公司即将推出的 Quest 3 Lite 头显保持类似 Quest 2 的参数，但芯片升级至高通骁龙 XR2 Gen 2。根据数据显示，Meta 在 VR 头显市场占比达到 86%，Steam 软硬件调查中也有 61.06% 的硬件占比。总结: John Carmack 认为 Meta 公司的 Horizon OS 有望与竞争对手展开竞争，公司的 VR 头显市场占比领先，即将推出的 Quest 3 Lite 保持参数，不会推出更廉价的产品。 <div>
+<p>IT之家 5 月 5 日消息，前 Oculus&nbsp;首席技术官（CTO）John Carmack&nbsp;近日对&nbsp;Meta&nbsp;公司的&nbsp;Horizon OS&nbsp;进行评论，认为&nbsp;Meta&nbsp;公司凭借相关系统有望与苹果 Vision Pro&nbsp;等设备展开有利竞争，不过他也同时提到&nbsp;Meta&nbsp;公司未来没有推出廉价&nbsp;VR&nbsp;头显的计划。</p><p>IT之家从相关贴文中获悉，<span class="accentTextColor">J</span><span class="accentTextColor">ohn Carmack 声称 Meta 公司基本以“成本价”出售&nbsp;Quest&nbsp;头显，甚至一度“忽略开发成本”销售产品，因此出于预算考虑，该公司显著不会在未来开发更廉价的产品线</span>，不过即便如此，当下&nbsp;Meta&nbsp;公司的&nbsp;VR&nbsp;头显已占据了绝大多数市场份额，“即使其他公司推出更便宜的产品，也难以与&nbsp;Meta&nbsp;公司展开竞争”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/81059c14-5be0-4071-8b84-b8016256d066.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEzOC5wbmc=,t_100,g_2,y_18,x_10,a_0/format,f_auto" /></p><p>IT之家查询目前已知的&nbsp;Meta&nbsp;官方性市场占比获悉，截至&nbsp;2022&nbsp;年第三季度，Meta&nbsp;在 VR 头显市场占比达到&nbsp;86%；而参考最近的 Steam&nbsp;软硬件调查表（2024&nbsp;年&nbsp;4&nbsp;月），<span class="accentTextColor">Meta&nbsp;公司的硬件占比&nbsp;61.06%</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1792a6d2-3ee6-4678-b641-c4a6d310c45c.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzcwLnBuZw==,t_100,g_3,y_16,x_16,a_0/format,f_auto" /></p><p>值得一提的是，目前有消息称&nbsp;Meta&nbsp;将推出一款取代&nbsp;Quest 2&nbsp;的 Quest 3 Lite（Quest 3&nbsp;入门款）头显，相比标准版&nbsp;Quest 3&nbsp;头显的&nbsp;2064x2208&nbsp;单眼分辨率，这款“Quest 3S”头显采用&nbsp;Quest 2&nbsp;同款&nbsp;1832 x 1920&nbsp;单眼分辨率，提供&nbsp;128/256GB&nbsp;存储空间可选，除芯片升级至高通骁龙&nbsp;XR2 Gen 2&nbsp;外，其他参数“几乎与&nbsp;Quest 2&nbsp;一致”。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/756/259.htm" target="_blank">疑似“Meta Quest 3S”入门款 VR 头显广告泄露：二代同款分辨率、可选 128/256GB 存储空间</a>》</p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 06:00:26 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 06:00:26 GMT</pubDate>
+</item>
+
+<item>
 <title>广东已成立梅大高速茶阳路段塌方灾害调查评估组，省长任组长 | 滚动</title>
 <link>https://www.infzm.com/contents/270879</link>
 <guid>https://www.infzm.com/contents/270879</guid>
 <content:encoded><![CDATA[
-<div> 梅大高速、茶阳路段、塌方、救援、调查评估<br>
-<br>
-总结:<br>
+<div> 梅大高速、茶阳路段、塌方、救援、调查评估<br />
+<br />
+总结:<br />
 2024年5月1日凌晨，广东梅大高速茶阳路段发生塌方灾害，导致48人死亡，30人受伤。省政府成立灾害调查评估组，省长任组长。梅州市紧急召开新闻发布会，省委省政府高度重视救援工作。事故现场救援仍在进行中，涉及多个相关部门投入救援。省、市医疗队积极支援救治伤者。调查工作正在进行中，目的是查明事故原因并加强安全防范工作。情况紧急，救援人员正在全力以赴进行救援工作。 <div>
 <div class="nfzm-content__team">
                                         <p class="nfzm-content__author">综合</p>
@@ -105,15 +159,14 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 10:15:00 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 10:15:00 GMT</pubDate>
 </item>
 <item>
 <title>监管风暴之下：“看门人”头部券商罚单量飙升，投行业务高频失守</title>
 <link>https://www.infzm.com/contents/270963</link>
 <guid>https://www.infzm.com/contents/270963</guid>
 <content:encoded><![CDATA[
-<div> 证券公司、监管处罚、投资银行业务、违规行为、从业人员<br>
-<br>总结:
+<div> 证券公司、监管处罚、投资银行业务、违规行为、从业人员<br />
+<br />总结:
 本文讲述了中国证监会对证券公司的严格监管，在2024年前四个月共向40家证券公司发出79份罚单，重点关注投资银行业务。招商证券成为“罚单之王”，海通证券居次席，中信建投、中金公司等头部券商也受到处罚。部分公司因严重违规被暂停业务资格，个人从业人员也被禁止从业。监管部门强调了规范投行业务和加强内控机制的重要性，呼吁证券公司提升合规能力，保护投资者利益。 <div>
 <blockquote class="nfzm-bq">处罚对象更加聚焦于头部证券公司。在罚单量前十名中，除招商证券因收取14张罚单而遥遥领先成为“罚单之王”外，海通证券、中金公司、中信建投、国泰君安、国信证券和银河证券等多家年营收规模在百亿级别的证券公司均榜上有名。<br />
 <br />
@@ -200,7 +253,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 10:00:00 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
 <title>探寻自我，就像陨石划破天空</title>
@@ -209,7 +261,7 @@
 <content:encoded><![CDATA[
 <div> 北京X美术馆、吴冬雪、吕栋辉、亚历山大·巴兹尔、个展
 
-总结:<br><br>北京X美术馆举办了德国艺术家亚历山大·巴兹尔的首次个展，展览标题为“隐于众目之下”，呼应了巴兹尔多年来的创作理念。吴冬雪和吕栋辉是展览的主要策展人，展示了巴兹尔过去两年来的创作作品。展览中呈现了巴兹尔对于观看和隐藏的矛盾理念，以及他对沟通和联系的原始渴望。这次展览吸引了众多观众的关注，展示了巴兹尔独特且引人深思的艺术风格。 <div>
+总结:<br /><br />北京X美术馆举办了德国艺术家亚历山大·巴兹尔的首次个展，展览标题为“隐于众目之下”，呼应了巴兹尔多年来的创作理念。吴冬雪和吕栋辉是展览的主要策展人，展示了巴兹尔过去两年来的创作作品。展览中呈现了巴兹尔对于观看和隐藏的矛盾理念，以及他对沟通和联系的原始渴望。这次展览吸引了众多观众的关注，展示了巴兹尔独特且引人深思的艺术风格。 <div>
 <blockquote class="nfzm-bq">（本文首发于南方人物周刊）</blockquote>
                 
                 <div class="nfzm-content__team">
@@ -267,7 +319,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 09:00:00 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 09:00:00 GMT</pubDate>
 </item>
 <item>
 <title>“夸父”总体进度达70%，全国已布局建设77个大科学装置丨时政周报</title>
@@ -275,7 +326,7 @@
 <guid>https://www.infzm.com/contents/270967</guid>
 <content:encoded><![CDATA[
 <div> 大科学装置、夸父、聚变堆、科技基础设施、建设进展
-<br>
+<br />
 夸父是中国国家重大科技基础设施之一，目的是研究核聚变反应技术，助力清洁能源发展。中国已建成运行多个国家重大科技基础设施，其中夸父项目预计2025年底建成。大科学装置提升人类科学探索能力，有助于推动基础前沿研究。中国科学院是大科学装置的主要建设和运行力量。大科学装置建设取得进展，中国科学界不断推动科技创新。总结: 夫夸父为中国国家重大科技基础设施之一，旨在研究核聚变反应技术，助力清洁能源发展；中国科学院是大科学装置主要力量，推动科技创新。 <div>
 <blockquote class="nfzm-bq">出生于1972年的姜澜任北京理工大学校长（副部长级）、党委副书记，是目前最年轻的副部长级大学校长。<br />
 <br />
@@ -337,15 +388,14 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 07:00:00 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
 <title>“五一”假期哪里最火？广州上榜，夜市走红</title>
 <link>https://www.infzm.com/contents/270973</link>
 <guid>https://www.infzm.com/contents/270973</guid>
 <content:encoded><![CDATA[
-<div> 美团, 五一假期, 味蕾游, 汉服体验, 长线游<br>
-<br>总结:
+<div> 美团, 五一假期, 味蕾游, 汉服体验, 长线游<br />
+<br />总结:
 今年五一假期，各地旅游市场迎来预订高潮，美团数据显示预订单量增长超190%。热门城市包括北京、上海、成都等，味蕾游成为热门选择。特色美食城市如正定、台州预订数量明显增加。汉服体验旅行拍摄流行，洛阳等地受青睐。长线游和环线游持续火热，出境游也热潮涌动。台州、成都、西安等城市为热门出发地。民宿推出特色服务吸引游客入住。各地生活服务业消费加速扩容，丰富了游客的出行体验。 <div>
 <div class="nfzm-content__team">
                                         <p class="nfzm-content__author">南方+记者 叶丹</p>
@@ -425,19 +475,18 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 06:00:00 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
 <title>全国重点文保建筑一夜烧毁，修缮工程疑多头分包、赶工加班</title>
 <link>https://www.infzm.com/contents/270971</link>
 <guid>https://www.infzm.com/contents/270971</guid>
 <content:encoded><![CDATA[
-<div> 河南大学、大礼堂、火灾、修缮、工程<br>
-总结:<br>
-1. 河南大学大礼堂发生火灾，建筑基本坍塌，尚未造成人员伤亡；<br>
-2. 大礼堂正处于修缮期间，工程进度晚于合同规定，校方催促加快工程进度；<br>
-3. 河南大学与北京同兴合作修缮工程，未签订合同，分包给本土施工队；<br>
-4. 礼堂内饰及屋顶大部分为木质材料，火势持续超过四小时；<br>
+<div> 河南大学、大礼堂、火灾、修缮、工程<br />
+总结:<br />
+1. 河南大学大礼堂发生火灾，建筑基本坍塌，尚未造成人员伤亡；<br />
+2. 大礼堂正处于修缮期间，工程进度晚于合同规定，校方催促加快工程进度；<br />
+3. 河南大学与北京同兴合作修缮工程，未签订合同，分包给本土施工队；<br />
+4. 礼堂内饰及屋顶大部分为木质材料，火势持续超过四小时；<br />
 5. 消防部门接到火情报警时间较长，还需进一步调查火灾原因。 <div>
 <blockquote class="nfzm-bq">“我们主要负责屋顶挂瓦。”杜磊介绍，其与北京同兴的合作相当于总包和分包，双方合作并未签订合同。在河南大学与北京同兴双方签订的合同中明确要求：不得将该工程转包或分包。<br />
 <br />
@@ -495,7 +544,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 04:38:49 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 04:38:49 GMT</pubDate>
 </item>
 <item>
 <title>驻澳门部队举办第十八次军营开放活动</title>
@@ -503,9 +551,9 @@
 <guid>https://www.infzm.com/contents/270961</guid>
 <content:encoded><![CDATA[
 <div> 军营开放、澳门部队、互动体验、国防教育、观众参与
-<br>
+<br />
 中国人民解放军驻澳门部队举办第十八次军营开放活动，吸引近万名澳门大中小学生和市民参与。活动中增加了互动式、体验式的活动内容，观众可以进行训练体验并与武器装备合影留念。活动设计充满军事文化和国防教育元素，展示了驻澳门部队的实力和成就，吸引了广泛的受众群体。观众表示通过活动学到了很多国防和军事知识，体验到了军营生活的真实感觉，展望明年的军营开放活动。 
-<br><br>
+<br /><br />
 总结: 中国人民解放军驻澳门部队举办第十八次军营开放活动，增加互动体验内容，吸引近万名澳门市民参与，加强国防教育，展示军事实力。 <div>
 <blockquote class="nfzm-bq">在传统开放内容的基础上，增加了互动式、体验式的活动。不少观众还进行训练体验，和自己喜欢的武器装备合影留念。<br />
 <br />
@@ -565,15 +613,14 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 14:53:45 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 14:53:45 GMT</pubDate>
 </item>
 <item>
 <title>河南大学大礼堂火灾相关责任人被控制</title>
 <link>https://www.infzm.com/contents/270959</link>
 <guid>https://www.infzm.com/contents/270959</guid>
 <content:encoded><![CDATA[
-<div> 大学校园 火灾 河南省 责任人 联合调查组<br>
-<br>
+<div> 大学校园 火灾 河南省 责任人 联合调查组<br />
+<br />
 总结:2024年5月2日23时20分许，河南大学明伦校区大礼堂发生火灾，造成部分屋顶坍塌损毁，但无人员伤亡。相关责任人已被公安机关控制。根据消防法律法规，河南省消防安全委员会成立联合调查组展开提级调查，目的是尽快查明火灾原因并依法追责问责。当前相关工作正在有序进行中。 <div>
 <div class="nfzm-content__team">
                                         <p class="nfzm-content__author">央视新闻客户端</p>
@@ -611,7 +658,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 12:56:45 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 12:56:45 GMT</pubDate>
 </item>
 <item>
 <title>嫦娥六号探测器点火发射</title>
@@ -619,9 +665,9 @@
 <guid>https://www.infzm.com/contents/270951</guid>
 <content:encoded><![CDATA[
 <div> 长征五号、嫦娥六号、月球背面、采样任务、鹊桥二号中继卫星
-<br>
+<br />
 长征五号携带嫦娥六号探测器成功发射，执行月球背面采样任务。任务计划前往月球背面南极-艾特肯盆地，首次应用三项技术：月球逆行轨道设计与控制技术、月背智能采样技术、月背起飞上升技术。为确保通讯畅通，我国新研制鹊桥二号中继卫星，已完成在轨测试，任务取得成功。总体来看，此次任务将实现月球背面探测与样品采集，标志着我国航天技术不断进步，为人类探索宇宙作出重要贡献。 
-<br><br>总结: <div>
+<br /><br />总结: <div>
 <div class="nfzm-content__team">
                                         <p class="nfzm-content__author">央视新闻客户端</p>
                     
@@ -670,7 +716,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 09:35:14 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 09:35:14 GMT</pubDate>
 </item>
 <item>
 <title>“五一”假期广州时令节庆活动精彩上演</title>
@@ -678,7 +723,7 @@
 <guid>https://www.infzm.com/contents/270945</guid>
 <content:encoded><![CDATA[
 <div> 广州、文旅景区、五一、活动、优惠
-<br><br>总结:
+<br /><br />总结:
 广州文旅景区在五一假期推出丰富多彩的节庆活动，包括赏红叶、体验非遗文化等内容，助力假日消费市场。各景区提供门票优惠和促销活动，致敬劳动者并推出多项主题活动。此外，还有联合IP活动、母亲节活动等，吸引市民游客参与感受广州的文化魅力。活动内容涵盖自然景观、文化表演、特色美食等，全面提升服务质量和吸引力，为广大游客呈现一场丰富多彩的旅游盛宴。 <div>
 <div class="nfzm-content__team">
                                         <p class="nfzm-content__author">南方+</p>
@@ -750,7 +795,6 @@
                                     </div>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 07:00:00 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
 <title>苹果公司更新欧盟核心技术费规则，免费 App 超百万次安装无需缴费</title>
@@ -758,11 +802,10 @@
 <guid>https://www.ithome.com/0/765/861.htm</guid>
 <content:encoded><![CDATA[
 <div> 应用市场、苹果税、开发者、授权费、新政策
-<br>
+<br />
 开放欧盟地区第三方应用市场，但对超过百万次下载量的应用仍需向苹果支付核心技术费。相关做法受到批评，苹果随后更新政策，允许无收入的开发者免除授权费。此举旨在支持学生、业余爱好者等非商业开发者，但需要定期审核确认非商业状态。初创公司年收入低于1000万欧元可在规定条件下获得三年扶持流程。苹果会根据开发商规模决定是否收取核心技术费。 <div>
 <p>IT之家 5 月 5 日消息，苹果公司在欧盟地区开放第三方应用市场，允许开发者通过第三方替代商店或网页提供应用安装，不过相关应用依然受到“苹果税（核心技术费）”的限制，如果一款应用年安装量超过百万次，开发者需要就下载量超出部分向苹果公司缴纳 0.5 欧元（约 3.885 元人民币）一次下载量的费用。</p><p>相关问题引起了不少开发者批判，认为苹果公司“吃相难看”，<span class="accentTextColor">此类“按下载量收费”的做法违背了“欧盟初衷”，而且无法保证恶意竞争者“刷友商应用下载量”问题</span>，<span class="accentTextColor"></span>而近日苹果公司悄悄更新了授权费政策，允许没有任何收入的开发者“无需缴纳授权费”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1c36dac5-01c1-4127-884e-39d367693f02.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwNi5wbmc=,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>苹果公司表示，如果开发者没有任何收入（<span class="accentTextColor">只分发免费应用 / 应用内不含内购也不能通过技巧绕过苹果公司支付门槛</span>），则不需要向苹果公司缴纳“核心技术费”，此条件“旨在让学生、业余爱好者和其他非商业开发人员创建流行的应用程序”，但开发者必须每年都需经过审核确保他们处于“非商业状态”。</p><p>而对于年收入低于&nbsp;1000 万欧元（IT之家备注：当前约 7770 万元人民币）的“初创公司”，苹果公司现对此类开发者制定了三年扶持流程，在开发者&nbsp;/&nbsp;开发商同意苹果新的&nbsp;AppStore&nbsp;政策的情况下，如果应用程序或游戏突然爆火并超过百万安装量，苹果公司将就开发商规模决定是否收取核心技术费。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/729/085.htm" target="_blank">“苹果税”再招监管：荷兰称苹果抽成制度违反欧盟反垄断法</a>》</p><p>《<a href="https://www.ithome.com/0/660/944.htm" target="_blank">欧盟出手重击苹果“围墙花园”，“苹果税”会消失吗</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 05:47:54 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 05:47:54 GMT</pubDate>
 </item>
 <item>
@@ -771,11 +814,10 @@
 <guid>https://www.ithome.com/0/765/860.htm</guid>
 <content:encoded><![CDATA[
 <div> 软件业务收入、利润总额、信息技术服务、软件产品收入、云计算服务
-<br>
+<br />
 软件业务收入保持两位数增长，达28020亿元，同比增长11.9%。利润总额达3188亿元，同比增长13.8%。信息技术服务收入达18412亿元，同比增长12.9%。软件产品收入为6833亿元，其中工业软件产品收入为612亿元。云计算、大数据服务收入为3047亿元。总体来看，软件业经济运行情况良好，各领域收入呈现增长态势，其中信息技术服务领域表现尤为突出。总结: <div>
 <p>IT之家 5 月 5 日消息，工信部日前公布 2024 年一季度我国软件业经济运行情况，业务收入保持两位数增长，利润总额增速小幅提高，信息技术服务等领域收入增势良好。</p><p>报告显示，<span class="accentTextColor">2024 年一季度我国软件业务收入 28020 亿元，同比增长 11.9%</span>，增速与 1－2 月份持平；软件业利润总额 3188 亿元，同比增长 13.8%，增速较 1－2 月份提高 2.3 个百分点；软件业务出口 115.6 亿美元，同比下降 3.3%，降幅较 1－2 月份扩大 3 个百分点。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/20cd6e53-2d2d-439c-a207-dab864f988a6.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;"><strong>各领域运行情况，IT之家汇总如下：</strong></p><ul class=" list-paddingleft-2"><li><p style="text-align: left;">一季度，软件产品收入 6833 亿元，同比增长 9.4%，占全行业收入的比重为 24.4%。其中，工业软件产品收入 612 亿元，同比增长 10.8%。</p></li><li><p style="text-align: left;">一季度，信息技术服务收入 18412 亿元，同比增长 12.9%，在全行业收入中占比为 65.7%。其中，云计算、大数据服务共实现收入 3047 亿元，同比增长 11.9%，占信息技术服务收入的比重为 16.5%；集成电路设计收入 736 亿元，同比增长 16.3%；电子商务平台技术服务收入 2188 亿元，同比增长 4.7%。</p></li><li><p style="text-align: left;">一季度，信息安全产品和服务收入 415 亿元，同比增长 11.6%。</p></li><li><p style="text-align: left;">一季度，嵌入式系统软件收入 2359 亿元，同比增长 11.3%，增速较 1－2 月份提高 2.3 个百分点。</p></li></ul>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 05:21:38 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 05:21:38 GMT</pubDate>
 </item>
 <item>
@@ -784,10 +826,9 @@
 <guid>https://www.ithome.com/0/765/859.htm</guid>
 <content:encoded><![CDATA[
 <div> 梅大高速、见义勇为、王向楠、奖金、慷慨捐赠
-总结:<br><br>梅大高速茶阳路段发生塌方灾害，冷链货车司机王向楠和妻子见义勇为，及时横置货车拦停车辆，挽救他人生命。网易集团、中国职工发展基金会、阿里公益等多家组织相继为王向楠颁发奖金及奖状，共计20万人民币。王向楠慷慨表示将全部奖金捐赠给梅大高速塌方遇难者家属，帮助有需要的人，展现出高尚的品德和慷慨的精神。 <div>
+总结:<br /><br />梅大高速茶阳路段发生塌方灾害，冷链货车司机王向楠和妻子见义勇为，及时横置货车拦停车辆，挽救他人生命。网易集团、中国职工发展基金会、阿里公益等多家组织相继为王向楠颁发奖金及奖状，共计20万人民币。王向楠慷慨表示将全部奖金捐赠给梅大高速塌方遇难者家属，帮助有需要的人，展现出高尚的品德和慷慨的精神。 <div>
 <p>IT之家 5 月 5 日消息，日前，网易集团公益基金会宣布为梅大高速见义勇为司机王向楠及其妻子颁发 10 万奖金，向其见义勇为之举致敬。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1f5b43af-8357-47d7-8316-6eefc57dce45.png?x-bce-process=image/format,f_auto" title="一汽解放奖励梅大高速塌方灾害见义勇为司机，联合颁发奖金 1 万元" /></p><p>5 月 1 日凌晨 2 时 01 分左右，梅大高速茶阳路段发生塌方灾害。发现前方高速塌方后，冷链货车司机王向楠及其妻子在发现异常后，立刻决定急转方向将长 12.5 米的冷藏货车横在路面，<span class="accentTextColor">及时接力拦停四五十辆车</span>，在危急时刻挽救他人生命。</p><p>在此之前，中国职工发展基金会联合一汽解放汽车有限公司共同为其颁发正能量奖金 10000 元；阿里公益天天正能量为王向楠颁发奖状及 10000 元公益金。此外，运满满等其他公益基金组织也有意对王向楠提供一些奖励。</p><p>王向楠在接受媒体采访时曾表示：“我打算把这些奖励捐给梅大高速塌方中的遇难者家属，他们比我更需要这笔钱。”<span class="accentTextColor">还有几家公益组织说要奖励他钱，他打算收到后都捐出去，去帮助更多有需要的人</span>。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 05:05:52 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 05:05:52 GMT</pubDate>
 </item>
 <item>
@@ -796,12 +837,11 @@
 <guid>https://www.ithome.com/0/765/857.htm</guid>
 <content:encoded><![CDATA[
 <div> V2364A、V2362A、vivo S19 / Pro、80W有线快充、骁龙7 Gen 3处理器
-<br>
-<br>
+<br />
+<br />
 总结: vivo即将推出的新机型V2364A和V2362A通过了工信部认证和无线电核准，预计为vivo S19 / Pro手机。这两款新机支持80W有线快充，已经集齐上市需要的三证，只待正式发布。预计标准版机型将搭载骁龙7 Gen 3处理器。此前推出的vivo S18拥有2800×1260分辨率护眼屏幕，支持10bit色深、120Hz刷新率等功能。vivo S18搭载高通骁龙7 Gen 3处理器，配备5000mAh电池和80W快充，前置50MP镜头和后置50MP主摄+8MP超广角相机。 <div>
 <p>IT之家 5 月 5 日消息，近期，两款型号分别为 V2364A、&nbsp;V2362A 的 vivo 新机通过工信部认证、无线电核准，预计为即将发布的 vivo S19 / Pro 手机。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/857382aa-c3c4-4ea1-bf99-354a15a89168.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/cfa493f5-9d3f-445f-8cdf-bc8e49bda0ac.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/25f27727-64d6-412c-b1e1-c90e011cc9c2.png?x-bce-process=image/format,f_auto" /></p><p>vivo S19 / Pro 手机机型此前已经通过国内 3C 认证，均支持 80W 有线快充。自此，<span class="accentTextColor">这两款新机已经集齐上市需要的三证</span>，只待正式对外发布。此前爆料显示，标准版机型预计继续搭载骁龙 7 Gen 3 处理器。</p><p>作为参考，vivo S18 采用了 6.78 英寸 2800×1260 分辨率朝阳护眼屏（IT之家注：京东方），支持 10bit 色深、120Hz 刷新率、300Hz 触控采样率、2000Hz 瞬时触控采样率，<span class="accentTextColor">全局激发亮度达 1200nit，局部峰值亮度达 2800nit</span>，支持 2160Hz 高频 PWM 调光。</p><p style="text-align: center;"><img alt="图片 1" class="lazy" src="https://img.ithome.com/newsuploadfiles/2023/12/20a6359b-b13d-4111-afbe-f8096c7677a1.png?x-bce-process=image/format,f_auto" title="vivo S18 手机今日首销：骁龙 7 Gen 3 处理器，到手价 2299 元起" /></p><figcaption>▲ IT之家图赏：vivo S18 花似锦</figcaption><p>vivo S18&nbsp;搭载了高通骁龙 7 Gen 3 处理器，内置 5000mAh 超薄蓝海电池，支持 80W 快充，支持蓝牙 5.4。</p><p>影像方面，vivo S18&nbsp;前置 50MP（三星 S5KJN1，1/2.76"）镜头 + 广角双柔光灯，后置 50MP 主摄（豪威 OV50E，OIS，1/1.55"）+ 8MP 超广角（豪威 OV08D10，1/4"）+ 影棚级柔光环。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 04:01:02 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 04:01:02 GMT</pubDate>
 </item>
 <item>
@@ -810,10 +850,9 @@
 <guid>https://www.ithome.com/0/765/788.htm</guid>
 <content:encoded><![CDATA[
 <div> 京东 PLUS+、芒果 TV、会员、大促、折扣优惠
-<br><br>总结: 京东 PLUS 和芒果 TV 现在联合开启大促活动，芒果 TV 会员年卡原价 248 元，今日直降至 108 元，京东 PLUS 会员年卡原价 299 元。芒果 TV 会员年卡大促价约为 79 元，京东 PLUS 会员折合约为 29 元，非常优惠。充值时需填写手机号，不支持第三方账号充值，只适用于手机、iPad、电脑，不支持电视。在下单前需确认开通权限和充值次数是否达到上限。 <div>
+<br /><br />总结: 京东 PLUS 和芒果 TV 现在联合开启大促活动，芒果 TV 会员年卡原价 248 元，今日直降至 108 元，京东 PLUS 会员年卡原价 299 元。芒果 TV 会员年卡大促价约为 79 元，京东 PLUS 会员折合约为 29 元，非常优惠。充值时需填写手机号，不支持第三方账号充值，只适用于手机、iPad、电脑，不支持电视。在下单前需确认开通权限和充值次数是否达到上限。 <div>
 <p>京东 PLUS+ 芒果 TV 现已开启联合大促，会员年卡日常活动价 248 元，今日直降至 108 元：</p><dir><a contenteditable="false" href="https://u.jd.com/98O0ve0" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/124938/9/43918/58197/6625cb71Fab757b24/bb5ce2c4a2eca46d.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">芒果 TV + 京东 Plus 年卡</span></span><span class="card-abstract">双会员 年卡</span><span class="card-controls"><span class="price"> 108 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p>芒果 TV 会员年卡官方售价&nbsp;248&nbsp;元 / 年。</p></li><li><p>京东 PLUS 会员年卡官方售价&nbsp;299 元 / 年。</p></li></ul><p>芒果 tv 会员今年大促价在 79 元左右，京东 PLUS 折合仅需 29 元左右，真真划算~</p><p>充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值；芒果 TV 会员适用手机、iPad、电脑（不支持电视）。</p><p>下单前需要查询京东 Plus 开通权限及查询充值次数是否达到上限。</p><p><img class="not-source" src="https://img10.360buyimg.com/imgzone/jfs/t1/198012/38/40506/96247/65e7da96F42b98402/39496e2a68104818.jpg" /><img class="not-source" src="http://img10.360buyimg.com/imgzone/jfs/t1/226711/30/2971/63525/65530db7Febf0c9dc/a7376017d0bcefb1.jpg" /><img class="not-source" src="http://img10.360buyimg.com/imgzone/jfs/t1/233065/24/2940/121087/65530db7F17476e8c/dc55505e8e9b0069.jpg" /><img class="not-source" src="http://img10.360buyimg.com/imgzone/jfs/t1/157677/39/34793/112370/65530db7F310b55d3/8bbac21d369b42ed.jpg" /><img class="not-source" src="https://img10.360buyimg.com/imgzone/jfs/t1/191833/38/41002/85438/65b07b38F99d49a9f/46205dc61d8a4ebb.jpg" /><img class="not-source" src="http://img10.360buyimg.com/imgzone/jfs/t1/89340/12/42717/89474/65530db8Fcf4bbc83/0283b544aedb737e.jpg" /><img class="not-source" src="http://img10.360buyimg.com/imgzone/jfs/t1/196125/26/42129/153331/65530db8Feba012bd/e0c65fe2d8681c84.jpg" /></p><dir><a contenteditable="false" href="https://u.jd.com/9zO0U5J" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/124938/9/43918/58197/6625cb71Fab757b24/bb5ce2c4a2eca46d.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">芒果 TV + 京东 Plus 年卡</span></span><span class="card-abstract">双会员 年卡</span><span class="card-controls"><span class="price"> 108 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 10:26:13 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 10:26:13 GMT</pubDate>
 </item>
 <item>
@@ -821,10 +860,9 @@
 <link>https://www.ithome.com/0/765/856.htm</link>
 <guid>https://www.ithome.com/0/765/856.htm</guid>
 <content:encoded><![CDATA[
-<div> 黑客、Cuttlefish木马、家用路由器、信息捕获、攻击时间<br><br>总结:安全公司Lumen发布报告指出，有一款通过攻击家用路由器来获取用户信息的Cuttlefish木马。黑客首先入侵路由器，然后部署木马并悄悄捕获用户信息，同时通过建立连接避开IP提示。木马活跃时间为2023年10月至2024年4月，最近的攻击主要针对土耳其的两家电信网络供应商，受害对象包括航空部门和卫星服务供应商。 <div>
+<div> 黑客、Cuttlefish木马、家用路由器、信息捕获、攻击时间<br /><br />总结:安全公司Lumen发布报告指出，有一款通过攻击家用路由器来获取用户信息的Cuttlefish木马。黑客首先入侵路由器，然后部署木马并悄悄捕获用户信息，同时通过建立连接避开IP提示。木马活跃时间为2023年10月至2024年4月，最近的攻击主要针对土耳其的两家电信网络供应商，受害对象包括航空部门和卫星服务供应商。 <div>
 <p>IT之家 5 月 5 日消息，安全公司 Lumen 近日发布报告，揭露了一款专门针对家用路由器进行攻击的“Cuttlefish”木马，该木马据称能够从 LAN 网络流量中挖掘用户账号密码及各种身份信息。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/977b7765-8ec8-4047-8717-16a2d02dc5d6.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzk2LnBuZw==,t_100,g_3,y_22,x_22,a_0/format,f_auto" /></p><p>但IT之家查询报告发现，<span class="accentTextColor">研究人员暂不知悉黑客通过何种方式入侵相关路由器</span>，只知道黑客在侵入路由器后首先下载 bash 指令脚本，搜集设备信息并传送至 C2 服务器，接着部署“Cuttlefish”木马。</p><p>研究人员指出，“Cuttlefish”木马拥有“零点击攻击”能力，无需用户交互即可隐藏在路由器背后默默捕获用户各种信息，为了隐匿行踪，<span class="accentTextColor">黑客还利用隧道等方式来建立连接，从而回避用户客户端提示“IP&nbsp;在其他位置登录”的机制</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/08e21649-0ca4-4fc5-89d0-f2211b757c72.png?x-bce-process=image/format,f_auto" /></p><p>根据研究人员的分析，“Cuttlefish”木马主要活跃时间为&nbsp;2023&nbsp;年&nbsp;10&nbsp;月至&nbsp;2024&nbsp;年&nbsp;4&nbsp;月，在去年 10 月初的大规模攻击行动里，有 99% 的受害者 IP 地址是注册在土耳其，其中约 93% 来自两家电信网络服务供应商，受害企业组织包含当地航空部门、卫星服务供应商等。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 03:42:43 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 03:42:43 GMT</pubDate>
 </item>
 <item>
@@ -834,10 +872,9 @@
 <content:encoded><![CDATA[
 <div> 三星，智能手机，生产，目标，可折叠
 
-总结:<br><br>三星在第一季度超出目标生产6450万部智能手机和平板电脑，比年初目标高出22%，其中Galaxy A系列产线开工率高达80%，运营效率提高。三星目标今年出货2.53亿部智能手机，其中包括5100万部Galaxy S系列和可折叠设备。预计夏季推出新的折叠屏手机，第一季度增加产量有助于后续的供货。 <div>
+总结:<br /><br />三星在第一季度超出目标生产6450万部智能手机和平板电脑，比年初目标高出22%，其中Galaxy A系列产线开工率高达80%，运营效率提高。三星目标今年出货2.53亿部智能手机，其中包括5100万部Galaxy S系列和可折叠设备。预计夏季推出新的折叠屏手机，第一季度增加产量有助于后续的供货。 <div>
 <p>IT之家 5 月 5 日消息，据 TheEle 网站报道，三星在今年第一季度生产的智能手机和平板电脑数量超过了其年初的目标 22%。消息人士称，这家科技巨头在本季度生产了 6450 万部智能手机和平板电脑。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1d8aea08-e8d9-4fca-b621-0892f1a23301.png?x-bce-process=image/format,f_auto" /></p><p>报道称，三星的目标是生产 5300 万台，其中并不包括闻泰科技等合同供应商生产的设备。预计三星还将增加产量，<span class="accentTextColor">以确保在推出可折叠智能手机之前有足够的传统智能手机库存。</span></p><p>受益于以上产品的产量增长，三星显示工厂的运营效率也进一步提高了。消息人士称，三星显示的 A2 产线为 Galaxy A 系列生产刚性 OLED 面板，由于需求旺盛，目前的开工率高达 80%。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/d7838397-eebf-4677-a769-73212127e1ad.png?x-bce-process=image/format,f_auto" /></p><p>IT之家获悉，<span class="accentTextColor">三星的目标是今年出货 2.53 亿部智能手机</span>，其中 5100 万部是 Galaxy S 系列和可折叠设备。</p><p>按照惯例，三星会在夏季带来全新的折叠屏手机，今年也不会例外。三星在第一季度加大产量，预计会为后续的折叠屏手机的供货带来帮助。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 03:27:22 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 03:27:22 GMT</pubDate>
 </item>
 <item>
@@ -845,12 +882,11 @@
 <link>https://www.ithome.com/0/765/854.htm</link>
 <guid>https://www.ithome.com/0/765/854.htm</guid>
 <content:encoded><![CDATA[
-<div> 小米，米家，双出风，空调，预售 <br>
-<br>
+<div> 小米，米家，双出风，空调，预售 <br />
+<br />
 小米米家3匹立式空调在京东开始预售，主打1710 m³/h风量和30%节能率，售价5799元。采用星锻银玻璃面板，配备鲲翼双风口，支持超广角环抱送风，可选“天幕风”、“地毯风”，支持四分区独立控风，内置抗菌防霉滤网。一级能效，制冷功率1930W，制热功率2680W，内机噪音42-46dB(A)。 <div>
 <p>IT之家 5 月 5 日消息，小米米家双出风空调立式&nbsp;3&nbsp;匹目前已经在京东开启预售，这款空调主打“1710 m³/h 风量&nbsp;+ 30%&nbsp;节能率”，<span class="accentTextColor">售&nbsp;5799&nbsp;元</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/5691bbcd-1058-4bf9-8cbc-0fab3ebb05ee.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/5bd0cd2c-a04f-4d61-9a29-267ca7333340.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款空调采用星锻银玻璃面板，配备鲲翼仿生双风口，拥有 1710 m³/h 风量，支持&nbsp;160&nbsp;度超广角环抱送风，可选“天幕风”、“地毯风”两种形式，同时支持四分区独立控风，内置抗菌防霉滤网。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/3bdd482a-e1b0-4f8c-b6b7-ee0fa9c2013b.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/bd957e8d-a48f-4b80-ad10-7c3308b386d3.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/050e52eb-f552-493b-b2ee-3e1046fbf979.png?x-bce-process=image/format,f_auto" /></p><p>详情页面显示，小米米家&nbsp;3&nbsp;匹新风立式空调具有一级能效，IT之家查询发现，该机制冷功率为&nbsp;1930W，制热功率为&nbsp;2680W，室内机噪音（静音&nbsp;/&nbsp;低风）为&nbsp;42-46dB (A)。内机尺寸为宽&nbsp;340mm，高&nbsp;1863mm，深&nbsp;441mm。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/95df7dc1-49b4-4060-8a67-6ef9f7c48743.png?x-bce-process=image/format,f_auto" title="小米家电 5 月上新：米家空调自然风 Pro 今日开售，双出风立式空调 3 匹明日预售" /></p><dir><a contenteditable="false" href="https://u.jd.com/9QgDNvK" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/192102/30/38899/34566/662f81d3Fed3d6d54/abe877391677f795.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米双出风立式空调 3 匹</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">券后 5799 元</span><span class="card-btn-deep">领 200 元券</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 03:24:26 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 03:24:26 GMT</pubDate>
 </item>
 <item>
@@ -860,11 +896,10 @@
 <content:encoded><![CDATA[
 <div> 剑星(Stellar Blade) PS5 ShiftUp SIE 评分高
 
-总结:<br><br>
+总结:<br /><br />
 ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评分最高的游戏。游戏定价568港币起，开发商Shift Up与索尼SIE签订了3年独占合同，合同期满后游戏将登陆PC平台。游戏受到《尼尔：机械纪元》启发，提供半开放世界供玩家探索，游戏内容丰富，主线故事长达25小时，还有可收集的物品和服装。对于难度太大的玩家，游戏提供了辅助功能来降低战斗难度。同时关于备受诟病的“布料问题”也正在商讨中。 <div>
 <p>IT之家 5 月 5 日消息，ARPG 游戏《剑星（Stellar Blade）》于 4 月 26 日发售，这款游戏&nbsp;<a href="https://www.playstation.com/zh-hant-hk/games/stellar-blade/" target="_blank">PSN&nbsp;港服</a>售价&nbsp;568&nbsp;港币（IT之家备注：当前约&nbsp;526&nbsp;元人民币）起，目前游戏在 M 站上均分为 9.3，这也使其打破《最终幻想 7：重生》的&nbsp;9.0&nbsp;分，<span class="accentTextColor">成为 PS5 上迄今为止用户评分最高的游戏</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/06243188-04b6-42d4-8c8a-f33ff1e3e9bf.png?x-bce-process=image/format,f_auto" /></p><p>而根据韩媒&nbsp;GlobalE&nbsp;报道，《剑星》开发商&nbsp;Shift Up 与索尼 SIE&nbsp;签订&nbsp;3&nbsp;年独占合同，<span class="accentTextColor">在合同期满后游戏将登陆 PC 平台</span>。</p><p>外媒同时声称，《剑星》的盈亏平衡点为“全球发行量 500-600 万份”，此外，关于现阶段备受海外玩家诟病的“布料问题”上，开发商 ShiftUp 和索尼 SIE 声称正在商讨中。</p><p>据介绍，本作的制作受到了《尼尔：机械纪元》的启发，《剑星》提供了一个半开放世界舞台供玩家探索，游戏主线故事流程长达&nbsp;25&nbsp;小时，同时还有若干可收集的物品和服装。而对于那些觉得游戏难度太大的玩家，游戏还提供了辅助功能来降低战斗的难度。</p><h3>游戏图赏：</h3><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/9e9e5d75-b3e6-4a4e-aa15-c9b33d798223.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/01b9657a-bef9-477f-bc68-d8a112333e65.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/29894e22-192a-47df-ac6a-ec48ec0f2210.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 03:11:59 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 03:11:59 GMT</pubDate>
 </item>
 <item>
@@ -872,12 +907,11 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/852.htm</link>
 <guid>https://www.ithome.com/0/765/852.htm</guid>
 <content:encoded><![CDATA[
-<div> 北京现代 途胜 L 2024款 新车 动力 环保 <br>
-<br>
+<div> 北京现代 途胜 L 2024款 新车 动力 环保 <br />
+<br />
 总结:北京现代2024款途胜 L将于6月正式上市，提供1.5T汽油发动机和2.0L油电混合动力两种版本可选，外观上有较大变化，内饰换装双12.3英寸一体式屏幕，在参数方面车身尺寸和动力系统与前款基本保持一致。 <div>
 <p>IT之家 5 月 5 日消息，北京现代&nbsp;2024&nbsp;款途胜 L 将于&nbsp;6&nbsp;月正式上市，新车提供 1.5T 汽油发动机和 2.0L 油电混合动力两种版本可选，目前售价暂不得而知，<span class="accentTextColor">作为比较，2023 款途胜 L 售价为 16.18-21.98 万元</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/b6b58a39-4c86-4e77-9564-155a435b9607.png?x-bce-process=image/format,f_auto" /></p><p>外观方面，IT之家注意到新车与&nbsp;2023&nbsp;款差别不大，外部采用全新的前包围设计，配备倒梯形轮廓车头进气格栅，搭载隐藏式日行灯和分体式大灯，使用刀锋轮圈和贯穿式尾灯。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/2834aa72-3fae-4b01-92ad-cf4d40b91a6a.png?x-bce-process=image/format,f_auto" /></p><p>内饰方面，该车换装了双 12.3 英寸一体式屏幕，在不同的驾驶模式下拥有不同的配色和 UI 显示效果，同时内置旋转式电子怀挡和“摩斯密码”车标方向盘。</p><p>参数方面，该车长宽高分别为 4670/1865/1690 毫米，轴距为 2755 毫米，依旧提供汽油和油电混动两种动力系统，其中汽油版车型搭载 1.5T 涡轮增压发动机，最大功率 147 千瓦；油电混动车型搭载 2.0L + 电动机的混动系统，发动机最大功率 110.5 千瓦。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:57:29 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:57:29 GMT</pubDate>
 </item>
 <item>
@@ -885,10 +919,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/851.htm</link>
 <guid>https://www.ithome.com/0/765/851.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，此前在京东上架的惠普星 Book Pro 16 2024 笔记本现已开售，搭载酷睿 Ultra 5 / 7 处理器，售价 5799 元起。</p><p>IT之家汇总价格如下：</p><ul class=" list-paddingleft-2"><li><p>Ultra 5 125H&nbsp;/ 16GB /&nbsp;1TB / 2.5K 120Hz：5799 元</p></li><li><p>Ultra 7 155H / 16GB / 1TB&nbsp;/ 2.5K 120Hz：5999 元</p></li><li><p>Ultra 7 155H / 32GB /&nbsp;1TB&nbsp;/ 2.5K 120Hz：6999 元</p></li><li><p>Ultra 7 155H / RTX 4050 / 32GB /&nbsp;1TB&nbsp;/ 2.5K 120Hz：8999 元</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/578d7133-2261-4c4c-a68e-97c52a4d04ea.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款笔记本标配一块&nbsp;<span class="accentTextColor">16 英寸 2.5K 2560x1600 IPS 屏幕，拥有 400 尼特亮度</span>、覆盖 100% sRGB 色域、低蓝光防频闪，支持在 60Hz / 120Hz 可变刷新率。此外，该产品还配备 500 万像素高清摄像头，支持 IR 人脸识别等。</p><p>性能方面，新款星 Book Pro 16 笔记本电脑搭载酷睿 Ultra 5 125H / Ultra 7 155H 处理器，板载 16GB / 32GB LPDDR5x-7467 内存，预装 1TB PCIe 4.0 固态硬盘，<span class="accentTextColor">可选 RTX 4050 6G 独立显卡，独显版整机性能释放达 80W。</span></p><p><span class="accentTextColor"></span></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/b55838ab-b160-4f9d-af88-6095b2a99e28.png?x-bce-process=image/format,f_auto" /></p><p>该机采用全金属机身以及月光银配色，<span class="accentTextColor">重量 1.899kg、厚度 17.7mm，</span>配备数字小键盘。该机内置 68WHr 电池、支持 100W PD 快充，官方宣称全高清本地视频播放 21.5 小时，MM25 标准续航时间 13 小时。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/15b4804b-0b02-4d2d-b9b3-437297a8ab88.png?x-bce-process=image/format,f_auto" /></p><p>此外，该机还配备雷电 4、全功能 USB-C、USB-A 10Gbps、USB-A 5Gbps、HDMI 2.1 接口各一个。AI 助手惠小微支持 AI 智能人机交互、实时翻译自动记录、免费录屏功能、生态产品快速连接等。</p><dir><a contenteditable="false" href="https://u.jd.com/9bguhKs" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/173593/29/45027/123549/66304f8cF141fc381/5e1ebf18813d0287.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">惠普星 Book Pro 16 2024 笔记本</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 5799 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:52:19 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:52:19 GMT</pubDate>
 </item>
 <item>
@@ -896,10 +928,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/850.htm</link>
 <guid>https://www.ithome.com/0/765/850.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，讯景此前在京东上架一款型号为“RADEON RX 7900 XTX 24GB&nbsp;凤凰涅槃”的神秘显卡（当时没有提供图片），今天官方公布了这款显卡的详情图片，但依然有所遮挡，<span class="accentTextColor">显示这款显卡拥有 3 个风扇</span>，参考商品页面，该显卡首发价为&nbsp;7719&nbsp;元。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/5ac96eb9-c0e3-4fb5-b28d-ac27f6f83d46.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/3e35ce5f-b1ef-4934-8f9b-040901665bc0.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款显卡尺寸为&nbsp;346 x 132 x 68mm，拥有&nbsp;6144&nbsp;个流处理器，核心频率&nbsp;2615MHz，显存位宽&nbsp;384-Bit。</p><p>此外，这款显卡采用“风凛散热架构&nbsp;4.0”，拥有 3 个风扇 + 8&nbsp;根&nbsp;6mm&nbsp;热管，配备&nbsp;3&nbsp;个&nbsp;DP 2.1&nbsp;接口、1&nbsp;个 HDMI 2.1&nbsp;接口。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/32ccf845-5426-4fd0-98e1-eed0d2e1f894.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/b5e5fddf-576c-4edf-a978-cf1f1a4dcf15.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附显卡参数信息如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/c155f46d-1ecc-48ae-8a29-5fbcd269d495.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:45:32 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:45:32 GMT</pubDate>
 </item>
 <item>
@@ -907,10 +937,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/849.htm</link>
 <guid>https://www.ithome.com/0/765/849.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，开放世界生存游戏《夜族崛起（V Rising）》于 2022 年 5 月中旬发布，<a href="https://store.steampowered.com/app/1604030/_/" target="_blank">Steam 国区</a>售 108 元。<span class="accentTextColor">这款游戏将于 5 月 8 日结束早期测试阶段，推出正式版本</span>。</p><p>在正式版推出之前，官方宣布游戏服务器将于 5 月 6 日到 5 月 8 日开启维护，并在重新开启时重置删档。不过官方也表示玩家自己运行的服务器不会受到此次停机的影响，正式版推出后玩家将在《夜族崛起》中迎来新的 BOSS、区域、玩法等新内容。</p><p style="text-align: center;"></p><p>《夜族崛起》是一款包含城堡建造要素的身历其境型吸血鬼动作角色扮演游戏生存游戏，发布后便连续两周拿下 Steam 周销量榜榜首，截至IT之家发稿仍有 88% 的好评，此外，本作此前还确认将于 2024 年内登陆&nbsp;PS5 平台。</p><p>游戏官方介绍：</p><blockquote><p>经过几个世纪的沉睡，你作为一名虚弱的吸血鬼醒来，需要寻找血液以恢复体力，同时躲避烈日以求生存。重建城堡和吸血鬼帝国，将人类变成你忠诚的仆人。</p><p>玩家既可以单人本地探索和打斗，也可在线结交盟友和敌人；穿梭在茂密的森林、开阔的乡村和黑暗的洞穴中，发现宝贵的资源，进攻村落和商队，与朋友一起在这个充满冲突的世界中战斗。</p><p>作为夜族，玩家必须策划在白天和晚上的不同应对策略，学习并掌握一系列致命的武器和能力，将武器与一系列战斗中获得的法术相结合，定制自己的夜族风格，释放自己的力量。</p><p>除此之外，玩家还可以收集资料和远古的技术以获得黑暗力量。利用所学的知识建立城堡，储存战利品，并培养属于自己的氏族势力。</p></blockquote><p>游戏图赏：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/42d33b0d-1ba2-466c-8176-b359f58e9d04.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a092ffbf-54e9-442d-8bca-53e2d7cb03dd.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/3c920ead-1338-46ce-93de-7b8aa6d3257b.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:38:55 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:38:55 GMT</pubDate>
 </item>
 <item>
@@ -918,10 +946,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/847.htm</link>
 <guid>https://www.ithome.com/0/765/847.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据华尔街见闻报道，苹果 iPhone 16 系列所配置的电池，<span class="accentTextColor">外壳将从铝塑膜替换成不锈钢</span>，供应商是中国公司。全钢外壳将采用激光焊工艺，能提升电池使用寿命，主要是增加循环次数。</p><p>IT之家从此前爆料获悉，<span class="accentTextColor">iPhone&nbsp;16 系列机型的电池容量将迎来调整。</span>其中，标准版由上一代的 3349 mAh 增加到 3561 mAh；Plus 版由上一代的 4383 mAh 减低到 4006 mAh；Pro Max 版由上一代的 4422 mAh 增加到 4676 mAh。</p><table class="comparison"><tbody><tr class="firstRow"><th>&nbsp;机型</th><th>iPhone&nbsp;15 系列</th><th>iPhone 16&nbsp;系列</th><th>变化<br /></th></tr><tr><th>标准版</th><td>3,349 mAh</td><td>3,561 mAh</td><td>+6%</td></tr><tr><th>Plus</th><td>4,383 mAh</td><td>4,006 mAh</td><td>-9%</td></tr><tr><th>Pro Max</th><td>4,422 mAh</td><td>4,676 mAh</td><td>+5%<br /><br /></td></tr></tbody></table><p>目前，尚不清楚电池容量的变化是否与电池外壳的改变有关。</p><p>根据此前曝光的机模照片，苹果 iPhone 16 和 16 Plus 将配备两个垂直排列的摄像头，而&nbsp;iPhone 16 Pro&nbsp;和 Pro Max 将保留三摄像头设置，与之前的型号类似。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/b5282009-3e0e-4342-a84d-abf349b25b84.jpg?x-bce-process=image/format,f_auto" title="苹果 iPhone 16 / Pro 系列机模再曝光，MagSafe 环变薄" /></p><p>新一代 iPhone16 Pro 系列尺寸也将迎来改变：</p><ul class=" list-paddingleft-2"><li><p>iPhone 15 Pro：6.12 英寸</p></li><li><p>iPhone 15 Pro Max：6.69 英寸</p></li><li><p>iPhone 16 Pro：6.27 英寸</p></li><li><p>iPhone 16 Pro Max：6.86 英寸</p></li></ul>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:09:08 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:09:08 GMT</pubDate>
 </item>
 <item>
@@ -929,10 +955,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/846.htm</link>
 <guid>https://www.ithome.com/0/765/846.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，《奥日》系列开发商&nbsp;Moon Studios&nbsp;的动作&nbsp;RPG&nbsp;新作《恶意不息（No Rest for the Wicked）》已于&nbsp;4&nbsp;月&nbsp;19&nbsp;日在&nbsp;<a href="https://store.steampowered.com/app/1371980/_/" target="_blank">Steam&nbsp;平台</a>开启抢先体验，国区售&nbsp;139&nbsp;元。</p><p style="text-align: center;"><img alt="《恶意不息》游戏标志" src="https://img.ithome.com/newsuploadfiles/2024/4/abd55c06-4a29-457f-9e3c-58c5370954e2.png?x-bce-process=image/format,f_auto" /></p><p>目前本作迎来首个补丁，获得了重大性能更新，降低了 PC 配置需求，目前需 GTX970 / RX Vega 56&nbsp;起步，IT之家整理现配置需求如下：</p><h3>最低要求（1080P / 30FPS）</h3><ul class=" list-paddingleft-2"><li><p><span class="accentTextColor">CPU</span>：英特尔酷睿&nbsp;i5 8400 或&nbsp;AMD 锐龙 5 2600</p></li><li><p><span class="accentTextColor">RAM</span>：16GB</p></li><li><p><span class="accentTextColor">显卡</span>：英伟达&nbsp;GTX970 或 AMD RX Vega 56</p></li></ul><h3>推荐要求（1080P / 60FPS）</h3><ul class=" list-paddingleft-2"><li><p><span class="accentTextColor">CPU</span>：英特尔酷睿&nbsp;i7 11700K 或&nbsp;AMD&nbsp;锐龙 7 5800X</p></li><li><p><span class="accentTextColor">RAM</span>：16GB</p></li><li><p><span class="accentTextColor">显卡</span>：英伟达&nbsp;RTX 2060 或 AMD RX 5600 XT</p></li></ul><p>此外，相关补丁还进行了一系列性能改进，IT之家整理如下：</p><ul class=" list-paddingleft-2"><li><p>优化了序幕外景、飞船攻击、法伦舰队和圣礼介绍动画</p></li><li><p>山口之门区域优化</p></li><li><p>对内容加载和卸载进行了重大优化，以减少掉帧并提高穿越环境时的基准性能</p></li><li><p>提高了冰霜魔法和战斗特效的性能</p></li><li><p>优化了敌人，使其更快地全面实例化</p></li><li><p>改进了 GPU 可见度剔除和屏幕外内容的一般处理方法</p></li><li><p>优化了整个游戏中的微物理对象</p></li><li><p>对 CPU 性能基准进行了多项累积改进</p></li><li><p>修复了各种内部错误快速、持续触发，导致潜在性能下降的情况</p></li><li><p>为常用对象添加了预加载功能，以进一步减少游戏过程中的性能下降</p></li><li><p>为提高流媒体性能增加了时间切分系统</p></li><li><p>优化了池系统，以进一步降低性能峰值</p></li><li><p>优化了大量网格和纹理</p></li><li><p>优化了大量视觉效果</p></li><li><p>优化了预先放置的动态敌人布偶</p></li><li><p>全面优化了角色渲染方式</p></li><li><p>优化渲染性能，全面提升 GPU 性能</p></li><li><p>清理并归档了重复内容，以减少内存使用量</p></li><li><p>清理了游戏中所有区域的遗留内容，以减少内存使用量</p></li></ul><p>据介绍，<span class="accentTextColor">《恶意不息》是一款俯视角动作角色扮演游戏</span>，支持玩家自定义形象，可搭配不同品质的装备，提供弱职业系统，玩家可以自由选择发展方向；游戏在战斗方面难度较高，需要把握好出手的时机、距离等。</p><p><span class="accentTextColor"></span></p><p style="text-align: center;"><img alt="预告游戏画面" src="https://img.ithome.com/newsuploadfiles/2024/4/03f2ae4f-52f2-4fb6-9299-45895274248a.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img alt="预告游戏画面" src="https://img.ithome.com/newsuploadfiles/2024/4/c54b6ccf-64ed-48c2-8a3e-f8c30834b5f9.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">官方还特别提到，<span class="accentTextColor">《恶意不息》打造了一个完全无缝衔接的世界</span>，地图也是由开发者亲自制作的，没有程序随机生成部分，不过奖励内容采用随机生成，确保每个玩家都有不同的体验。</p><p style="text-align: center;"><img alt="预告游戏画面" src="https://img.ithome.com/newsuploadfiles/2024/4/0367f364-4a68-426a-80cf-0e36e3c36cdf.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 02:04:24 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 02:04:24 GMT</pubDate>
 </item>
 <item>
@@ -940,10 +964,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/845.htm</link>
 <guid>https://www.ithome.com/0/765/845.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，索尼&nbsp;SIE&nbsp;日前宣布《绝地潜兵&nbsp;2（地狱潜者&nbsp;2）》PC&nbsp;版&nbsp;5&nbsp;月&nbsp;30&nbsp;日起需要强制绑定&nbsp;PSN&nbsp;账号才能游玩，这一消息引起了许多 PC&nbsp;玩家的不满，<span class="accentTextColor">游戏两天内增长了 10.8 万条差评，而目前V社客服目前已开始为相关政策不满的 Steam 玩家进行特殊退款</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1241dde5-a345-4184-bab7-39b1092a2137.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a54fa24c-a89a-4c4e-af66-27c8a01cea41.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家参考 Reddit 相关贴文，有玩家在游玩超百小时后仍然被批准了退款，据称只要在退款时标明退款理由为“不满绑定&nbsp;PSN&nbsp;账号政策”，就有可能通过退款审批。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/2c2da05d-8347-4b38-b6e4-4f49c8366ea2.jpg?x-bce-process=image/format,f_auto" /></p><p>除了《绝地潜兵&nbsp;2》外，近日即将在&nbsp;PC&nbsp;平台发布的大作《对马岛之魂》也对在线条款进行更新，宣布玩家需要绑定&nbsp;PSN&nbsp;账号后才能游玩在线多人模式，不过单人模式无需绑定&nbsp;PSN&nbsp;账号。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/765/751.htm" target="_blank">PC 版〈对马岛之魂〉多人模式需绑定 PSN 账号，单人游戏无需</a>》</p><p>《<a href="https://www.ithome.com/0/765/810.htm" target="_blank">12 万条“多半差评”，PC 版〈绝地潜兵 2〉游戏遭玩家吐槽，开发商 CEO 致歉</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:57:49 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:57:49 GMT</pubDate>
 </item>
 <item>
@@ -951,10 +973,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/844.htm</link>
 <guid>https://www.ithome.com/0/765/844.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，日前，国家出台《汽车以旧换新补贴实施细则》，对报废燃油或新能源乘用车并购买新能源乘用车新车的用户，<span class="accentTextColor">一次性给予 10000 元置换补贴</span>。</p><p>继比亚迪王朝推出至高 8000 元置换补贴后，海洋网也宣布推出至高 10000 元置换补贴，同样可叠加 10000 元国家以旧换新补贴使用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/95a69836-bc56-4ea2-8dde-20c4a8ea9427.png?x-bce-process=image/format,f_auto" /></p><p>具体到各个车型，<span class="accentTextColor">本品牌车型置换可享受的补贴为：</span>宋 PLUS 荣耀版（含 DM-i 和 EV）5000 元、海豹 DM-i 荣耀版和海豹荣耀版至高 8000 元、海豚荣耀版及驱逐舰 05 荣耀版 (仅限 120KM 版本) 4000 元，护卫舰 07 荣耀版 10000 元。</p><p><span class="accentTextColor">其他品牌车型置换可享受的补贴为：</span>宋 PLUS 荣耀版（含 DM-i 和 EV）4000 元、海豹 DM-i 荣耀版和海豹荣耀版至高 7000 元、海豚荣耀版及驱逐舰 05 荣耀版 (仅限 120KM 版本) 2000 元，护卫舰 07 荣耀版 9000 元。</p><p><span class="accentTextColor">IT之家附详情表：</span></p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2024/5/9dfa7f79-f509-4f6b-98c1-544bfc2b1aa8.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: start;">此外，比亚迪海洋网还推出了“0 首付 0 利息”的二选一优惠政策。凡购车用户，均可以享受“0 首付”—— 最低 0 首付，12-60 个月任意贷期。或“0 利息”——5 成起首付，最高 36 期 0 息，进一步降低购车门槛。</p><p style="text-align: start;"><span class="accentTextColor">相关阅读：</span></p><p style="text-align: start;">《<a href="https://www.ithome.com/0/765/637.htm" target="_blank">比亚迪王朝推出至高 8000 元置换补贴，可叠加 1 万元国家补贴</a>》</p><p style="text-align: start;">《<a href="https://www.ithome.com/0/764/477.htm" target="_blank">7 部门：报废旧车并购买新能源乘用车最高补贴 1 万元</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:51:02 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:51:02 GMT</pubDate>
 </item>
 <item>
@@ -962,10 +982,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/843.htm</link>
 <guid>https://www.ithome.com/0/765/843.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，HKC G24H2 显示器目前已经在京东开售，这款 23.8 英寸显示器主打“2K 180Hz”，<span class="accentTextColor">首发价为&nbsp;899&nbsp;元（目前商品页显示为无货状态，需等待明日 0 点补货）</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/8fbc6155-1cbe-4ff9-a4a1-7d13c03d38fa.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/af1042a3-46d9-4fc7-9dc6-73a78b9b7844.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款显示器配备&nbsp;2560x1440&nbsp;分辨率&nbsp;180Hz Fast-IPS&nbsp;屏幕，响应速度&nbsp;1ms，支持&nbsp;HDR400，静态对比&nbsp;100:1，覆盖&nbsp;95% DCI-PE3、130% SRGB、100% Adobe RGB&nbsp;色域。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/2545150a-67c9-40dc-80af-7700fe994a50.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/2d870e59-b4f9-4e3d-baef-d5b9aa201c70.png?x-bce-process=image/format,f_auto" /></p><p>此外，这款显示器支架支持升降 / 俯仰 / 倾斜，显示器本体支持 VESA 壁挂，配备&nbsp;2&nbsp;个 HDMI 2.0 接口、1 个 DP1.4 接口、1 个 3.5mm 音频接口。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/9718f35d-905e-4baf-8088-0e5505dac60e.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附显示器参数信息如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/9b550be0-a005-4e9b-99b8-72e00d13ae03.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/9q1fbRB" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/216713/20/40487/186226/662a1f18F9bcfd762/0cebb7168f5ca73a.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> HKC G24H2 显示器</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 899 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:47:58 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:47:58 GMT</pubDate>
 </item>
 <item>
@@ -973,10 +991,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/842.htm</link>
 <guid>https://www.ithome.com/0/765/842.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，vivo&nbsp;即将在五一假期之后发布&nbsp;X100 Ultra&nbsp;手机，该机搭载&nbsp;2&nbsp;亿像素蔡司 APO 超级长焦，<span class="accentTextColor">号称为“1/1.4"&nbsp;行业最大底长焦”</span>，拥有&nbsp;f / 2.67&nbsp;光圈，物理焦距&nbsp;22.48mm，高像素模式可以输出&nbsp;12888 x 16320&nbsp;分辨率。</p><p>今天&nbsp;vivo&nbsp;品牌副总裁贾净东发布微博，声称这款手机的长焦能够“原汁原味输出 2 亿像素，”完全保留传感器的原始分辨率和所有细节，号称拥有“行业唯一可直接输出人像广告海报功能”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/4c795d87-b50a-4d4f-8c3e-d60e4e8a26e8.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/6fb11b1f-325b-49a8-8fca-5eb45c6069b9.jpg?x-bce-process=image/format,f_auto" /></p><p>此外，该机主摄搭载 5000 万像素的 LYT-900 主摄，同时支持 CIPA 4.5 级云台防抖，号称能够“完美解决演唱会的人影移动的失焦”，同时支持“肖全”黑白模式和“Alex Webb”色彩模式，主打“高速运动”、“暗光人像”、“极地星空”、“极限微距”、“长焦悬日”，“长焦舞台”特性。</p><p>官方同时展示了这款手机的更多样张（包含长焦 / 主摄 / 超广角），IT之家转载如下：</p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/ff43716e-8261-4de1-97ea-1786399f913c.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/ff43716e-8261-4de1-97ea-1786399f913c.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/908e8940-2b9b-4ceb-bc7c-d293d6301e64.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/908e8940-2b9b-4ceb-bc7c-d293d6301e64.jpg?x-bce-process=image/resize,w_4096,h_3512/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/1bd885fa-1a01-4ef1-8084-9c8d27d4b929.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/1bd885fa-1a01-4ef1-8084-9c8d27d4b929.jpg?x-bce-process=image/resize,w_4096,h_3512/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/9044ce7c-925e-4ac3-8bbd-187c6250e537.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/9044ce7c-925e-4ac3-8bbd-187c6250e537.jpg?x-bce-process=image/resize,w_4096,h_3512/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/ac82b822-1952-4e48-899f-e58ff02c4368.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/ac82b822-1952-4e48-899f-e58ff02c4368.jpg?x-bce-process=image/resize,w_4080,h_3508/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/4c51187c-76fb-4f84-b2f1-c8280c36fcec.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/4c51187c-76fb-4f84-b2f1-c8280c36fcec.jpg?x-bce-process=image/resize,w_4080,h_3508/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/f573fb8c-f53e-4603-af01-4bdd1b8df7f5.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/f573fb8c-f53e-4603-af01-4bdd1b8df7f5.jpg?x-bce-process=image/resize,w_4080,h_3508/format,f_auto" /></a></p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2024/5/6af19c85-6301-472a-8ce2-8bcda2de3bc3.jpg" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/6af19c85-6301-472a-8ce2-8bcda2de3bc3.jpg?x-bce-process=image/resize,w_4080,h_3508/format,f_auto" /></a></p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/765/769.htm" target="_blank">消息称 vivo X100 Ultra 手机搭载 2 亿像素 1/1.4 英寸“行业最大底长焦”</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:40:21 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:40:21 GMT</pubDate>
 </item>
 <item>
@@ -984,10 +1000,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/841.htm</link>
 <guid>https://www.ithome.com/0/765/841.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，日前，坦克品牌执行副总经理谷玉坤发文称，有用户希望推出坦克 300 柴油版及坦克 400 汽油版车型，坦克品牌有望以共创形式推动这一计划。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/a1efff8d-5efd-468b-a403-b69ae56d1a8d.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyMC5wbmc=,t_100,g_3,y_12,x_12,a_0/format,f_auto" /></p><p>IT之家查询得知，目前坦克 300 有汽油版、轻混版、插混版等动力版本在售，售价区间为 19.98 万-33 万元；坦克 400 仅提供 Hi4-T 车型（插混系统），2024 款城市版零售价 28.98 万元，2024 款越野版零售价 28.58 万元。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/b811b2fc-b437-428d-9ccd-848a88ddc445.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲&nbsp;坦克 300</figcaption><p>作为参考，坦克 300 汽油版车身尺寸为 4760*1930*1903mm，轴距为 2850mm，<span class="accentTextColor">搭载 2.0T 涡轮增压发动机，匹配 8AT 自动变速箱。</span>座舱方面，该车配备 12.3 英寸全液晶仪表盘、12.3 英寸中控彩色液晶屏、车机手机互联、语音识别系统、前排手机无线充电（最大功率 50W）等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/6503ea3b-bf53-49d5-93eb-73cdbc227e48.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲&nbsp;坦克 400 Hi4-T</figcaption><p>坦克 400 Hi4-T 车型车身尺寸为 4985*1960*1900mm，轴距为 2850mm，<span class="accentTextColor">搭载由 2.0 发动机以及电机组成的插电式混合系统</span>，综合功率 300kW，综合扭矩 750 N・m。该车配备 W-HUD 抬头显示、12.3 英寸全液晶仪表盘、16.2 英寸中控彩色液晶屏、流媒体后视镜、车联网、540° 全景影像等配置。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:37:27 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:37:27 GMT</pubDate>
 </item>
 <item>
@@ -995,10 +1009,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/840.htm</link>
 <guid>https://www.ithome.com/0/765/840.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，HMD Global&nbsp;近来推出了多款硬件层面比较“阳春”的智能手机，不过该公司承诺将为这些手机提供至少两年操作系统更新和三年月度安全补丁更新。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/1fb3e4a6-a870-4084-b5ac-38fbe5766cc5.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2023/5/95cba4bf-e9af-4ba4-b5a3-b844509f457d.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，HMD Global&nbsp;近日在新官网（<span class="link-text-start-with-http">hmd.com</span>）中上线了自有品牌及“诺基亚”智能手机<a href="https://www.hmd.com/en_int/security-updates" target="_blank">安卓系统更新路线图页面</a>，<span class="accentTextColor">其中包含了最新发布的&nbsp;HMD Pulse&nbsp;及诺基亚&nbsp;XR20 / XR21&nbsp;等设备</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/5e43935d-c2cc-4d17-b2ab-5ca58c652ccf.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzkwLnBuZw==,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>参考诺基亚 XR21 手机，这款手机在上月&nbsp;3&nbsp;日获推了例行安全更新；而诺基亚&nbsp;T21&nbsp;平板在上月&nbsp;24&nbsp;日获推了安全更新。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/f003bfd6-0e21-4531-ae84-c630c6365da9.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/9efdcdf4-cbfe-4636-9fe0-5373925d0aa8.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>此外，HMD&nbsp;提到用户还可订阅&nbsp;HMD Global&nbsp;提供的“循环订阅服务”，这是一种“使用精选诺基亚手机和平板电脑的新方式”。HMD Global&nbsp;将提供一系列环保奖励，用户可以更长时间地使用他们的设备。如果用户碰巧损坏或丢失了设备，HMD Global&nbsp;将迅速提供更换设备，而无需支付任何额外的每月费用。</p><h3>相关阅读：</h3><ul class=" list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/764/156.htm" target="_blank">HMD 发布 Pulse 系列手机，主打“Gen 1 可维修设计”</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/765/730.htm" target="_blank">HMD Rocky 4G 手机规格曝光：5000 毫安时电池、后置三摄</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/764/613.htm" target="_blank">HMD Vibe 手机规格曝光：高通骁龙 680 + 6GB + 128GB 售 149 美元</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/764/577.htm" target="_blank">HMD Global 新机 TA-1592 亮相，为诺基亚 XR21 手机“换标”版本</a>》</p></li></ul>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:28:42 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:28:42 GMT</pubDate>
 </item>
 <item>
@@ -1006,10 +1018,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/839.htm</link>
 <guid>https://www.ithome.com/0/765/839.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据IT之家小伙伴投稿，小米近日为 Redmi K40 手机推送小米 HyperOS 正式版更新，<span class="accentTextColor">该更新包版本依然为 <span class="link-text-start-with-http">1.0.3.0.TKHCNXM</span>，体积为 1.5GB</span>。</p><p>需要注意的是，参考此前内测版本，<span class="accentTextColor">Redmi K40 标准版和 K40 游戏增强版手机所推送的澎湃 HyperOS 基于安卓 13&nbsp;操作系统</span>，K40 系列其他手机均推送了基于安卓 14&nbsp;操作系统的 HyperOS。</p><p style="text-align: center;"><img class="ant-image-preview-img no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/68118bf0-c6b6-42fd-b532-f8abf1ec5b92.png?x-bce-process=image/format,f_auto" /></p><p>IT之家整理主要更新内容如下：</p><p><span class="accentTextColor">Xiaomi HyperOS</span></p><ul class=" list-paddingleft-2"><li><p>小米澎湃 OS 打造“人车家全生态”操作系统。</p></li></ul><p>系统</p><ul class=" list-paddingleft-2"><li><p>更新谷歌 2024 年 1 月安全补丁</p></li></ul><p><span class="accentTextColor">底层重构</span></p><ul class=" list-paddingleft-2"><li><p>小米澎湃 OS 底层重构，发挥卓越的硬件性能关键；</p></li><li><p>关键任务识别染色技术，根据任务重要程度动态管控资源分配，更强性能更低功耗；</p></li><li><p>超低功耗渲染框架，提升续航能力并提供更流畅的动画效果；</p></li><li><p>SOC 一体化调频，串联整机硬件资源，更快响应算力需求变化，丢帧更少更流畅；</p></li><li><p>智慧 IO 引擎，焦点 IO 优先执行，避免抢占更流畅；</p></li><li><p>焕新存储技术，减少存储碎片化，让您久用如新；</p></li><li><p>智能选网能力升级，弱网环境网络更流畅；</p></li><li><p>信号智选引擎，动态调整天线策略，提升信号稳定性。</p></li></ul><p><span class="accentTextColor">跨端智联</span></p><ul class=" list-paddingleft-2"><li><p>Xiaomi HyperConnect 跨端互联框架，让设备高效连接，极致协同；</p></li><li><p>全新融合设备中心，所有设备动态实时组网，在控制中心即可查看并操控周围设备；</p></li><li><p>跨设备体验全面升级，支持跨设备调用摄像头、屏幕、通信等多种硬件能力；</p></li><li><p>应用、音视频、剪贴板等数据和服务，支持在多设备间自由流转。</p></li></ul><p><span class="accentTextColor">全域安全</span></p><ul class=" list-paddingleft-2"><li><p>面向设备互联的安全隐私架构；</p></li><li><p>设备间通过 TEE 相互校验安全，数据传输硬件级加密；</p></li><li><p>跨端隐私体系，包含互联权限管理、互联行为提醒和互联行为记录。</p></li></ul><p><span class="accentTextColor">生命感美学</span></p><ul class=" list-paddingleft-2"><li><p>面向全球化的生命感美学，营造出细腻舒适的视觉和轻盈连贯的动效，多元融合的表达式带来全新的系统美学体验；</p></li><li><p>全新动效语言，带来轻盈连贯的全局动效体验；</p></li><li><p>生命力色彩系统，富有生命气息的自然色，让界面焕然一新；</p></li><li><p>统一的系统字体，为全球而设计；</p></li><li><p>全新天气设计，实时气象引擎创造超现实的视觉体验；</p></li><li><p>全局焦点通知体系，动态展示关键信息变化；</p></li><li><p>全新艺术锁屏，让你的每张照片都变成海报，更有动态玻璃材质，亮屏瞬间精美绝伦；</p></li><li><p>桌面图标设计升级，色彩造型全面焕新；</p></li><li><p>自研多重渲染技术，呈现细腻舒适的自然视效；</p></li><li><p>重构多任务窗口管理，统一交互，高效易用。</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2021/2/20210226_094445_375.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源 IT之家图赏：小米 Redmi K40 Pro 手机</figcaption><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/536/909.htm" target="_blank">【IT之家开箱】Redmi K40 Pro 图赏：幻境之通透、质感之轻盈</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:18:49 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:18:49 GMT</pubDate>
 </item>
 <item>
@@ -1017,10 +1027,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/838.htm</link>
 <guid>https://www.ithome.com/0/765/838.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，五一假期迎来第五天，旅客出行需求旺盛，我国铁路客流迎来返程高峰。</p><p>据央视新闻报道，国铁集团宣布 5 月 3 日全国铁路发送旅客 1675.4 万人次，5 月 4 日全国铁路发送旅客 1781 万人次，<span class="accentTextColor">预计今天（5 月&nbsp;5&nbsp;日）发送旅客 1865 万人次、增开旅客列车 1710 列</span>。</p><p>据悉，北京、上海、广州、成都、杭州、武汉、深圳、西安、南京、郑州等热点旅游城市和北京至上海、西安至成都、广州至南宁、北京至呼和浩特、北京至沈阳、长沙至武汉等热门区间客流相对集中。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/70b64844-dae0-42ff-9355-4a3d2c432f20.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzIyMi5wbmc=,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>各地铁路部门正利用铁路 12306 售票大数据，密切关注客流变化情况，动态调整列车开行方案，通过增开临时旅客列车、动车组列车重联运行、普速列车加挂车厢等措施，增加热门方向运能，最大限度满足旅客返程需求，IT之家整理各铁路部门公布的加开列车信息如下：</p><ul class=" list-paddingleft-2"><li><p>沈阳局集团公司加开临时旅客列车 94 列，安排动车组重联 79 列。</p></li><li><p>北京局集团公司增开上海、天津、石家庄等方向旅客列车 172 列，在北京南站增设应急通信车，提升站内信号质量，保障客流高峰时通信畅通。</p></li><li><p>郑州局集团公司加开郑州、洛阳、南阳等热门旅游城市间高铁列车 25 列、普速列车 8 列，对上海、杭州、青岛等热门方向 13 列动车组列车重联运行。</p></li><li><p>武汉局集团公司在汉宜铁路、汉十高铁等旅游热门线路加开旅客列车 54 列。</p></li><li><p>西安局集团公司加开西安至成都、太原、宝鸡、彬州、汉中等热门方向旅客列车 116 列。</p></li><li><p>上海局集团公司加开旅客列车 164 列。</p></li><li><p>南昌局集团公司增开南昌至杭州、福州至福鼎、厦门至三明等方向旅客列车 194 列。</p></li><li><p>广州局集团公司加开旅客列车 239 列。</p></li><li><p>南宁局集团公司往客流集中的南宁至广州、桂林、百色等方向加开旅客列车 25 列。</p></li><li><p>成都局集团公司加开旅客列车 244 列，其中在成都天府机场站加开旅客列车 36 列。</p></li><li><p>乌鲁木齐局集团公司加开乌鲁木齐至伊宁、博乐、库尔勒等热门方向旅客列车 36 列。</p></li></ul>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:09:20 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:09:20 GMT</pubDate>
 </item>
 <item>
@@ -1028,10 +1036,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/837.htm</link>
 <guid>https://www.ithome.com/0/765/837.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据安全公司&nbsp;JFrog&nbsp;报告，该公司近日对 Docker Hub 平台进行调查，发现该平台提供的存储库已经遭到黑客滥用，<span class="accentTextColor">据称超过&nbsp;20%&nbsp;的存储库已经被黑客用于散布恶意木马或是架设钓鱼网站</span>。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/d056ef6d-3129-4da1-97e3-0a5fe2c2428e.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家获悉，<span class="accentTextColor">目前 Docker Hub 平台上至少有&nbsp;281 万个存储库遭到黑客滥用，平均每 6 个 Docker Hub 存储库就有 1 个被用于恶意行为</span>。黑客通常先在库中上传带有恶意文件，之后在受害者的系统中植入木马，再通过木马拉取调用相关库文件以便进行攻击。</p><p>据悉，这些遭到黑客滥用的 Docker Hub 存储库大致被黑客用于两种类型的攻击，第一种是提供木马 / 内含木马的恶意软件（共计 1453228 个），一旦不知情的用户按照黑客指示下载安装相关软件，电脑就会被部署恶意木马；第二种是用于架设网络钓鱼网站（共计 1069160 个），黑客声称提供一系列“免费资源”，如果用户依中计访问，便会在不经意间被跳转到一系列钓鱼网页，此后“自愿输入自己的账号密码信息”。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 01:00:46 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 01:00:46 GMT</pubDate>
 </item>
 <item>
@@ -1039,10 +1045,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/836.htm</link>
 <guid>https://www.ithome.com/0/765/836.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，乘联会秘书长崔东树日前发文称，2024 年 3 月中国自主车企在海外部分地区销量初步统计达到 19 万，同比增长 38%，环比增 34%；2024 年 1-3 月中国海外市场自主品牌销量 47 万台，同比增长 40%。</p><p style="text-align: center;"><img alt="图片" class="rich_pages wxw-img" src="https://img.ithome.com/newsuploadfiles/2024/5/0708414c-ddf6-415d-88ab-f56d25f1d862.png?x-bce-process=image/format,f_auto" /></p><figcaption></figcaption><figcaption></figcaption><figcaption>图源崔东树公众号，下同</figcaption><p>崔东树分析称，从中国汽车的海外出口零售数据看，月度走势相对平稳，近期呈现较好的增长态势，尤其去年 12 月份达到 19 万台的较高水平，仍相对呈现较强增长的态势。<span class="accentTextColor">目前 3 月的个别地区数据还不完整，但已经接近历史峰值，因此有待进一步修正</span>。</p><p><strong>IT之家附中国车企的 2024 年海外销量 TOP5（截至 3 月）：</strong></p><ul class=" list-paddingleft-2"><li><p>上汽集团 126053</p></li><li><p>奇瑞集团 117719</p></li><li><p>长城汽车 77935</p></li><li><p>比亚迪 51138</p></li><li><p>吉利集团 46752</p></li></ul><p style="text-align: center;"><strong><img alt="图片" class="rich_pages wxw-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a2ab3c77-d823-435c-a399-1324c8e92cf3.png?x-bce-process=image/format,f_auto" /></strong></p><p><strong>海外部分自主新能源零售（截至 3 月）：</strong></p><ul class=" list-paddingleft-2"><li><p>比亚迪 47238</p></li><li><p>上汽集团 31018</p></li><li><p>吉利汽车 13384</p></li><li><p>长城汽车 5177</p></li><li><p>合众新能源 2927</p></li></ul><p style="text-align: center;"><strong><img alt="图片" class="rich_pages wxw-img" src="https://img.ithome.com/newsuploadfiles/2024/5/05e8e061-e8c5-43ff-87f0-7d4b31bf19e1.png?x-bce-process=image/format,f_auto" /></strong></p><p style="text-align: center;"><strong><br /></strong></p><p><span class="referenceTitle">参考</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://mp.weixin.qq.com/s/v3pyTVvIHCfA0BD-DQ1-AA" target="_blank">2024 年中国汽车出口海外部分数据跟踪-3 月</a></p></li></ul>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:57:17 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:57:17 GMT</pubDate>
 </item>
 <item>
@@ -1050,10 +1054,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/835.htm</link>
 <guid>https://www.ithome.com/0/765/835.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，长城坦克 300Hi4-T 车型已于 4 月 22 日正式上市，该车仅推出 1 个配置，官方指导价为 26.98 万元，据懂车帝报道，<span class="accentTextColor">该车型目前已陆续发往全国各地，即将于近日开启交付</span>。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/3153a263-b1d7-4c22-bf1e-7e9e3262b76e.jpg?x-bce-process=image/format,f_auto" title="长城坦克 300 Hi4-T 车型官图公布，明日带来更多消息" /></p><p style="text-align: left;">外观方面，IT之家注意到该车搭载非承载式车身专业越野底盘，车头配有标志性圆形灯组和三幅样式横向前格栅，采用银色镀铬前格栅，配有车身同色轮眉和外后视镜壳。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/99895daa-a248-4459-af4d-1f437e803939.png?x-bce-process=image/format,f_auto" /></p><p>座舱方面，该车搭载 L2 + 级智能驾驶辅助系统，配备 12.3 英寸全液晶仪表盘和中控屏，提供 540 度全景影像、燕飞利仕音响、50W 无线充电面板、前排座椅加热、座椅通风等配置。</p><p><span class="accentTextColor">参数方面，该车长宽高分别为 4760/1930/1903mm，轴距 2750mm，</span>搭载由 2.0T 发动机和 P2 电机组成的插电混动系统，其中 2.0T 发动机最大功率 185 千瓦，系统综合功率 300 千瓦，综合扭矩 750 牛・米，传动系统匹配 9HAT 混动专用变速箱；同时搭载容量为 37.11 千瓦时的三元锂电池组，WLTC 纯电续航里程 105 公里。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/e66d5d99-5cbd-4906-9d0f-94506139ce30.jpg?x-bce-process=image/format,f_auto" title="长城坦克 300 Hi4-T 车型官图公布，明日带来更多消息" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:42:47 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:42:47 GMT</pubDate>
 </item>
 <item>
@@ -1061,10 +1063,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/834.htm</link>
 <guid>https://www.ithome.com/0/765/834.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，特斯拉 CEO 马斯克今日再次发文称：“标准的特斯拉 Model Y 现在有 320 英里（约 515 公里）的续航里程！虽然它是后轮驱动的，但特斯拉电动马达搭配全季轮胎，让它在冰雪上仍然有很大的牵引力”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/cb352ad2-044d-4145-85b4-d1b6a3280514.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMS5wbmc=,t_100,g_3,y_10,x_10,a_0/format,f_auto" /></p><p>此前马斯克发帖称：“过去几个月生产的 260 英里（418 公里）续航里程的 Model Y 实际上有更多的续航里程，可以花 1500 到 2000 美元便可增加里程（<span class="accentTextColor">增加 40 到 60 英里的续航</span>），具体取决于你使用的电池。正争取监管批准来实现这一点。”</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/3916c76f-f8a1-40df-ad01-41699d4af750.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/ef1d4c41-6b0c-453b-87e0-4d3e7eb56c1f.png?x-bce-process=image/format,f_auto" /></p><p>IT之家查询发现，增加续航后的新车型已经上架特斯拉美国官网并<span class="accentTextColor">命名为 Model Y 长续航后轮驱动版</span>，售价 44990 美元（当前约 32.5 万元人民币）。而原有的标准版后驱车型已经下架，其售价为 42990 美元（当前约 31 万元人民币）。</p><p>Model Y 长续航后轮驱动版搭配 19 英寸双子座轮毂续航里程达到 320 英里（IT之家备注：约 514.99 公里），20 英寸轮毂版续航里程 295 英里（约 474.76 公里）。作为对比，原有的标准版 Model Y 续航里程分别为 260 英里（约 418.43 公里）和 242 英里（约 389.46 公里）。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:35:43 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:35:43 GMT</pubDate>
 </item>
 <item>
@@ -1072,10 +1072,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/833.htm</link>
 <guid>https://www.ithome.com/0/765/833.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，长安汽车旗下深蓝汽车首款中大型&nbsp;SUV&nbsp;G318&nbsp;车型于 3 月发布，<span class="accentTextColor">该车计划将于 5 月下旬开启预售，6 月份开启交付，售价有望在 30 万元左右</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/3/20506fc3-ab4d-48b7-ae68-5d418a62cd4e.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，该车整体采用硬朗风格，车顶采用行李架与车顶射灯一体化设计，拥有许多原厂拓展部件，比如粗壮的车顶行李架、车顶射灯、电动踏板等，<span class="accentTextColor">号称“静态下载重 300KG，动态载重可达 80KG”</span>，同时配有侧开尾门和“小书包”外挂备胎。</p><p style="text-align: center;"><img alt="长安深蓝 G318 官方照" id="image-viewer" src="https://img.ithome.com/newsuploadfiles/2024/3/05925434-5b1d-486d-a331-70dcfefe9d31.jpg?x-bce-process=image/format,f_auto" /></p><p>座舱方面，<span class="accentTextColor">该车配备&nbsp;12.3&nbsp;英寸仪表屏 + 14.6 英寸中控屏设计</span>，电子挡杆采用了飞船推拉杆的设计；同时支持“ET 全地形模式”，包括 5 种日常模式（经济 \ 舒适 \ 运动 \ 专属 \ 自定义）和 5 种地形模式（雪地 \ 泥地 \ 沙地 \ 崎岖 \ 涉水）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/3/815a56e6-ceb5-4ba5-a9f0-400ab867e187.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/3/ca724d35-ff00-421a-b39f-8b3f151e5b04.png?x-bce-process=image/format,f_auto" /></p><p>参数方面，该车长&nbsp;4915/4998mm、&nbsp;宽&nbsp;1985mm、&nbsp;高&nbsp;1885/1960mm，轴距&nbsp;2880mm，整备质量&nbsp;2360kg；该车搭载新蓝鲸 1.5T 增程动力系统，1.5T&nbsp;发动机功率&nbsp;105kW；四驱车型配备前后双电机，双电机峰值功率分别为&nbsp;131kW&nbsp;与&nbsp;185kW，总功率&nbsp;316kW，采用中创新航供应的磷酸铁锂电池，允许外接充电。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:35:27 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:35:27 GMT</pubDate>
 </item>
 <item>
@@ -1083,10 +1081,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/832.htm</link>
 <guid>https://www.ithome.com/0/765/832.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，安全公司奇安信日前发布新闻稿，揭露了一款名为 Wpeeper 的安卓木马，黑客将相关木马隐藏在各种应用中，并上传至 Uptodown App Store 等第三方市场中，<span class="accentTextColor">一旦不知情的用户下载安装，黑客便能够在受害者的手机上远程执行代码</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/4c7f0aaf-347f-45ec-ba1a-9640710394f0.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE3NS5wbmc=,t_100,g_9,y_18,x_18,a_0/format,f_auto" /></p><p>IT之家获悉，<span class="accentTextColor">这款木马最大的特性在于黑客利用受到入侵的 WordPress 网站建立&nbsp;C2&nbsp;结构，试图隐藏真正的黑客服务器所在位置</span>。此外黑客还通过 HTTPS 加密通讯协议来保护攻击流量。同时通过 AES 算法处理黑客发出的远程代码指令。</p><p>值得留意的是，虽然黑客仅仅利用 Wpeeper 木马进行了为期不到一周的攻击行动就“戛然而止”，不过奇安信认为相关黑客很可能在策划更大规模的攻击行动，之所以暂停攻击的原因是为了“欺骗杀毒软件所使用的机器学习模型”，让他们的恶意木马更难被发现。</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:32:27 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:32:27 GMT</pubDate>
 </item>
 <item>
@@ -1094,10 +1090,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/831.htm</link>
 <guid>https://www.ithome.com/0/765/831.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，Redmi&nbsp;显示器&nbsp;A27Q 2025 款目前已经在京东开售，这款显示器主打“27 寸&nbsp;2K 100Hz”屏幕，<span class="accentTextColor">首发到手&nbsp;749 元</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/ea046b6f-eec5-4963-9b0a-d974e09f8b51.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款显示器配备 2560 x 1440 分辨率 100Hz IPS LCD，号称出厂前逐台对屏幕进行了校色，ΔE&lt;2，采用 8bit 屏幕，支持 1670 万种色彩，覆盖 95% DCI-P3&nbsp;色域。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/af598728-fa62-46bf-a549-af097a6a53a5.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/aa822956-f67c-4327-aef6-9402fb543354.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/8141bea8-58b1-425b-86fa-b6121359071a.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/305333c2-d586-4f4e-a831-c92461791f18.png?x-bce-process=image/format,f_auto" /></p><p>A27Q 2025 款采用三微边设计，支持 DC 调光，通过了低蓝光认证。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/43f3cc18-e853-4e06-94e0-e5c82c3297a5.png?x-bce-process=image/format,f_auto" /></p><p>A27Q 2025 款支架可俯仰调节，有 DP1.4 和 HDMI 接口，支持 VESA 规格壁挂，有 3 年原厂整机保修。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/58a17220-cdcb-4097-aaf4-47f6fe0249f0.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附详细参数如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/228f4068-da34-4bb4-a1a3-d7f0dbe1be02.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:11:53 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:11:53 GMT</pubDate>
 </item>
 <item>
@@ -1105,10 +1099,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/830.htm</link>
 <guid>https://www.ithome.com/0/765/830.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，《红霞岛（Red Fall）》由知名开发商&nbsp;Arkane Studios&nbsp;打造，是微软&nbsp;Xbox&nbsp;的一款“重磅游戏”，不过本作却首发失利，成为了该公司有史以来评分最低的游戏，<strong>玩家差评主要围绕本作缺失游戏性、数字版定价较高、</strong><strong>“</strong><strong>阉割</strong><strong>”</strong><strong>过场动画、</strong><strong>Bug&nbsp;</strong><strong>较多、要求强制联网等。</strong><strong>&nbsp;</strong></p><p style="text-align: center;"><strong><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2023/12/0bcfc9ac-25b8-4c4b-8137-239e8b6807f0.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzg5LnBuZw==,t_100,g_9,y_10,x_10,a_0/format,f_auto" /></strong></p><p>虽然官方为游戏推出了许多补丁试图修复游戏的性能问题，<strong>但目前游戏口碑依然并不尽如人意，</strong><strong>SteamDB&nbsp;</strong><strong>显示本作在</strong><strong>&nbsp;Steam&nbsp;</strong><strong>平台仅有</strong><strong>&nbsp;35.02%&nbsp;</strong><strong>好评率</strong><strong>“</strong><strong>多半差评</strong><strong>”</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/57d3299c-4b29-4316-8ac7-13f8e64fa310.png?x-bce-process=image/format,f_auto" /></p><p>而如今官方似乎已经放弃了这款游戏，本作在 Xbox 商店上售 99 美元（IT之家备注：当前约 715 元人民币）的 Bite Back 版中包含《红霞岛》英雄通行证，承诺提供“两位未来英雄”，<span class="accentTextColor">但直到今天官方仍未提供相关&nbsp;DLC</span>。</p><p>有关英雄通行证的最新官方消息来自去年 11 月第三次更新的发布说明，补丁说明中写道：“我们正在继续开发英雄通行证，并很高兴将在明年晚些时候分享更多有关《红霞岛》的新英雄和其他更新的信息，”但如今相关&nbsp;DLC&nbsp;似乎已经无疾而终。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/739/787.htm" target="_blank">数据统计网站公布 2023“吃灰”“弃坑”游戏排行：〈红霞岛〉弃坑最多</a>》</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:09:05 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:09:05 GMT</pubDate>
 </item>
 <item>
@@ -1116,10 +1108,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/829.htm</link>
 <guid>https://www.ithome.com/0/765/829.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据博主&nbsp;@常岩 CY 分享的视频，近日蔚来旗下乐道 L60 伪装车现身充电，并与特斯拉 Model Y 同框形成对比。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5029924218798124?from=old_pc_videoshow" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/0cfbb356-ce71-471f-a5e5-f7d202b580e6.jpg?x-bce-process=image/format,f_auto" /></a></p><p>从视频中可以看到，这两款车型的车尾均较为圆润并采用流线型设计，配备狭长的分体式尾灯。新车侧面采用当下流行的隐藏式门把手，前脸则采用家族式头灯方案。</p><p>根据蔚来董事长李斌和蔚来联合创始人秦力洪透露，蔚来旗下第二品牌定名为“乐道”，英文名为“ONVO”，新品牌将于 5 月中上旬正式发布。秦力洪称“乐道”的定位不是中低端品牌，<span class="accentTextColor">而是对标特斯拉、面向主流市场</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/6893e06f-a977-47e6-9bfd-266b80cd5e06.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyMy5wbmc=,t_100,g_9,y_12,x_12,a_0/format,f_auto" /></p><p>李斌还透露了“乐道”这一命名的来历：<span class="accentTextColor">阖家欢“乐”、持家有“道”</span>。“更大一点的角度去说，它的内涵就是，一家人一起走的每一条路都是乐道。当然大家说，津津乐道什么的也挺好。”</p><p>IT之家注意到，目前蔚来乐道汽车已注册官方微博账号，不过暂时还没有公布头像并且也没有发布任何博文。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:58:39 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:58:39 GMT</pubDate>
 </item>
 <item>
@@ -1127,10 +1117,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/828.htm</link>
 <guid>https://www.ithome.com/0/765/828.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据IT之家小伙伴投稿，小米&nbsp;CarWith&nbsp;车联应用近日获推&nbsp;2.2.2 更新，<span class="accentTextColor">该版本主要优化了 UI 卡片界面，同时支持使用车机真实分辨率</span>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/0785a9d7-7c16-4b22-83c8-9ab9a461e69a.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家整理主要更新内容如下：</p><h3>优化和新增</h3><ul class=" list-paddingleft-2"><li><p>UI 界面优化，例如：电池图标、导航提示卡片等</p></li><li><p>使用车机真实分辨率，优化部分 CarLife 车机连接清晰度</p></li><li><p>优化部分车机反控延时，提升跟手效果</p></li><li><p>新增 CarLife 车机“手机免提通话”，默认关闭，部分车机来电会覆盖 CarWith 界面，可以打开此开关</p></li><li><p>新增 CarLife 车机“音频融合”功能，默认关闭，部分车机不支持独立导航音频或者存在声音卡顿，可以尝试使用改善</p></li><li><p>优化旋钮功能，包括：电话、地图、设置旋钮效果、地图切换抖动等问题</p></li><li><p>优化 CarLife 盒子连接速度慢和回连速度慢问题</p></li></ul><h3>问题修复</h3><ul class=" list-paddingleft-2"><li><p>修复部分 CarLink 车机偶现连接失败问题</p></li><li><p>修复 CarLife 盒子的一些连接稳定性问题，持续优化中</p></li><li><p>修复部分用户设置自动深浅色模式失败问题</p></li><li><p>修复部分用户旋钮功能打开后，在第三方无法使用问题</p></li><li><p>其他问题修复</p></li></ul><h3>车机截图图赏：</h3><p style="text-align: center;"><span class="post-img-item"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/b3a25142-ac4e-4145-842c-f012407d149a.jpg?x-bce-process=image/format,f_auto" /></span></p><p style="text-align: center;"><span class="post-img-item"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/e0320777-17bf-4902-ac56-17e34519eb5f.jpg?x-bce-process=image/format,f_auto" /></span></p><p style="text-align: center;"><span class="post-img-item"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/51aaa0aa-8aaf-4a9d-af89-1a15408030dc.jpg?x-bce-process=image/format,f_auto" /></span></p><p style="text-align: center;"><span class="post-img-item"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/8da4d6ba-7757-48da-81d3-8fa1d7f301f9.jpg?x-bce-process=image/format,f_auto" /></span></p><p style="text-align: center;"><span class="post-img-item"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/363b2614-6750-410c-ba1c-436fc43028f9.jpg?x-bce-process=image/format,f_auto" /></span></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:53:30 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:53:30 GMT</pubDate>
 </item>
 <item>
@@ -1138,10 +1126,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/827.htm</link>
 <guid>https://www.ithome.com/0/765/827.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，发行商 Freedom Games 旗下农场模拟游戏《Echoes of Plum Grove》目前已经正式发售，在&nbsp;<a href="https://store.steampowered.com/app/1536090/Echoes_of_the_Plum_Grove/" target="_blank">Steam&nbsp;国区</a>售价&nbsp;76&nbsp;元（首发&nbsp;9&nbsp;折后&nbsp;68.4&nbsp;元），<span class="accentTextColor">游戏支持简体中文，目前 Steam 好评率为 89%</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/185870d5-fecc-4f13-a20c-7d559d2058aa.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEwOS5wbmc=,t_100,g_9,y_22,x_22,a_0/format,f_auto" /></p><p>IT之家注意到，本作发生在一座名叫甜蜜坞的小岛上，游戏采用&nbsp;2D&nbsp;人物 + 3D 纵深背景形式，玩家可以在游戏中耕种，社交，交友，烹饪，制作等。</p><h3>游戏官方介绍：</h3><blockquote><ul class=" list-paddingleft-2"><li><p><span class="Apple-tab-span">		</span>新生活在甜蜜坞等着你！你漂流到了这座岛屿的海岸上，成为了一小片土地的拥有者。挽起袖子，拿上工具，去建造一个能够延续数代的农场吧！</p></li><li><p><span class="Apple-tab-span">		</span>《Echoes of Plum Grove》是一个休闲舒适的农场模拟游戏，你所有的决定都有后果！该种什么；冬天该储备什么；该和谁交朋友，这些决定不仅会塑造甜蜜坞，还会影响整座小岛。</p></li><li><p><span class="Apple-tab-span">		</span>冬天会带来不同的危险。你的生存危在旦夕，你需要耕种土地、海边钓鱼、烹饪饭菜、制作、觅食等等，只为确保你能够熬过寒冬。如果你不做好充分的准备，你的血脉可能会就此断绝，而来不及探索岛上的秘密。</p></li><li><p><span class="Apple-tab-span">		</span>虽然生存是你的当务之急，甜蜜坞镇上也满是各式各样的庆祝活动。</p></li><li><p><span class="Apple-tab-span">		</span>《Echoes of the Plum Grove》的核心便是建立关系。随着你的家庭人口添加以及你初始的角色过世，你可以操作家族内的其他角色游玩。</p></li><li><p><span class="Apple-tab-span">		</span>虽然建立关系很重要，你也该花时间探索这座小岛，岛上也很多秘密待你发掘。有人说岛上住着个女巫，会带奇怪的物品来镇上；其他人则发誓海湾时长有奇怪的声音传来；还有些人好奇矿井底部究竟有什么。快来探索至岛屿的边缘，看看《Echoes of Plum Grove》究竟有什么不为人知的秘密吧！</p></li></ul></blockquote><h3>游戏图赏：</h3><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/222429f4-6e4c-40e8-8041-7a88aa7acfca.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/ceb73b64-059a-4dbf-a2be-a474f66a9af0.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/d5c3ed5b-e4c9-445b-8250-72adbac79d44.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:32:07 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:32:07 GMT</pubDate>
 </item>
 <item>
@@ -1149,10 +1135,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/826.htm</link>
 <guid>https://www.ithome.com/0/765/826.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据消息源&nbsp;Roland&nbsp;Quandt&nbsp;爆料，三星正在开发的 Exynos 2500（型号为 S5E9955）将是该公司最后一代搭载基于 AMD RDNA 的 GPU&nbsp;的芯片，<span class="accentTextColor">三星计划在&nbsp;2026&nbsp;年在&nbsp;Exynos 2600&nbsp;芯片中推出自家&nbsp;GPU，预计这款芯片将亮相于&nbsp;Galaxy S26&nbsp;系列手机</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/560293c7-6af6-4f22-bebb-470bce6d510e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzg2LnBuZw==,t_100,g_9,y_18,x_18,a_0/format,f_auto" /></p><p>三星在&nbsp;2020&nbsp;年关闭了开发自家&nbsp;GPU&nbsp;的部门，不过如今该公司已经重新启动相关研发工作，该公司似乎已经创建了一个由 1000 多名工程师组成的独立团队，同时与 System LSI 团队合作进行共同开发和优化。</p><p>参考IT之家此前，三星目前正开发的 Exynos&nbsp;2500 芯片将集成基于 AMD RDNA4 架构的 GPU，采用 LPDDR5T（LPDDR6 预计将于 2026 年推出）内存，目前共有 8/10 两个版本，只是不清楚具体的组合配置情况。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/728/732.htm" target="_blank">消息称三星 Exynos 2500 芯片升级 AMD RDNA4 GPU，搭配 LPDDR5T 内存</a>》</p><p>《<a href="https://www.ithome.com/0/760/050.htm" target="_blank">消息称三星 Exynos 2500 芯片有 8/10 核两个版本</a>》</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:23:36 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:23:36 GMT</pubDate>
 </item>
 <item>
@@ -1160,10 +1144,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/825.htm</link>
 <guid>https://www.ithome.com/0/765/825.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据 @未来的学习笔记&nbsp;@科技圣斗士 等多位博主晒图，华为智选车业务鸿蒙智行 5 月 1 日-4 日全系车型大定突破 8600 台。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/689d0aa7-fb95-4b12-abba-321264b81ab0.jpg?x-bce-process=image/format,f_auto" /></p><p>根据此前公布的数据，鸿蒙智行全系车型 5 月 1 日当天大定数突破 2700 台，其中包含问界新 M5 952 台、问界新 M7 865 台。5 月 1 日- 2 日全系车型大定突破 4700 台；5 月 1 日-3 日全系车型大定突破 6600 台。</p><p>按此速度，鸿蒙智行有望在五一假期 5 天的时间内全系车型大定突破 10000 台。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/7628f0b1-5872-4dd1-9fde-0293c5022149.png?x-bce-process=image/format,f_auto" /></p><p>据IT之家了解，去年 11 月，华为在智慧出行解决方案暨智界 S7 新品预售的发布会上，<span class="accentTextColor">宣布华为智选车业务升级为鸿蒙智行。</span>其中包含与赛力斯合作的 AITO 问界，与奇瑞合作的 LUXEED 智界、与北汽合作的 STELATO 享界，以及还未公布品牌的江淮汽车合作车型。</p><p>截至目前，鸿蒙智行旗下已上市车型包括问界 M5 系列、问界 M7 系列、问界 M9、智界 S7。此外，鸿蒙智行首款行政级旗舰轿车 —— 享界 S9 ，近期也在北京车展首发亮相，预计将于 7-8 月份正式上市。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:21:42 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:21:42 GMT</pubDate>
 </item>
 <item>
@@ -1171,10 +1153,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/824.htm</link>
 <guid>https://www.ithome.com/0/765/824.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据雷军官方微博，雷军昨天发布“献给青春的演讲”视频，在片尾彩蛋中，对于“为什么不建议给年轻人太多建议”的问题，雷军回答：“<span class="accentTextColor">因为我觉得每一代年轻人，都有自己独特的想法</span>。”</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://video.weibo.com/show?fid=1034:5030408153137181" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2024/5/d5cac27f-9aea-4572-b0b7-9914998a7460.jpg?x-bce-process=image/format,f_auto" /></a></p><p>IT之家注意到，雷军在&nbsp;2023&nbsp;年&nbsp;8&nbsp;月年度演讲时曾表示，“建议不要给年轻人太多建议，相信他们就好，不要规定让年轻人只能干什么或只能怎么干，每个人的人生都有无限的可能”。</p><p>而在本次“献给青春的演讲”视频中，对于“短视频、演讲、直播紧跟流行是个人兴趣所在吗？”的问题，雷军回答并不是，主要是想和年轻人能够同频共振，能够讲一些年轻人听得懂的话。</p><h3>相关阅读：</h3><p>《<a href="https://live.ithome.com/item/711822.htm" target="_blank">2023 雷军年度演讲</a>》</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:12:21 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:12:21 GMT</pubDate>
 </item>
 <item>
@@ -1182,10 +1162,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/823.htm</link>
 <guid>https://www.ithome.com/0/765/823.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，据灯塔专业版数据，截至 5 月 4 日 17 时 58 分，2024 年度院线电影大盘票房 （含预售）突破 200 亿。</p><p><span class="accentTextColor">截至目前 2024 年票房前十名影片：</span></p><ul class=" list-paddingleft-2"><li><p>《热辣滚烫》</p></li><li><p>《飞驰人生 2》</p></li><li><p>《第二十条》</p></li><li><p>《熊出没・逆转时空》</p></li><li><p>《年会不能停！》</p></li><li><p>《哥斯拉大战金刚 2：帝国崛起》</p></li><li><p>《你想活出怎样的人生》</p></li><li><p>《周处除三害》</p></li><li><p>《金手指》</p></li><li><p>《功夫熊猫 4》</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/50292194-306a-49f3-bf47-89210e5cdf5b.jpg?x-bce-process=image/format,f_auto" /></p><p>此外，截至 5 月 4 日 19 时 04 分，<span class="accentTextColor">2024 五一档（IT之家注意 5 月 1 日-5 月 5 日）档期内票房已突破 13 亿。</span>《维和防暴队》《末路狂花钱》《九龙城寨之围城》暂列当前档期内票房前三位。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/7c0f9fe5-6e76-4969-9397-cdc4f13780f0.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:03:27 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:03:27 GMT</pubDate>
 </item>
 <item>
@@ -1193,10 +1171,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/822.htm</link>
 <guid>https://www.ithome.com/0/765/822.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，美国总务管理局退役的超级计算机“夏延”（Cheyenne）目前已经以 480085 美元（当前约 346.6 万元人民币）的价格被一位匿名买家拍得。</p><p><span class="accentTextColor">据介绍，这台超级计算机在 2016 年安装时曾是全球排名第 20 的超级计算机，峰值计算性能达到 5.34 petaflops</span>。起拍价为 2500 美元（IT之家备注：当前约 18100 元人民币）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a4c0c81a-a054-4f3c-b11d-725637122807.jpg?x-bce-process=image/format,f_auto" /></p><p>这台超级计算机于 2017 年 1 月 12 日正式投入运行，至 2023 年 12 月 31 日退役，在怀俄明州国家大气研究中心超级计算中心发挥了重要作用，为大气和地球系统科学研究提供了强劲且高效的计算能力。</p><p>“夏延”在其服役期间，运行了超过 70 亿核心小时，服务了超过 4400 名用户，并支持了近 1300 项美国国家科学基金会资助的项目。大气研究大学联盟在其官方信息页面写道：“它在教育方面也发挥了关键作用，支持了 80 多门大学课程和培训活动。近 1000 个项目授予了早期职业研究生和博士后研究人员。最值得一提的是，‘夏延’支持的研究产生了超过 4500 篇经过同行评审的出版物、博士论文、硕士论文和其他作品。”</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/003bd159-7a10-45c8-a6e6-962e858be376.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/addcc666-12cb-416d-952a-dd35c1895630.jpg?x-bce-process=image/format,f_auto" /></p><p>受新冠疫情导致的供应链严重中断，“夏延”原计划服役五年，最终却延长了两年。拍卖页面显示，由于冷却系统快速断路器故障，“夏延”最近遇到了维护限制，导致大约 1% 的计算节点出现故障，主要是由于 DIMM 中的 ECC 错误。考虑到维修成本和停机时间，美国政府决定拍卖其组件。</p><p>这台 SGI ICE XA 系统峰值性能为 5340 teraflops (4788 Linpack teraflops)，每瓦特能耗可执行超过 30 亿次计算，使其比前代产品“黄石”的能效高出三倍。该系统拥有 4032 个双插槽节点，每个节点配备两个 18 核、2.3 GHz 的英特尔 Xeon E5-2697v4 处理器，总共拥有 145,152 个 CPU 核心，还拥有 313 TB 内存和 40 PB 存储空间。整个系统运行时功耗为 1.7 兆瓦。</p><p>相比之下，目前世界排名第一的超级计算机 —— 位于田纳西州橡树岭国家实验室的“Frontier”，理论峰值性能为每秒 1679.82 petaflops，拥有 8699904 个 CPU 核心，功耗为 22.7 兆瓦。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 23:02:45 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 23:02:45 GMT</pubDate>
 </item>
 <item>
@@ -1204,10 +1180,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/821.htm</link>
 <guid>https://www.ithome.com/0/765/821.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，巴菲特在伯克希尔・哈撒韦公司年会上称赞了苹果公司，认为当前苹果公司的产品拥有显著竞争能力，<span class="accentTextColor">更认为库克是苹果的“出色经理人”，可谓继乔布斯之后的“最佳合作伙伴”</span>。</p><p>在谈到苹果公司的&nbsp;iPhone 时，巴菲特表示，消费者们喜欢&nbsp;iPhone，这款设备的价值远远被低估了，“这是最伟大的产品之一，而且可能是有史以来最伟大的产品”。</p><p>在谈到库克时，巴菲特认为库克曾被低估了一段时间，但时间证明他是世界上最好的经理人之一，“他带来的产品受到了很多人的欢迎。他的产品覆盖很多用户，而且满意度高达&nbsp;99%”。</p><p>巴菲特表示，库克和乔布斯的能力是不同的，<span class="accentTextColor">库克能够很好的驾驭商业，他在创造力方面肯定是做不到像乔布斯那样，但是乔布斯也肯定无法像库克这样</span>。</p><p>而在谈到对苹果公司的投资时，巴菲特强调：“除非发生什么戏剧性的事情真正改变资本配置，<span class="accentTextColor">否则我们将把苹果公司作为我们最大的投资</span>。”</p><p>另据IT之家此前报道，伯克希尔・哈撒韦公司未来将试图减少股份数量，巴菲特预计伯克希尔・哈撒韦的现金持有量将在 6 月底达到 2000 亿美元（IT之家备注：当前约 1.44 万亿元人民币）。</p><h3>相关阅读：</h3><p>《<a href="https://www.ithome.com/0/765/817.htm" target="_blank">巴菲特称其对 AI 一无所知，预计苹果到今年年底仍是其最大投资</a>》</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 22:55:51 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 22:55:51 GMT</pubDate>
 </item>
 <item>
@@ -1215,10 +1189,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/820.htm</link>
 <guid>https://www.ithome.com/0/765/820.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 5 日消息，MEMS（微电子机械）代工厂 Rogue Valley Microdevices 公司近日发布官方新闻稿，声称该公司在美国佛罗里达州棕榈湾太空海岸建设的第二座晶圆厂将具备 300mm 晶圆代工生产能力。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/91e5ca7b-c493-473a-a9fc-417d0fb5d14c.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExMi5wbmc=,t_100,g_9,y_20,x_20,a_0/format,f_auto" /></p><p>IT之家获悉，Rogue Valley 是第一家宣布为客户提供 300mm（12 英寸）代工能力的纯 MEMS 代工厂，该公司于 2023 年 6 月宣布收购位于棕榈湾商业大道 2301 号的一幢商业建筑用于建设新晶圆厂，<span class="accentTextColor">预计在新工厂于 2025 年建成后每月可生产 21000 个晶圆片</span>。</p><p>创始人兼首席执行官 Jessica Gomez&nbsp;表示：“随着 Rogue&nbsp;Valley Microdevices 的投资在我们佛罗里达州棕榈湾的新工厂，我们准备使用 300mm 晶圆代工生产能力为客户提供显著的竞争优势，促进他们从初始概念到商业化的旅程，”</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 22:45:47 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 22:45:47 GMT</pubDate>
 </item>
 <item>
@@ -1226,10 +1198,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/819.htm</link>
 <guid>https://www.ithome.com/0/765/819.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家&nbsp;5 月 5 日消息，今天是 5 月 5 日，也是二十四节气当中的<span class="font-color-red">立夏</span> —— 属于夏季的第一个节气。立夏的到来，意味着我们已经来到了夏天。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/083ff5c4-a15b-43a0-a9cf-9219012cafac.jpg?x-bce-process=image/format,f_auto" /></p><p>通常每年 5 月 5 日或 5 月 6 日是公历的立夏。“斗指东南，维为立夏，万物至此皆长大，故名立夏也。”此时，太阳黄经为 45 度，在天文学上，立夏表示即将告别春天，是夏日天的开始。人们习惯上都把立夏当作是温度明显升高，炎暑将临，雷雨增多，农作物进入旺季生长的一个重要节气。</p><h2>气候学中的立夏</h2><p>立夏的到来，标志着春夏季的转换。这其实是时间观念上的一种转变。但是，在气候学上，关于夏季到来的定义却是不一样的。</p><p>按照气候学的标准，当日平均气温稳定升达 22℃以上才是夏季开始。按照这个标准的话，实际上全国大部分地区都还处在仲春或者暮春时节。</p><p>其实在立夏前后，我国只有福州到南岭一线以南地区是真正的“绿树浓阴夏日长，楼台倒影入池塘”的夏季，而东北和西北的部分地区这时则刚刚进入春季。</p><p>这时，全国大部分地区平均气温在 18-20℃上下，正是“百般红紫斗芳菲”的仲春和暮春季节。进入了五月，很多地方槐花也正开。</p><h2>夏季气候特点</h2><p>立夏前后，盆地其余的地区气温为 20℃左右，而川西南低海拔河谷则早在 4 月中旬初即感夏热，立夏时气温已达 24℃以上，可谓夏日炎炎了。</p><p>正如左河水所云：“南国似暑北国春，绿秀江淮万木荫。时病时虫人撒药，忽寒忽热药搪人。”但总的来说，全国大部分地区已经绿意盎然。</p><p>立夏以后，江南正式进入雨季，雨量和雨日均明显增多，连绵的阴雨不仅导致作物的湿害。还会引起多种病害的流行。</p><p>立夏前后，华北、西北等地气温回升很快，但降水仍然不多，加上春季多风，蒸发强烈，大气干燥和土壤干旱常严重影响农作物的正常生长。</p><h2>立夏养生</h2><p>来到夏天，很容易联想到的两个字是“燥”和“热”。除了气候特点的变化之外，人的心境也会相应地出现变化，这时，我们要做到“戒燥戒怒”，保持心境的平衡。</p><p>饮食方面，立夏后阳气上升，天气逐渐升温，多吃油腻或易上火的食物，会造成身体内、外皆热，易出现上火的痤疮、口腔溃疡、便秘等病症，因此要少吃辛辣上火的食物，多吃些清淡的如山药、海产品等食物，既能清热防暑又能增进食欲。</p><p>夏季饮食养生重要方法之一就是多吃些稀食，比如说多喝粥，既能清凉解暑又能止渴。此外，在补充维生素方面，大家常见的季节性食品有西瓜、冬瓜、西红柿等。在这个季节，因为出汗等原因，我们特别需要注意水和钾的补充，豆类或豆制品、香菇、水果、蔬菜等都是钾的很好来源。</p><h2>立夏习俗</h2><h3>斗蛋</h3><p>立夏节时，大人用丝线编成蛋套，装入煮熟的鸡蛋鸭蛋，挂在小孩子脖子上。疰夏绳即长命缕，用五色丝线系于小孩手腕等处为其消灾祈福，消暑祛病，以防注夏。</p><p>立夏中午，家家户户煮好囫囵蛋&nbsp;(鸡蛋带壳清煮，不能破损)，用冷水浸上数分钟之后再套上早已编织好的丝网袋，挂于孩子颈上。孩子们便三五成群，进行斗蛋游戏。</p><h3>立夏“秤人”</h3><p>立夏吃罢中饭还有秤人的习俗。人们在村口或台门里挂起一杆大木秤，秤钩悬一根凳子，大家轮流坐到凳子上面秤人。</p><p>司秤人一面打秤花，一面讲着吉利话。秤老人要说“秤花八十七，活到九十一”。秤姑娘说“一百零五斤，员外人家找上门。勿肯勿肯偏勿肯，状元公子有缘分。”秤小孩则说“秤花一打二十三，小官人长大会出山。七品县官勿犯难，三公九卿也好攀。”</p><h2>下面是有关立夏的古诗词：</h2><p><strong>《立夏日忆京师诸弟》</strong></p><p><strong>唐・韦应物</strong></p><p>改序念芳辰，烦襟倦日永。</p><p>夏木已成阴，公门昼恒静。</p><p>长风始飘阁，叠云才吐岭。</p><p>坐想离居人，还当惜徂景。</p><p><strong>《纳凉》</strong></p><p><strong>宋・秦观</strong></p><p>携扙来追柳外凉，画桥南畔倚胡床。</p><p>月明船笛参差起，风定池莲自在香。</p><p><strong>《夏夜追凉》</strong></p><p><strong>宋・杨万里</strong></p><p>夜热依然午热同，开门小立月明中。</p><p>竹深树密虫鸣处，时有微凉不是风。</p><p><strong>《山中立夏用坐客韵》</strong></p><p><strong>宋・文天祥</strong></p><p>归来泉石国，日月共溪翁。</p><p>夏气重渊底，春光万象中。</p><p>穷吟到云黑，淡饮胜裙红。</p><p>一阵弦声好，人间解愠风。</p><p><strong>《山亭夏日》</strong></p><p><strong>唐・高骈</strong></p><p>绿树阴浓夏日长，楼台倒影入池塘。</p><p>水精帘动微风起，满架蔷薇一院香。</p><p><strong>《暑旱苦热》</strong></p><p><strong>宋・王令</strong></p><p>清风无力屠得热，落日着翘飞上山。</p><p>人困已惧江海竭，天岂不惜河汉干。</p><p>昆仑之高有积雪，蓬莱之远常遗寒。</p><p>不能手提天下往，何忍身去游其间？</p><p><strong>《幽居初夏》</strong></p><p><strong>宋・陆游</strong></p><p>湖山胜处放翁家，槐树阴中野径斜。</p><p>水满有时观下鹭，草深无处不鸣蛙。</p><p>箨龙己过头番笋，木笔犹开第一花。</p><p>叹息老来交旧尽，睡来谁共午瓯茶。</p><p><strong>《立夏》</strong></p><p><strong>宋・方回</strong></p><p>吾家正对紫阳山，南向宜添屋数间。</p><p>百岁十分已过八，只消无事守穷闲。</p><p><strong>《夏日南亭怀辛大》</strong></p><p><strong>唐・孟浩然</strong></p><p>山光忽西落，池月渐东上。</p><p>散发乘夕凉，开轩卧闲敞。</p><p>荷风送香气，竹露滴清响。</p><p>欲取鸣琴弹，恨无知音赏。</p><p>感此怀故人，中宵劳梦想。</p><p><strong>《夏意》</strong></p><p><strong>宋・苏舜钦</strong></p><p>别院深深夏席清，石榴开遍透帘明。</p><p>树阴满地日当午，梦觉流莺时一声。</p><p><em>本文原发自IT之家《<a href="https://www.ithome.com/0/307/478.htm" target="_blank">今日立夏，风雨扬花，绿意遍天涯</a>》，有改动。</em></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 16:04:09 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 16:04:09 GMT</pubDate>
 </item>
 <item>
@@ -1237,10 +1207,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/818.htm</link>
 <guid>https://www.ithome.com/0/765/818.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，哈勃网络（Hubble Network）公司近日发布新闻稿，宣布成功通过蓝牙连接 600 公里外的卫星，<strong>让其成为全球第一家完成这一壮举的公司。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/d96a17d7-ed4f-4dca-b92a-8070c4e708ea.jpg?x-bce-process=image/format,f_auto" /></p><p>哈勃网络通过 SpaceX 的 Transporter-10 任务，将两颗卫星送入轨道，随后该公司通过 3.5 毫米蓝牙芯片，在 600 公里的距离内接收到信号。</p><p>哈勃网络联合创始人兼首席执行官 Alex Haro 表示：“这证明我们可以直接从蓝牙芯片发送信号并在 600 公里外的太空中接收信号，我们开辟了一个新的可能性领域。”</p><p>该公司表示未来可以通过软件更新的方式，让任何现有蓝牙设备连接到公司卫星网络上，这样即便没有蜂窝网络也能实现网络覆盖，而且耗电量降至 20 分之一，运营成本降至 50 分之一。</p><p>哈勃网络表示无需额外昂贵的太空硬件，可以利用现有的低功耗、低成本传感器开发无数应用。该公司表示目前已经和消费设备、建筑、基础设施、供应链、物流、石油和天然气以及国防等领域的客户试点展开合作。</p><p><span class="referenceTitle">IT之家附上参考地址</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://hubblenetwork.com/blog/2024/04/29/Hubble-Network-First-Connection/" target="_blank">Hubble Network's Bluetooth to Space Connection</a></p></li></ul>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 15:35:08 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 15:35:08 GMT</pubDate>
 </item>
 <item>
@@ -1248,10 +1216,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/817.htm</link>
 <guid>https://www.ithome.com/0/765/817.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，巴菲特在伯克希尔・哈撒韦公司年会上表示，伯克希尔哈撒韦将试图减少其股份数量，如果这样做是有意义的。他预计伯克希尔哈撒韦的现金持有量将在 6 月底达到 2000 亿美元（IT之家备注：当前约 1.44 万亿元人民币）。</p><p>他表示，伯克希尔・哈撒韦不会再进行大量的股票购买，因为很多公司也不会以大数额来进行股票的销售发行。在股票的回购上，伯克希尔・哈撒韦也会更加谨慎地去对待。</p><p>巴菲特还提到，苹果公司极有可能在 2024 年底仍然是伯克希尔持有的最大单一股票。“我们还是会长期持有苹果、可口可乐和美国运通这三家公司的股票，并且在过去这一举措已经取得了一些成功。”“除非发生重大变化，否则苹果将是最大的投资。”</p><p>不过他还提到，在目前的市场条件下，他不介意建立公司的现金头寸。“我们不介意交税，”他说，他指的是出售苹果股票所获得的收益。</p><p>他还指出，美国将在不久之后面临高税率等问题，而联邦政府为了减缓自身赤字将会从大公司身上拿走更多的资金，伯克希尔则会接受这一切。他希望伯克希尔能够继续保持 8000 亿以上的市值，因为有这样的市值，交大额的税也不会造成太多困扰。巴菲特还表示，如果公司采取重大行动，则极有可能是发生在美国。当然，伯克希尔的主要投资也将聚焦在美国。</p><blockquote><p>我们主要的投资标的将会位于美国，这是我们坚信不疑的。你看我们所投资的可口可乐或运通，都是在全球扩张业务的公司。而像美国运通或可口可乐这样在全球都有业务的公司，在全球都很难寻觅，这是全球的共识。<span class="accentTextColor">而我觉得对于比亚迪的投资，跟我们 5 年前在日本做出的投资比较相似</span>：我们快速地在日本投资了 5 家商社，你很少会看到我们在美国海外做出这样的投资。</p></blockquote><p>巴菲特表示：我们多年来的投资理念随着资本的增加其实也有所改变，改变了很多，但是最基本的原则还是在那里，就是格雷厄姆的哲学，你如果只是选股的话，你是在浪费时间，你需要把这个资金放在更好的地方。查理又给了我更好的建议，让我把钱配置到了更合适的地方。所以，这也是为什么我们一直以来拥有像美国运通和可口可乐这样出色的业务，苹果甚至是更好的一项业务、一家公司，我们还是会长期地持有这三家公司的股票，而且在过去也取得了很多的成功。</p><p>当被问及关于生成式 AI 方面的看法时，巴菲特表示“我对人工智能一无所知”“无法对 AI 的前景进行估计，但它的发展令我感到紧张”。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 15:19:13 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 15:19:13 GMT</pubDate>
 </item>
 <item>
@@ -1259,10 +1225,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/816.htm</link>
 <guid>https://www.ithome.com/0/765/816.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，Microsoft Start 天气预报开发团队近日在 arXiv 网站发表论文<strong>，介绍了一种全新的 AI 模型，可以更准确预估未来 30 天的天气情况。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/aaf83a11-4fee-41c5-9b94-7d1f0f4f8949.jpg?x-bce-process=image/format,f_auto" /></p><p>该模型结合了 5 种不同的人工智能模型和 3 种深度学习架构，并训练了过去数十年的天气数据，从而做出更准确的预测。</p><p>微软表示在预估未来 1 周天气预报方面，新 AI 模型所测量的气温准确率比欧洲中期天气预报中心（ECMWF）高 17%，未来 4 周天气预报准确率高 4%。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/ac3998ff-93a8-4e42-b339-2509c0450022.jpg?x-bce-process=image/format,f_auto" /></p><p><span class="referenceTitle">IT之家附上参考地址</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://blogs.bing.com/search-quality-insights/May-2024/Weather-from-Microsoft-Start%E2%80%99s-new-AI-capabilities-are-improving-30-day-weather-forecasts" target="_blank"><span class="link-text-start-with-http">Weather-from-Microsoft-Start</span>’<span class="link-text-start-with-http">s-new-AI-capabilities-are-improving-30-day-weather-forecasts</span></a></p></li><li class="list-undefined list-reference-paddingleft"><p><a href="https://arxiv.org/abs/2403.15598" target="_blank">An ensemble of data-driven weather prediction models for operational sub-seasonal forecasting</a></p></li></ul>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 15:17:02 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 15:17:02 GMT</pubDate>
 </item>
 <item>
@@ -1270,10 +1234,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/815.htm</link>
 <guid>https://www.ithome.com/0/765/815.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，中国台湾经济日报表示，NVIDIA 最新超级 AI 服务器 DGX GB200 将于今年下半年开始量产，预计 2025 年产量最高可达&nbsp;4 万台。</p><p>富邦投资顾问外资组主管廖显毅表示，DGX GB200 系统机柜分三大类，分别是 DGX NVL72、NVL32、HGX B200 ，其中 DGX NVL72 是该系列中单价最高、算力最强的 AI 系统，内置 72 颗 B200 GPU&nbsp;及 36 颗 Grace CPU，配备 9 台交换器，整机设计由 NVIDIA 主导且不能修改，但 ODM 厂商可以自己设计 I / O 及以太网连接系统。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/3/311573a8-a7d0-48a1-b3ba-da5a00fb9562.jpg?x-bce-process=image/format,f_auto" /></p><p>据称，鸿海与广达分别是 NVL72 及 NVL36 机柜最大供货厂。NVL72 每座机柜单价可达 300 万美元（IT之家备注：当前约 2166 万元人民币），预计将为鸿海 2025 年营收贡献 1.32 亿元新台币，相比今年翻倍，并将占据鸿海营收的 13%；今年订单金额预估为 6090 亿元新台币，营收占比不到 10%。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 15:06:54 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 15:06:54 GMT</pubDate>
 </item>
 <item>
@@ -1281,10 +1243,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/814.htm</link>
 <guid>https://www.ithome.com/0/765/814.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，HTC U24 Pro 手机近日现身 Google Play Console 数据库，<strong>显示手机代号为“enodugls”，配备高通骁龙 7 Gen 3 处理器。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/cc1347b4-b92b-4db3-af61-29bfddfa14ab.jpg?x-bce-process=image/format,f_auto" /></p><p>根据数据库页面信息，HTC U24 Pro 手机屏幕分辨率为 1080 × 2436，像素密度为 480dpi，配备 12GB RAM 和最新安卓 14 系统。</p><p>HTC U24 Pro 将搭载八核 Qualcomm Snapdragon SM7550 处理器，具有四个 Kryo 7 系列核心（主频为 2.2GHz）、四个 Keyo 7 系列核心（主频为 1.8GHz）和 Adreno 7 系列 GPU，也就是高通骁龙 7 Gen 3 芯片。IT之家附上图片如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/994c5b6f-4e78-4b8a-9dd6-4af3668f87c8.jpg?x-bce-process=image/format,f_auto" /></p><p>此外数据库页面还显示了&nbsp;HTC&nbsp;U24&nbsp;Pro&nbsp;手机的外观图，可以看到采用曲面屏，右侧为音量按钮和电源键，不过这也可能是占位图片，不代表实际设计。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 15:05:39 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 15:05:39 GMT</pubDate>
 </item>
 <item>
@@ -1292,10 +1252,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/813.htm</link>
 <guid>https://www.ithome.com/0/765/813.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，消息源 @DameTechChannel 近日发布推文，<strong>表示《博德之门 3》游戏将于 2025 年年初登陆 iPad，而且有可能会登陆 iPhone。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/3914f383-4f3b-4419-b3ac-a5da4a2e4f49.png?x-bce-process=image/format,f_auto" /></p><p>搭载高通骁龙 X Elite 处理器的笔记本可以成功运行《博德之门 3》游戏，在 1080P 分辨率下帧率可以超出 30FPS 以上，因此理论上苹果 M 系列 Apple Silicon 芯片也能运行这款游戏。</p><p>《博德之门 3》游戏对于硬件的要求相对来说不高，目前在 Steam Deck 和 ROG Ally 等游戏掌机上的表现也非常不错。</p><p>IT之家今年 1&nbsp;月报道，《死亡搁浅：导演剪辑版》游戏已登陆苹果 iPhone、iPad 和 Mac 平台，支持通用购买，正如该消息源所描述的美好场景，如果越来越多的&nbsp;AAA&nbsp;级游戏加入苹果生态，应该会吸引更多安卓玩家，并超过谷歌&nbsp;Play&nbsp;Store。</p><p>《博德之门 3》游戏如果真的能登陆 iPhone、iPad 平台，那么无疑扩充了苹果 App Store 在游戏领域的号召力和影响力。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/dce3c697-8433-4344-acba-4a874878dc0f.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a7f5f9d5-08be-492f-94b0-46876187bd2c.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 14:52:04 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 14:52:04 GMT</pubDate>
 </item>
 <item>
@@ -1303,10 +1261,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/812.htm</link>
 <guid>https://www.ithome.com/0/765/812.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，Adobe 公司近日通知用户，<strong>即将关闭 Android 版 Photoshop Mix 和 Photoshop Fix 应用程序。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/f4bf81d7-32f1-4705-b5fb-493a8f72e610.jpg?x-bce-process=image/format,f_auto" /></p><p>Adobe 公司近年来开始以套件的形式，在安卓、iOS 和网页端推出 Photoshop，而此前曾推出过针对某一使用场景的独立工具：Photoshop Mix 和 Photoshop Fix。</p><p>IT之家注：Photoshop Mix 可以让用户简单拼接组合 2 张以上图片，而 Photoshop Fix 则包含一组用于快速调整图片的选项。</p><p>这两款应用于 2021 年停止更新，而且于 2021 年从 App Store 下架。而过去几年中，这两款应用的安卓版处于“僵尸”状态，用户可以下载安装使用，但没有任何支持。</p><p>现在 Adobe 公司宣布这两款应用将于 2024 年 6 月 4 日停止运行，官方鼓励用户改用 Photoshop Express 作为替代方案。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 14:36:57 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 14:36:57 GMT</pubDate>
 </item>
 <item>
@@ -1314,10 +1270,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/811.htm</link>
 <guid>https://www.ithome.com/0/765/811.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，华硕计划于 6 月 3 日下午 4:00 在台北国际电脑展上举办名为“Always Incredible”的产品发布会，届时将推出多款新品。</p><p>Videocardz 现曝光了华硕 Computex 2024 产品发布会名单，包括 ROG Ally 2024、雷神 1600 III 电源、Mojlonir Portable UPS 电源，没有传闻中的 RTX 5090。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/72ceef00-af50-4acf-bdbb-6e7d6acc7ddc.jpg?x-bce-process=image/format,f_auto" /></p><p>华硕还准备展示一些基于高通骁龙 X 系列处理器，及英特尔 Meteor Lake 芯片的笔记本电脑，例如 Vivobook S15 或 Zenbook S16，还有 ProArt P16 PX 13 和 PZ13 等等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/7f0a3ae0-7611-4a4a-b9ed-bd9fdb98689a.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲&nbsp;Mojlonir Portable UPS 电源</figcaption><p>IT之家注意到，华硕还将推出新一代 ROG&nbsp;Rapture GT-BE19000 路由器、月刃及龙鳞鼠标新品还有棱镜耳机新品，敬请期待。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 14:35:41 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 14:35:41 GMT</pubDate>
 </item>
 <item>
@@ -1325,10 +1279,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/810.htm</link>
 <guid>https://www.ithome.com/0/765/810.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，索尼昨日宣布 Steam 版《绝地潜兵 2》（Helldivers 2）游戏将强制捆绑 PlayStation Network 账户之后，引发了玩家的强烈反对。<strong>该游戏开发商 Arrowhead Game Studios 首席执行官近日出面致歉。</strong></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/ce2588b6-5986-4ab9-88c0-cfa28ffddeec.png?x-bce-process=image/format,f_auto" /></p><p>Arrowhead 首席执行官 Johan Pilestedt 在致歉内容中写道：</p><blockquote><p>哎呀，这评分很能说明问题。</p><p>玩家的诉求完全是可以理解的，对于这一切，我向所有玩家道歉。我希望我们能够通过提供持续出色的游戏体验来弥补这个问题，并重新获得信任。</p><p>我只想制作出色的游戏！</p></blockquote><p>IT之家查询游戏&nbsp;Steam&nbsp;页面，《地狱潜者 2》<strong>在过去 30&nbsp;天内共有 120260&nbsp;条玩家评论，好评率为 32%，综合评价为“多半差评”。</strong></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/a54fa24c-a89a-4c4e-af66-27c8a01cea41.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/1241dde5-a345-4184-bab7-39b1092a2137.jpg?x-bce-process=image/format,f_auto" /></p><p>索尼称由于《地狱潜者 2》推出时遭遇技术问题，暂时允许玩家自行选择是否将 Steam 账户与 PlayStation Network 账户绑定，现在宽限期将结束。</p><p style="text-align: center;"><img alt="官方公告原文" class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/c67c4699-9054-4fdf-aeab-8bfda2c50c82.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 14:23:46 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 14:23:46 GMT</pubDate>
 </item>
 <item>
@@ -1336,10 +1288,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/809.htm</link>
 <guid>https://www.ithome.com/0/765/809.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，LLVM&nbsp;是一套编译器基础设施项目，提供了一套适合编译器系统的中间语言，包含一系列模块化的编译器组件和工具链，用来开发编译器前端和后端，支持 C / C++、C#、Swift、Python、Ruby、Rust 等各种语言。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/d11a5dc0-fd58-4143-880b-524f9a188495.jpg?x-bce-process=image/format,f_auto" /></p><p>今天早些时候，有一位名为“Wei Zhao”的人员在 <a href="https://github.com/llvm/llvm-project/blob/8aebe46d7fdd15f02a9716718f53b03056ef0d19/llvm/lib/Target/AArch64/AArch64SchedOryon.td" target="_blank">LLVM </a>项目中添加了对 Nuvia 处理器 Oryon 核心的调度模型，这意味着高通下一代骁龙 8 Gen 4 处理器已经获得了该项目的支持，而且 GitHub 代码显示它似乎将支持 14 位解码器。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/07c10226-74fe-46e6-937f-5e8d6a99bc0f.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE5MC5wbmc=,t_100,g_9,y_19,x_19,a_0/format,f_auto" /></p><p style="text-align: left;">按照往年惯例，高通骁龙新款旗舰处理器会在秋季与大家见面，今年也不会例外。@negativeonehero 之前爆料称，高通骁龙 8 Gen 4 将于 6 月前交付给各大 OEM，并于 9 /10 月初的骁龙峰会之前量产。</p><p style="text-align: left;">根据&nbsp;@数码闲聊站 的说法，骁龙 8 Gen 4 最新样片自研架构 Nuvia 2+6 大核频率在 3.6-4.0 GHz，Geekbench&nbsp;6 单多核成绩在 2700/10000 分左右，<span class="accentTextColor">首发机型暂定在 10 月中旬面世</span>。</p><p><span class="referenceTitle">相关阅读：</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p style="text-align: left;">《<a href="https://www.ithome.com/0/765/642.htm" target="_blank">消息称骁龙 8 Gen 4 首发机型暂定 10 月中旬发布，理论性能提升较大</a>》</p></li></ul>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 14:08:16 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 14:08:16 GMT</pubDate>
 </item>
 <item>
@@ -1347,10 +1297,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/808.htm</link>
 <guid>https://www.ithome.com/0/765/808.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，美光近日发布新闻稿，<strong>宣布成为首家为 AI 数据中心提供高端 DDR5 RDIMM 内存的制造商</strong>，运行速度高达 8000 MT/s。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/96c7b7eb-1e5e-42c9-8b27-b47fd2b09c91.jpg?x-bce-process=image/format,f_auto" /></p><p>美光在新闻稿中表示该公司验证并交付了高容量单片 32Gb DRAM 芯片 128GB DDR5 RDIMM 内存，速度达到&nbsp;5600 MT/s，处于行业领先地位。</p><p>IT之家注：128GB DDR5 RDIMM 内存采用美光业界领先的 1β (1-beta) 技术，相比较 3DS 硅通孔产品 位密度提高了 45% 以上，能源效率提高了 22%，延迟降低了 16%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/6301d480-40d3-4df6-92f1-e9662af0d6ad.jpg?x-bce-process=image/format,f_auto" /></p><p>美光在新闻稿中表示使用高容量 DDR5 内存，训练 AI 时性能最高可以提升 28%。高容量可以满足生成人工智能、内存数据库和实时数据分析等内存密集型工作负载，而快速响应时间可以加速 AI 推理能力。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:56:01 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:56:01 GMT</pubDate>
 </item>
 <item>
@@ -1358,10 +1306,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/807.htm</link>
 <guid>https://www.ithome.com/0/765/807.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，马斯克旗下社交平台 X 近日推出了基于 Grok 的全新功能“Stories on X”，由 AI 生成关于新闻、热门话题的摘要，<strong>帮用户快速概览近日头条内容以及用户感兴趣的内容。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/df21a278-2f31-4269-b527-7fbc658858af.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyOC5wbmc=,t_100,g_3,y_13,x_13,a_0/format,f_auto" /></p><p>根据 X 平台官方工程账号发布的推文，“Stories on X”上的内容完全由 Grok AI 策划推荐。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/d77bc560-5560-403d-8644-a40601663182.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyOC5wbmc=,t_100,g_3,y_13,x_13,a_0/format,f_auto" /></p><p>Grok 会关注热点新闻报道以及引发广泛讨论的公众话题，然后基于上述内容生成热点摘要。探索新功能的用户已经在 X 上发布了屏幕截图，展示了设计和布局，其中一些屏幕截图显示了人工智能生成的故事摘要，例如苹果的收益报告、“马斯克，专家辩论国家债务”等等。</p><p>IT之家注：X 在更名前曾有个名为 Moments 的类似功能，主要是由人工策划，但在 2022 年被砍掉。</p><p>此外，Grok 的内容摘要附带免责声明，例如“这个故事是 X 上帖子的摘要，可能会随着时间的推移而演变”和“Grok 可能会犯错误，请验证其内容输出。”</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:39:11 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:39:11 GMT</pubDate>
 </item>
 <item>
@@ -1369,10 +1315,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/806.htm</link>
 <guid>https://www.ithome.com/0/765/806.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，小米汽车官方今日发布了《小米 SU7 答网友问（第三十七集）》，针对部分用户关心的尾款支付、哨兵模式、全景玻璃天幕承压、电池免费更换等问题进行了解答。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/4cddfa2f-fb0c-48d9-8bb8-fe67f36d72bd.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附小米原文：</p><h2>支付尾款，可以分批分次支付吗？</h2><p>当然可以。我们支持尾款或首付款分多次支付，客户可按照自身资金分布的实际情况，完成线上或线下多次付尾款。具体来说有 3 种模式：</p><p>1）可支持个人客户线上多次支付，支付入口在小米汽车 App 中，可通过小米支付、支付宝支付、云闪付等支付方式进行支付，也支持在小米汽车 App 中获取收款账户，进行银行转账；</p><p>2）同时也支持线下多笔支付，客户可到交付中心进行多笔储蓄卡、信用卡支付或支付宝和微信扫码支付；</p><p>3）最后还支持客户线上支付部分尾款后，另一部分到交付中心进行刷卡或扫码等多笔付款。</p><p>总之，尾款可分多次支付，目标就是最大可能地满足个人客户不同情况的付款需求，为客户提供灵活便捷的支付体验。</p><h2>哨兵模式如果在家或公司的地库不需要开启，可以针对固定地点关闭吗？</h2><p>可以，小米 SU7 的哨兵模式支持“常用地点自动关闭”功能。</p><p>功能开启之后，当车辆位于地图中设置的家、公司这样的常用地点附近时，哨兵模式将自动关闭。</p><p>您可以到“设置”-“安全与服务”-“哨兵模式”下进行设置。</p><h2>小米 SU7 采用全景玻璃天幕，是否承压呢？最多承重是多少？</h2><p>小米 SU7 全景天幕承重能力大概为 120kg，但为了您的安全以及行车安全着想，请勿站在车顶或直接使用全景天幕承载物品。</p><h2>电池容量衰减到多少，可以免费更换呢？</h2><p>当动力电池容量衰减超过下表的容量衰减限值时（详见用户手册三包凭证相关章节），可以到小米汽车服务中心免费更换。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2024/5/b94f915f-87ad-448a-94a0-104d5505eed9.png?x-bce-process=image/format,f_auto" /></p><h2>通知交付时如果本人不在，可以家人或朋友代提吗？</h2><p style="text-align: start;">可以代提。提车前，交付顾问在交付群内与购车人确认提车及付款人，若需代提车，付款时由交付顾问在群内发送代提车、付款确认函，购车人领取并打印后勾选所需事项（代提车，代付款）后双签，提车当天除携带正常提车手续证件外，还需携带此函件及提前登陆下单人的小米汽车账户。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:31:26 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:31:26 GMT</pubDate>
 </item>
 <item>
@@ -1380,10 +1324,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/805.htm</link>
 <guid>https://www.ithome.com/0/765/805.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，微软公司近日发布新闻稿，未来将通过系统更新的方式，在 Windows 10、Windows 11 系统中部署零信任 DNS（Zero Trust DNS）服务。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/b172a5bf-ca83-4a4b-bce2-c4b842562e5f.jpg?x-bce-process=image/format,f_auto" /></p><p>微软表示启用该服务之后，Windows 10、Windows 11 系统会同时使用 Windows DNS 客户端和 Windows 筛选平台（WFP），IT之家附上微软官方描述如下：</p><blockquote><p>除了连接到 Protective DNS 服务器，以及需要发现网络连接信息的 DHCP、DHCPv6 和 NDP 流量之外，Windows 系统将阻止所有出站的 IPv4 和 IPv6 流量。</p></blockquote><p>微软希望管理员通过在安全策略中部署零信任 DNS 服务，<strong>能够阻止无法识别域名的任何网络流量。</strong>零信任 DNS 服务目前正处于私测阶段，微软表示未来会邀请更多 Windows Insider 项目成员参与测试。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/785507bb-710b-4e9c-b827-95630a4cfdcb.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/a5aa5cc9-bfc7-4de3-82c6-0675a9a6758a.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/1c994c4c-65c7-4f34-8961-6a5197f4fc70.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/06d00c1a-06bd-4f72-8ce2-449120c5c8a8.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:26:20 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:26:20 GMT</pubDate>
 </item>
 <item>
@@ -1391,10 +1333,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/803.htm</link>
 <guid>https://www.ithome.com/0/765/803.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，科技媒体 tomshardware 近日发布博文，<strong>对比了 AMD 的 RX 7700 XT 和英伟达的 RTX 4060 Ti 两款中端显卡</strong>，两者的售价均 400 美元（IT之家备注：当前约 2888 元人民币）左右。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/06d06da0-47bf-4ba1-977d-771b180a1499.jpg?x-bce-process=image/format,f_auto" /></p><p>英伟达 RTX 4060 Ti 于 2023 年上市，采用 Ada Lovelace GPU 架构，有 8GB 和 16GB 两种显存版本。</p><p>AMD RX 7700 XT 于 2023 年秋季推出，采用 RDNA 3 架构，并在 192 位总线上拥有 12GB 显存。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/98101277-d2d2-41d8-b776-e5e3ff73e4d1.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/6bb997fe-45ad-4905-9e92-a15cb3b436f6.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/ac9a7f20-2d00-44f3-a533-3fbd51c5be3a.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/87f5a36b-d31a-475b-9f98-8dd2824591c7.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/91e1b6a1-d0d3-43d1-b9c6-9aecc8c363be.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家翻译该媒体结论如下，对于评测细节感兴趣的用户可以跳转原文阅读。</p><blockquote><p>该媒体编辑认为如果要购买 400 美元价位显卡，那么推荐 AMD 的 RX 7700 XT。</p><p>对于不推荐消费者选购 RTX 4060 Ti 显卡的理由，该媒体认为如果英伟达没有将显卡位砍到 128-bit，且显存提高到 12GB，那么 RTX 4060 Ti 是非常值得购买的。</p><p>而 RTX 4060 Ti 目前的性价比较低，还不如购买前代 RTX 3060 Ti，综合考虑还是推荐选购拥有更高功率和更高光栅化性能的 RX 7700 XT。</p></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:09:36 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:09:36 GMT</pubDate>
 </item>
 <item>
@@ -1402,10 +1342,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/802.htm</link>
 <guid>https://www.ithome.com/0/765/802.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，在今晚举行的年度股东大会上，巴菲特旗下伯克希尔・哈撒韦发布了 2024 年第一季度业绩报告。</p><p>财报显示，伯克希尔・哈撒韦第一季度营收 898.69 亿美元（IT之家备注：当前约 6488.54 亿元人民币），相比去年的 853.93 亿美元同比增长约 5.24%；净利润达 127.02 亿美元（当前约 917.08 亿元人民币），上年同期为 355.04 亿美元，同比降低约 64.22%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/7745ebde-344d-45a7-be76-cb203ee92277.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/b2f81bab-0a7c-40d3-a3a6-43054966ec81.png?x-bce-process=image/format,f_auto" /></p><p>此外，伯克希尔・哈撒韦第一季度运营收入为 112.2 亿美元，环比增长 32%，相比一年前的 80.6 亿美元也增长了 39.2%；一季度保险投资运营收入 26 亿美元，环比下降 5.8%；一季度铁路业务营收 11.4 亿美元，环比下降 16%。一季度现金储备达 1890 亿美元，创历史新高。</p><p>随着这家企业继续抛售各路股票，伯克希尔・哈撒韦公司的现金储备已经激增至创纪录的 1890 亿美元（当前约 1.36 万亿元人民币）。截至 2024 年 3 月 31 日，伯克希尔・哈撒韦股本证券投资公允价值总额约 75% 集中在五家公司：</p><ul class=" list-paddingleft-2"><li><p>在苹果的持股价值从 1743 亿美元降至 1354 亿美元（当前约 9775.88 亿元人民币），相当于约 7.9 亿股，投资额下降了 13%；</p></li><li><p>美国银行从 348 亿美元增至 392 亿美元（当前约 2830.24 亿元人民币）；</p></li><li><p>美国运通从 284 亿美元增至 345 亿美元（当前约 2490.9 亿元人民币）；</p></li><li><p>可口可乐从 236 亿美元增至 245 亿美元（当前约 1768.9 亿元人民币）；</p></li><li><p>雪佛龙从 188 亿美元增至 194 亿美元（当前约 1400.68 亿元人民币）。</p></li></ul><p>截至 2024 年一季度末，公司持有的固定收益证券投资公允价值达 171.67 亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为 45.03 亿美元，109.97 亿美元，14.29 亿美元。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 13:08:34 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 13:08:34 GMT</pubDate>
 </item>
 <item>
@@ -1413,10 +1351,8 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/801.htm</link>
 <guid>https://www.ithome.com/0/765/801.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，5 月 1 日晚，有车主发布了一段行车记录仪视频，称自己驾驶的问界新 M7 四驱智驾版在路上行驶时突然灯光熄灭。此后 20 多秒内，车灯熄灭多次，并有车头向左偏转情况。</p><p>博主在多条视频的配文中表示，他是车主，车是新车，当时车内外灯光全部熄灭，包括仪表灯、中控显示器、氛围灯等车内外灯光全部熄灭。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/5/b1cc159c-9c09-468d-a6ec-19d589c90a41.png?x-bce-process=image/format,f_auto" /></p><p>这起事件引起了广泛关注，随后问界相关工作人员对红星新闻进行了回应：</p><blockquote><p>经过调查核实，该现象是由于驾驶员在操作远光灯时误触大灯开关所致。问题发现后已经及时解决，并且车主对处理结果表示认可。</p></blockquote><p>截至发稿，该车主已经删除了所发布的多条相关视频内容。IT之家这里也要提醒大家，对于夜间行车时全车灯光突然熄灭这类情况，正确的应对措施是开启危险报警闪光灯，缓慢减速并靠边停车，避免因紧急制动造成追尾事故。</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 12:57:56 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 12:57:56 GMT</pubDate>
 </item>
 <item>
@@ -1424,12 +1360,9 @@ ARPG游戏《剑星》发布后获得了很高的评分，成为PS5上用户评�
 <link>https://www.ithome.com/0/765/800.htm</link>
 <guid>https://www.ithome.com/0/765/800.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 4 日消息，彭博社的马克・古尔曼（Mark Gurman）今天发布博文，预测苹果今年 5 月 7 日“放飞吧”特别活动的新品阵容，包括新款 iPad Pro、iPad Air 以及 Apple Pencil 等。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/4/53b05863-1e9d-4bb1-873c-342489d642e4.png?x-bce-process=image/format,f_auto" /></p><p>IT之家基于古尔曼博文内容，简要梳理下本次活动主要新品如下：</p><h3>11/12.9 英寸 iPad Pro</h3><p>古尔曼表示这是苹果时隔 18 个月发布的新款 iPad，新款 iPad Pro 除了屏幕改用 OLED 面板之外，芯片方面可能也会采用 M4 系列芯片，有助于区分 iPad Air 产品线。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/5/23dd279d-9eac-41fd-a4b8-a011998a7adb.jpg?x-bce-process=image/format,f_auto" /></p><h3>iPad Air</h3><p>苹果今年会在 10.9 英寸基础上，还推出 12.9 英寸版 iPad Air。2024 年款 iPad Air 将会采用 M2 芯片。</p><h3>Apple Pencil</h3><p>古尔曼还预测苹果会推出配备触觉反馈的新 Apple Pencil，以及一款新的妙控键盘，目标是让 iPad 看起来更像是笔记本。</p><h3>不会发布入门级 iPad 和新款 iPad mini</h3><p>苹果公司正在开发入门级 iPad 和新款 iPad mini，但不会在本次活动中宣布。古尔曼表示苹果正计划调整第 11 代 iPad 规格，让其价格低于第 10 代 iPad。</p><h3>介绍 AI 功能</h3><p>苹果公司将会介绍一些 AI 功能，预热 6 月 10 日举办的 WWDC 开发者大会。</p><h3>花絮：</h3><p>古尔曼表示“放飞吧”特别活动将会在北京时间 5 月 7 日晚上 10 点开始，<strong>发布会持续时间大约为 1.5 小时</strong>，要比此前时间更早，对中国用户更加友好，不需要熬夜到凌晨了。</p>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 12:49:38 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 12:49:38 GMT</pubDate>
 </item>
-
 </channel>
 </rss>
