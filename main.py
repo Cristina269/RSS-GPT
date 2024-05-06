@@ -186,6 +186,8 @@ def output(sec, language):
         max_items = int(max_items)
     cnt = 0
     existing_entries = read_entry_from_file(sec)
+    for entry in existing_entries:
+        entry.summary = None  # 将 existing_entries 中的 summary 设为 None,不生成总结
     with open(log_file, 'a') as f:
         f.write('------------------------------------------------------\n')
         f.write(f'Started: {datetime.datetime.now()}\n')
