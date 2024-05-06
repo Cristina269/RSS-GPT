@@ -146,146 +146,64 @@ def gpt_summary(query,model,language):
     return completion.choices[0].message.content
 
 def output(sec, language):
-    """ output
-    This function is used to output the summary of the RSS feed.
+    """Outputs summaries and links of RSS feed entries.
 
     Args:
         sec: section name in config.ini
+        language: language code for summary generation
 
     Raises:
-        Exception: filter_apply, type, rule must be set together in config.ini
+        Exception: If filter criteria are not properly set in config.ini
     """
+    # Configuration and logging setup
     log_file = os.path.join(BASE, get_cfg(sec, 'name') + '.log')
     out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
-    # read rss_url as a list separated by comma
-    rss_urls = get_cfg(sec, 'url')
-    rss_urls = rss_urls.split(',')
+    rss_urls = get_cfg(sec, 'url').split(',')
 
-    # RSS feed filter apply, filter title, article or link, summarize title, article or link
+    # Filter criteria from config
     filter_apply = get_cfg(sec, 'filter_apply')
-
-    # RSS feed filter type, include or exclude or regex match or regex not match
     filter_type = get_cfg(sec, 'filter_type')
-
-    # Regex rule or keyword rule, depends on the filter_type
     filter_rule = get_cfg(sec, 'filter_rule')
 
-    # filter_apply, type, rule must be set together
-    if filter_apply and filter_type and filter_rule:
-        pass
-    elif not filter_apply and not filter_type and not filter_rule:
-        pass
-    else:
+    if not (filter_apply and filter_type and filter_rule):
         raise Exception('filter_apply, type, rule must be set together')
 
-    # Max number of items to summarize
-    max_items = get_cfg(sec, 'max_items')
-    if not max_items:
-        max_items = 0
-    else:
-        max_items = int(max_items)
-    cnt = 0
+    max_items = int(get_cfg(sec, 'max_items', 0))
+    
+    # Read existing entries and truncate if necessary
     existing_entries = read_entry_from_file(sec)
-    with open(log_file, 'a') as f:
-        f.write('------------------------------------------------------\n')
-        f.write(f'Started: {datetime.datetime.now()}\n')
-        f.write(f'Existing_entries: {len(existing_entries)}\n')
-    existing_entries = truncate_entries(existing_entries, max_entries=max_entries)
-    # Be careful when the deleted ones are still in the feed, in that case, you will mess up the order of the entries.
-    # Truncating old entries is for limiting the file size, 1000 is a safe number to avoid messing up the order.
+    existing_entries = truncate_entries(existing_entries, max_entries=max_items)
     append_entries = []
 
     for rss_url in rss_urls:
-        with open(log_file, 'a') as f:
-            f.write(f"Fetching from {rss_url}\n")
-            print(f"Fetching from {rss_url}")
         feed = feedparser.parse(rss_url)
-        if feed.status != 200:
-            with open(log_file, 'a') as f:
-                f.write(f"Feed error: {feed.status}\n")
-            continue
         if feed.bozo:
-            with open(log_file, 'a') as f:
-                f.write(f"Feed error: {feed.bozo_exception}\n")
-            continue
+            continue  # Skip malformed feeds
+
         for entry in feed.entries:
-            if cnt > max_entries:
-                with open(log_file, 'a') as f:
-                    f.write(f"Skip from: [{entry.title}]({entry.link})\n")
+            if len(append_entries) >= max_items:
                 break
 
-            if entry.link.find('#replay') and entry.link.find('v2ex'):
-                entry.link = entry.link.split('#')[0]
+            # Generate or retrieve necessary fields
+            entry.title = entry.get('title', 'Untitled')
+            entry.article = entry.get('content', [{}])[0].get('value', entry.get('description', entry.title))
 
-            if entry.link in [x.link for x in existing_entries]:
-                continue
-
-            if entry.link in [x.link for x in append_entries]:
-                continue
-
-            entry.title = generate_untitled(entry)
-
-            try:
-                entry.article = entry.content[0].value
-            except:
-                try: entry.article = entry.description
-                except: entry.article = entry.title
-
+            # Clean HTML content
             cleaned_article = clean_html(entry.article)
-
+            
+            # Apply filtering based on config
             if not filter_entry(entry, filter_apply, filter_type, filter_rule):
-                with open(log_file, 'a') as f:
-                    f.write(f"Filter: [{entry.title}]({entry.link})\n")
                 continue
 
-
-#            # format to Thu, 27 Jul 2023 13:13:42 +0000
-#            if 'updated' in entry:
-#                entry.updated = parse(entry.updated).strftime('%a, %d %b %Y %H:%M:%S %z')
-#            if 'published' in entry:
-#                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
-
-            cnt += 1
-            if cnt > max_items:
-                entry.summary = None
-            elif OPENAI_API_KEY:
-                token_length = len(cleaned_article)
-                try:
-                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo", language=language)
-                    with open(log_file, 'a') as f:
-                        f.write(f"Token length: {token_length}\n")
-                        f.write(f"Summarized using GPT-3.5-turbo\n")
-                except:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-turbo-preview", language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using GPT-4-turbo-preview\n")
-                    except Exception as e:
-                        entry.summary = None
-                        with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed, append the original article\n")
-                            f.write(f"error: {e}\n")
-
+            # Summarize using GPT model
+            entry.summary = gpt_summary(cleaned_article, model="gpt-3.5-turbo", language=language)
             append_entries.append(entry)
-            with open(log_file, 'a') as f:
-                f.write(f"Append: [{entry.title}]({entry.link})\n")
 
-    with open(log_file, 'a') as f:
-        f.write(f'append_entries: {len(append_entries)}\n')
-
-    template = Template(open('template.xml').read())
-    
-    try:
-        rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
-        with open(out_dir + '.xml', 'w') as f:
-            f.write(rss)
-        with open(log_file, 'a') as f:
-            f.write(f'Finish: {datetime.datetime.now()}\n')
-    except:
-        with open (log_file, 'a') as f:
-            f.write(f"error when rendering xml, skip {out_dir}\n")
-            print(f"error when rendering xml, skip {out_dir}\n")
+    # Output the summaries and links to a file
+    with open(os.path.join(out_dir, 'summaries_and_links.txt'), 'w') as f:
+        for entry in append_entries:
+            summary_text = entry.summary if 'summary' in entry else 'No summary available'
+            f.write(f"Summary: {summary_text}\nLink: {entry.link}\n\n")
 
 config = configparser.ConfigParser()
 config.read('config.ini')
