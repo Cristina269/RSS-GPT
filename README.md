@@ -54,4 +54,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://v2ex.com/index.xml -> https://Cristina269.github.io/RSS-GPT/v2.xml
+- https://www.ithome.com/rss/ -> https://Cristina269.github.io/RSS-GPT/v2.xml
