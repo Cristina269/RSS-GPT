@@ -54,5 +54,8 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://v2ex.com/index.xml, https://sspai.com/feed, https://www.zhihu.com/rss -> https://Cristina269.github.io/RSS-GPT/summary_entertainment.xml
+- https://v2ex.com/index.xml -> https://Cristina269.github.io/RSS-GPT/v2.xml
 - https://rsshub.app/infzm/2, https://www.ithome.com/rss/ -> https://Cristina269.github.io/RSS-GPT/summary_news.xml
+- https://sspai.com/feed -> https://Cristina269.github.io/RSS-GPT/sspai.xml
+- https://www.zhihu.com/rss -> https://Cristina269.github.io/RSS-GPT/zhihu.xml
+- https://www.ithome.com/rss/ -> https://Cristina269.github.io/RSS-GPT/ithome.xml
