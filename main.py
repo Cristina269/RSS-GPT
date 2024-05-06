@@ -249,18 +249,23 @@ def output(sec, language):
             if cnt > max_items:
                 entry.summary = None
             elif OPENAI_API_KEY:
+                token_length = len(cleaned_article)
                 try:
-                    entry.summary = gpt_summary(cleaned_article, model="gpt-3.5-turbo", language=language)
-                except Exception as e:
-                    entry.summary = f"Summarization failed: {e}"
-
-            # 在日志文件和控制台中只输出总结和链接
-            if entry.summary:
-                with open(log_file, 'a') as f:
-                    f.write(f"Summary: {entry.summary}\n")
-                    f.write(f"Link: {entry.link}\n")
-                print(f"Summary: {entry.summary}")
-                print(f"Link: {entry.link}")
+                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo", language=language)
+                    with open(log_file, 'a') as f:
+                        f.write(f"Token length: {token_length}\n")
+                        f.write(f"Summarized using GPT-3.5-turbo\n")
+                except:
+                    try:
+                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-turbo-preview", language=language)
+                        with open(log_file, 'a') as f:
+                            f.write(f"Token length: {token_length}\n")
+                            f.write(f"Summarized using GPT-4-turbo-preview\n")
+                    except Exception as e:
+                        entry.summary = None
+                        with open(log_file, 'a') as f:
+                            f.write(f"Summarization failed, append the original article\n")
+                            f.write(f"error: {e}\n")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
@@ -281,7 +286,6 @@ def output(sec, language):
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
-
 
 
 config = configparser.ConfigParser()
