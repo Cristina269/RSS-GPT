@@ -146,21 +146,16 @@ def gpt_summary(query,model,language):
     return completion.choices[0].message.content
 
 def output(sec, language):
-    """Outputs summaries and links of RSS feed entries.
+    """
+    This function is used to output the summary and link of the RSS feed entries.
 
     Args:
         sec: section name in config.ini
-        language: language code for summary generation
-
-    Raises:
-        Exception: If filter criteria are not properly set in config.ini
     """
-    # Configuration and logging setup
     log_file = os.path.join(BASE, get_cfg(sec, 'name') + '.log')
     out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
     rss_urls = get_cfg(sec, 'url').split(',')
 
-    # Filter criteria from config
     filter_apply = get_cfg(sec, 'filter_apply')
     filter_type = get_cfg(sec, 'filter_type')
     filter_rule = get_cfg(sec, 'filter_rule')
@@ -169,42 +164,50 @@ def output(sec, language):
         raise Exception('filter_apply, type, rule must be set together')
 
     max_items = int(get_cfg(sec, 'max_items', 0))
-    
-    # Read existing entries and truncate if necessary
     existing_entries = read_entry_from_file(sec)
     existing_entries = truncate_entries(existing_entries, max_entries=max_items)
+
     append_entries = []
 
     for rss_url in rss_urls:
         feed = feedparser.parse(rss_url)
-        if feed.bozo:
-            continue  # Skip malformed feeds
+        if feed.status != 200 or feed.bozo:
+            continue
 
         for entry in feed.entries:
             if len(append_entries) >= max_items:
                 break
 
-            # Generate or retrieve necessary fields
-            entry.title = entry.get('title', 'Untitled')
-            entry.article = entry.get('content', [{}])[0].get('value', entry.get('description', entry.title))
+            entry.title = generate_untitled(entry)
+            try:
+                entry.article = entry.content[0].value
+            except AttributeError:
+                entry.article = entry.description if 'description' in entry else entry.title
 
-            # Clean HTML content
             cleaned_article = clean_html(entry.article)
-            
-            # Apply filtering based on config
+
             if not filter_entry(entry, filter_apply, filter_type, filter_rule):
                 continue
 
-            # Summarize using GPT model
-            entry.summary = gpt_summary(cleaned_article, model="gpt-3.5-turbo", language=language)
+            if entry.link in [x.link for x in existing_entries + append_entries]:
+                continue
+
+            try:
+                entry.summary = gpt_summary(cleaned_article, model="gpt-3.5-turbo", language=language)
+            except Exception as e:
+                entry.summary = f"Summarization failed: {str(e)}"
+
             append_entries.append(entry)
 
-    # Output the summaries and links to a file
-    with open(os.path.join(out_dir, 'summaries_and_links.txt'), 'w') as f:
+    # Output the summaries and links
+    with open(log_file, 'a') as log:
+        log.write('------------------------------------------------------\n')
+        log.write(f'Started: {datetime.datetime.now()}\n')
         for entry in append_entries:
-            summary_text = entry.summary if 'summary' in entry else 'No summary available'
-            f.write(f"Summary: {summary_text}\nLink: {entry.link}\n\n")
-
+            log.write(f"Title: {entry.title}\n")
+            log.write(f"Link: {entry.link}\n")
+            log.write(f"Summary: {entry.summary}\n")
+            log.write('------------------------------------------------------\n')
 config = configparser.ConfigParser()
 config.read('config.ini')
 secs = config.sections()
