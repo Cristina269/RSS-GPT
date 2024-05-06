@@ -284,7 +284,7 @@ def output(sec, language):
     except:
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
-            print(f"error when rendering xml, skip {out_dir}\n"))
+            print(f"error when rendering xml, skip {out_dir}\n")
 
 
 
