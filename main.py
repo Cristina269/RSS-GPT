@@ -249,18 +249,23 @@ def output(sec, language):
             if cnt > max_items:
                 entry.summary = None
             elif OPENAI_API_KEY:
+                token_length = len(cleaned_article)
                 try:
-                    entry.summary = gpt_summary(cleaned_article, model="gpt-3.5-turbo", language=language)
-                except Exception as e:
-                    entry.summary = f"Summarization failed: {e}"
-
-            # 在日志文件和控制台中只输出总结和链接
-            if entry.summary:
-                with open(log_file, 'a') as f:
-                    f.write(f"Summary: {entry.summary}\n")
-                    f.write(f"Link: {entry.link}\n")
-                print(f"Summary: {entry.summary}")
-                print(f"Link: {entry.link}")
+                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo", language=language)
+                    with open(log_file, 'a') as f:
+                        f.write(f"Token length: {token_length}\n")
+                        f.write(f"Summarized using GPT-3.5-turbo\n")
+                except:
+                    try:
+                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-turbo-preview", language=language)
+                        with open(log_file, 'a') as f:
+                            f.write(f"Token length: {token_length}\n")
+                            f.write(f"Summarized using GPT-4-turbo-preview\n")
+                    except Exception as e:
+                        entry.summary = None
+                        with open(log_file, 'a') as f:
+                            f.write(f"Summarization failed, append the original article\n")
+                            f.write(f"error: {e}\n")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
@@ -271,17 +276,17 @@ def output(sec, language):
 
     template = Template(open('template.xml').read())
     
-    try:
-        rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
-        with open(out_dir + '.xml', 'w') as f:
-            f.write(rss)
-        with open(log_file, 'a') as f:
-            f.write(f'Finish: {datetime.datetime.now()}\n')
-    except:
-        with open (log_file, 'a') as f:
-            f.write(f"error when rendering xml, skip {out_dir}\n")
-            print(f"error when rendering xml, skip {out_dir}\n")
+    with open(log_file, 'a') as f:
+        f.write(f'append_entries: {len(append_entries)}\n')
 
+    for entry in append_entries:
+        if entry.summary:
+            print(f"[{entry.title}]({entry.link})\n{entry.summary}\n")
+        else:
+            print(f"[{entry.title}]({entry.link})\n")
+
+    with open(log_file, 'a') as f:
+        f.write(f'Finish: {datetime.datetime.now()}\n')
 
 
 
