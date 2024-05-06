@@ -407,3 +407,26 @@ Summarized using GPT-3.5-turbo
 Append: [[前端开发] 如何看待在前端页面里实现类似于浏览器标签页的需求？](https://www.v2ex.com/t/1038071)
 append_entries: 2
 Finish: 2024-05-06 06:52:25.663530
+------------------------------------------------------
+Started: 2024-05-06 06:57:27.862442
+Existing_entries: 54
+Fetching from https://v2ex.com/index.xml
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [[Android] 逆向分析 apk 接口的需求](https://www.v2ex.com/t/1038078)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [[酷工作] 新华三集团招聘高级数据测试人员一名](https://www.v2ex.com/t/1038077)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [[OpenWrt] OPENWRT 旁路由上不了网](https://www.v2ex.com/t/1038076)
+Token length: 619
+Summarized using GPT-3.5-turbo
+Append: [[酷工作] 新加坡专场招聘：
+Senior Back-end（Golang、C++）
+Senior Front-end
+Senior App/Mobile -Flutter
+Senior QA Engineer
+DevOps Engineer](https://www.v2ex.com/t/1038075)
+append_entries: 4
+Finish: 2024-05-06 06:57:43.174478

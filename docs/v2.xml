@@ -5,286 +5,374 @@
 <link>https://www.v2ex.com/</link>
 
 <item>
+<title>[Android] 逆向分析 apk 接口的需求</title>
+<link>https://www.v2ex.com/t/1038078</link>
+<guid>https://www.v2ex.com/t/1038078</guid>
+<content:encoded><![CDATA[
+<div> 证券、app、接口、指导、开发
+海外证券市场投资经历，有开好的账户可用最好，希望得到一些关于证券app接口的分析，以指导公司新立项目的开发。团队缺乏参考案例，对于证券app接口设计缺乏经验。同时，也希望能方便快捷地开设账户，许多app的开户流程复杂繁琐。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[酷工作] 新华三集团招聘高级数据测试人员一名</title>
+<link>https://www.v2ex.com/t/1038077</link>
+<guid>https://www.v2ex.com/t/1038077</guid>
+<content:encoded><![CDATA[
+<div> 计算机、金融、会计、系统功能测试、数据测试
+总结:<br><br>本职位要求具备计算机、金融、会计等相关专业背景，7年以上银行IT领域项目测试经验，9年银行行业测试项目经验。工作内容包括系统功能测试、数据测试、团队管理、数据分析、风险控制及测试优化。待遇为15K左右，双休，十三薪，入职购买五险一金。工作地点在江西上饶。联系方式为QwedRtdefe123@protonmail.com。邮件标题需按照姓名+V2EX+数据测试格式命名。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[OpenWrt] OPENWRT 旁路由上不了网</title>
+<link>https://www.v2ex.com/t/1038076</link>
+<guid>https://www.v2ex.com/t/1038076</guid>
+<content:encoded><![CDATA[
+<div> ESXI、OPENWRT、崩了、重装、网络问题<br>
+<br>
+总结:<br>
+用户的旁路由在ESXI虚拟机里安装了基于lean源码编译的OPENWRT系统，最近突然崩溃导致无法连接网络。重新安装后仍然无法连接网络，梯子更新、NTP同步时间、ping都无法成功。尝试更改电脑网关也无效。用户需要指导解决网络连接问题。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[酷工作] 新加坡专场招聘：
+Senior Back-end（Golang、C++）
+Senior Front-end
+Senior App/Mobile -Flutter
+Senior QA Engineer
+DevOps Engineer</title>
+<link>https://www.v2ex.com/t/1038075</link>
+<guid>https://www.v2ex.com/t/1038075</guid>
+<content:encoded><![CDATA[
+<div> Senior Back-end Development Engineer，Golang，C++，Front-end Engineer，App/Mobile Engineer，Flutter，QA Engineer，DevOps Engineer，Big Data Developer<br>
+<br>
+总结：<br>
+本公司目前招聘一系列高级工程师职位，包括后端开发、前端开发、移动端开发、软件测试、DevOps 和大数据开发等。要求应聘者具有5年以上相关工作经验，持有985/211/海外本科学历，熟悉云服务和Linux操作系统维护。具体要求包括精通Golang/C++/Flutter等编程语言，有负责金融产品开发经验，了解Web3行业等，优先考虑新加坡公民或PR持有者。应聘者可发送简历至justinxu@futuretalent.com.cn或添加微信/TG:jtx_2023/@jtx_2023。 </div>
+]]></content:encoded>
+</item>
+
+<item>
 <title>[问与答] Dropbox 一直莫名奇妙自动下载</title>
 <link>https://www.v2ex.com/t/1038072</link>
 <guid>https://www.v2ex.com/t/1038072</guid>
-<content:encoded><![CDATA[
-<div> 在线访问 文件 下载 问题 明明
-
-总结:<br><br>文章主要描述了一个设定为仅在线访问的文件，却莫名奇妙自动要求下载的问题。作者感到困惑并询问是否有其他人也遇到过类似情况。文章提到了设定为仅在线访问的文件却自动下载的现象，表达了作者对这种问题的困惑和不解。希望得知是否其他人也遇到过类似问题，或者能够给出解决方案。 </div>
-]]></content:encoded>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[前端开发] 如何看待在前端页面里实现类似于浏览器标签页的需求？</title>
 <link>https://www.v2ex.com/t/1038071</link>
 <guid>https://www.v2ex.com/t/1038071</guid>
-<content:encoded><![CDATA[
-<div> 浏览器，标签页，前端，功能，多余
-<br>
-浏览器本身就自带标签页，为何有些公司还要在前端实现一套类似的功能呢？这显得有些多余。使用浏览器自带的标签页已经够方便了，没有必要增加系统复杂度。前端再做一套标签页功能只会增加开发和维护的成本，没有太多实际好处。工程师们应该更多地考虑如何提高用户体验和页面性能，而不是重复造轮子。如果能够充分利用已有的浏览器功能，对于公司的产品和用户来说都是更明智的选择。
-<br><br>总结: 浏览器自带标签页功能已经足够，前端再实现一套标签页显得多余，并增加系统复杂度。优先考虑提高用户体验和页面性能，充分利用已有浏览器功能是更明智的选择。 </div>
-]]></content:encoded>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
-
 <item>
 <title>[程序员] 全新域名升级， liusha.app 升级到 apk.bot，大家觉得这个域名怎么样</title>
 <link>https://www.v2ex.com/t/1038070</link>
 <guid>https://www.v2ex.com/t/1038070</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[NAS] 请问下，恩山论坛是怎么了？</title>
 <link>https://www.v2ex.com/t/1038069</link>
 <guid>https://www.v2ex.com/t/1038069</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 亚马逊是放弃国内用户了么？</title>
 <link>https://www.v2ex.com/t/1038068</link>
 <guid>https://www.v2ex.com/t/1038068</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 出于业余爱好的目的，如何学习前端？</title>
 <link>https://www.v2ex.com/t/1038067</link>
 <guid>https://www.v2ex.com/t/1038067</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享发现] 我弄了个网站，免费的，本地运行模型 Llama3 模型，发散性思维助力程序开发 CodeCopilot AI</title>
 <link>https://www.v2ex.com/t/1038066</link>
 <guid>https://www.v2ex.com/t/1038066</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[前端开发] 如何在 Vue3 里使用 Three.js 创建随鼠标旋转的粒子天空</title>
 <link>https://www.v2ex.com/t/1038064</link>
 <guid>https://www.v2ex.com/t/1038064</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享发现] [今日分享] #004 - StoryDiffusion 高质量开源漫画生成</title>
 <link>https://www.v2ex.com/t/1038063</link>
 <guid>https://www.v2ex.com/t/1038063</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[酷工作] 准备开始接单了</title>
 <link>https://www.v2ex.com/t/1038061</link>
 <guid>https://www.v2ex.com/t/1038061</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[浏览器] Arc 浏览器 Win10 下的食用方式</title>
 <link>https://www.v2ex.com/t/1038060</link>
 <guid>https://www.v2ex.com/t/1038060</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[全球工单系统] 噩耗！技术部的去留由你们决定！小程序被封禁公开搜索，调用分享，支付能力，因为经营类目问题！</title>
 <link>https://www.v2ex.com/t/1038058</link>
 <guid>https://www.v2ex.com/t/1038058</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[路由器] tp link 路由器串口密码规则有哪些</title>
 <link>https://www.v2ex.com/t/1038057</link>
 <guid>https://www.v2ex.com/t/1038057</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[拼车] tailwindui 拼车</title>
 <link>https://www.v2ex.com/t/1038056</link>
 <guid>https://www.v2ex.com/t/1038056</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[奇思妙想] 好奇，至今还在 V2EX 活跃的 ID 是那些。</title>
 <link>https://www.v2ex.com/t/1038055</link>
 <guid>https://www.v2ex.com/t/1038055</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 卡巴机器人是智商税吗？</title>
 <link>https://www.v2ex.com/t/1038053</link>
 <guid>https://www.v2ex.com/t/1038053</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[程序员] 有没有 flutter 的大哥，有偿请教问题</title>
 <link>https://www.v2ex.com/t/1038052</link>
 <guid>https://www.v2ex.com/t/1038052</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 失业的人，后来都去做什么了？</title>
 <link>https://www.v2ex.com/t/1038051</link>
 <guid>https://www.v2ex.com/t/1038051</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[旅行] 整理的仙本那十天开放潜水学习攻略</title>
 <link>https://www.v2ex.com/t/1038047</link>
 <guid>https://www.v2ex.com/t/1038047</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[旅行] [川西] 7 日自驾归来</title>
 <link>https://www.v2ex.com/t/1038046</link>
 <guid>https://www.v2ex.com/t/1038046</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[路由器] 大神们中兴巡天 AX3000Pro+和中兴 5400pro+怎么选啊</title>
 <link>https://www.v2ex.com/t/1038044</link>
 <guid>https://www.v2ex.com/t/1038044</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[游戏] 万能的 v 友们，密室逃脱有什么套路，如果被关密室一般要怎么出去呀</title>
 <link>https://www.v2ex.com/t/1038043</link>
 <guid>https://www.v2ex.com/t/1038043</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 关于制做照片视频的问题</title>
 <link>https://www.v2ex.com/t/1038041</link>
 <guid>https://www.v2ex.com/t/1038041</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 求一个开源的 chatgpt 套壳程序</title>
 <link>https://www.v2ex.com/t/1038040</link>
 <guid>https://www.v2ex.com/t/1038040</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[推广] wificalling 免费接电话接短信 新西兰接码神器 one NZ 非实名原封电话卡现货，￥ 76 广州圆通包邮</title>
 <link>https://www.v2ex.com/t/1038039</link>
 <guid>https://www.v2ex.com/t/1038039</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[宽带症候群] 求证：北京联通 IPTV 的央视 4k 频道消失了？</title>
 <link>https://www.v2ex.com/t/1038037</link>
 <guid>https://www.v2ex.com/t/1038037</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享发现] Gemini 现在可以打通你的 Gmail、Google Drive、文档等数据了</title>
 <link>https://www.v2ex.com/t/1038036</link>
 <guid>https://www.v2ex.com/t/1038036</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 求推荐手表或手环</title>
 <link>https://www.v2ex.com/t/1038035</link>
 <guid>https://www.v2ex.com/t/1038035</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[职场话题] 曾经怀抱着 35 岁被毕业的决心仍然想着来这行赚快钱的 00 后们，如今作何感想？</title>
 <link>https://www.v2ex.com/t/1038033</link>
 <guid>https://www.v2ex.com/t/1038033</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 白嫖免费机场的汇总</title>
 <link>https://www.v2ex.com/t/1038032</link>
 <guid>https://www.v2ex.com/t/1038032</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[OpenAI] chatgpt plus 会员共享， 4 人车，有两人下车， 补人</title>
 <link>https://www.v2ex.com/t/1038030</link>
 <guid>https://www.v2ex.com/t/1038030</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享发现] 有在中小创业公司呆过的朋友吗？</title>
 <link>https://www.v2ex.com/t/1038029</link>
 <guid>https://www.v2ex.com/t/1038029</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] Obsidian+Remotely Save 同步方案靠谱吗？</title>
 <link>https://www.v2ex.com/t/1038028</link>
 <guid>https://www.v2ex.com/t/1038028</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[iPad] 明天就是发布会了，期待新 iPad 和新的 smart keyboard 已经好多年没更新了</title>
 <link>https://www.v2ex.com/t/1038027</link>
 <guid>https://www.v2ex.com/t/1038027</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[求职] 程序员 15w 接了一个公寓系统+小程序</title>
 <link>https://www.v2ex.com/t/1038025</link>
 <guid>https://www.v2ex.com/t/1038025</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[汽车] 凯迪拉克 ct5 怎么样？</title>
 <link>https://www.v2ex.com/t/1038024</link>
 <guid>https://www.v2ex.com/t/1038024</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 微信读书非会员导入图书有限制，有其他同类图书 APP 推荐吗</title>
 <link>https://www.v2ex.com/t/1038022</link>
 <guid>https://www.v2ex.com/t/1038022</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享发现] 一个义务教育+高中段电子教材合集网站</title>
 <link>https://www.v2ex.com/t/1038021</link>
 <guid>https://www.v2ex.com/t/1038021</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[买买买] 一加 ACE2 pro root 准原生 rom</title>
 <link>https://www.v2ex.com/t/1038020</link>
 <guid>https://www.v2ex.com/t/1038020</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 有没有教我赚外快的</title>
 <link>https://www.v2ex.com/t/1038019</link>
 <guid>https://www.v2ex.com/t/1038019</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 有熟悉 amazon ses 的朋友吗？</title>
 <link>https://www.v2ex.com/t/1038018</link>
 <guid>https://www.v2ex.com/t/1038018</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享创造] 我开发了一款 AI 文字游戏《逃出升天》免费试玩！</title>
 <link>https://www.v2ex.com/t/1038017</link>
 <guid>https://www.v2ex.com/t/1038017</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 才想起来，你们通义灵码的盲盒有收到货吗</title>
 <link>https://www.v2ex.com/t/1038016</link>
 <guid>https://www.v2ex.com/t/1038016</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[分享创造] RunFlow v1.3.1 发布：支持固定结果，使结果始终显示在列表前面</title>
 <link>https://www.v2ex.com/t/1038015</link>
 <guid>https://www.v2ex.com/t/1038015</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[生活] 有没有人报过那些写作训练营的？</title>
 <link>https://www.v2ex.com/t/1038013</link>
 <guid>https://www.v2ex.com/t/1038013</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[程序员] 麻烦大家帮我做一下新网站的 DDOS 测试，我们加了盾，阿里云测试通过了，但是不知道有没有其他问题</title>
 <link>https://www.v2ex.com/t/1038012</link>
 <guid>https://www.v2ex.com/t/1038012</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 工作半年后的回顾，被回旋镖打中了</title>
 <link>https://www.v2ex.com/t/1038010</link>
 <guid>https://www.v2ex.com/t/1038010</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] youtube 的推荐机制</title>
 <link>https://www.v2ex.com/t/1038008</link>
 <guid>https://www.v2ex.com/t/1038008</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[问与答] 不太能理解，像旧款数码相机这样的电子产品也会因为停产而涨价吗？</title>
 <link>https://www.v2ex.com/t/1038007</link>
 <guid>https://www.v2ex.com/t/1038007</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[香港] 轮到我了-港卡 walk in 流程</title>
 <link>https://www.v2ex.com/t/1038005</link>
 <guid>https://www.v2ex.com/t/1038005</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[Markdown] obsidian 有没有类似 typora github 的主题</title>
 <link>https://www.v2ex.com/t/1038003</link>
 <guid>https://www.v2ex.com/t/1038003</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[程序员] 桌面应用中的第三方 key 和 secret 是不是理论上无法杜绝被破解？</title>
 <link>https://www.v2ex.com/t/1038002</link>
 <guid>https://www.v2ex.com/t/1038002</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[Android] 安卓有可以隐藏 app 的软件推荐吗</title>
 <link>https://www.v2ex.com/t/1038001</link>
 <guid>https://www.v2ex.com/t/1038001</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>[Python] 有什么比 Email 更健壮可靠的沟通工具？</title>
 <link>https://www.v2ex.com/t/1037999</link>
 <guid>https://www.v2ex.com/t/1037999</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 </channel>
 </rss>
