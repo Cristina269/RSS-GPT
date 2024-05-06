@@ -103,3 +103,21 @@ Existing_entries: 25
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-06 09:31:43.144327
+------------------------------------------------------
+Started: 2024-05-06 10:07:23.686572
+Existing_entries: 25
+Fetching from 	https://www.gcores.com/rss
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [直连网盘资源：网易推出智能媒体库Filmly](https://www.gcores.com/articles/181334)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [未来游戏的一瞥，英伟达AI技术改变电子游戏](https://www.gcores.com/videos/181312)
+Token length: 1376
+Summarized using GPT-3.5-turbo
+Append: [“音乐和游戏是我的两大热爱”｜一首献给「核聚变」的Jazz Hip-Hop](https://www.gcores.com/articles/181297)
+Token length: 462
+Summarized using GPT-3.5-turbo
+Append: [本周节目预告 5.6~5.12](https://www.gcores.com/articles/181332)
+append_entries: 4
+Finish: 2024-05-06 10:07:41.446504
