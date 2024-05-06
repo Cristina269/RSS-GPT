@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>V2EX</title>
+<link>https://www.v2ex.com/</link>
+
+<item>
+<title>[问与答] 亚马逊是放弃国内用户了么？</title>
+<link>https://www.v2ex.com/t/1038068</link>
+<guid>https://www.v2ex.com/t/1038068</guid>
+<content:encoded><![CDATA[
+<div> 亚马逊 海外购 网页版 取消手机APP 搜索不到价格高 歧视
+<br>
+用户抱怨亚马逊海外购改名为亚马逊，取消网页版改成APP访问后，APP版本较差且只有美国货源，日本和欧洲的货源无法搜索到，价格高昂。用户怀疑亚马逊放弃了国内用户，且国外用户更新APP后也被强制切换至国内版本。用户发现即便使用代理访问网页版，填写国内地址后要么无法送达，要么运费昂贵，导致购物不划算。用户表示遗憾一个原本好好的购物网站被自己毁坏。<br><br>总结: 用户抱怨亚马逊海外购改名为亚马逊后取消了网页版，APP版本差且价格高昂，怀疑亚马逊歧视国内用户，国外用户也被强制切换至国内版本，购物不再便利。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 出于业余爱好的目的，如何学习前端？</title>
+<link>https://www.v2ex.com/t/1038067</link>
+<guid>https://www.v2ex.com/t/1038067</guid>
+<content:encoded><![CDATA[
+<div> div 适配 转化 实际工具 前端技术
+
+要点一：学习前端技术能提高开发效率，便于适配不同分辨率。
+要点二：通过学习前端技术，可以将设计稿快速转化成实际工具。
+要点三：前端技术能帮助快速将图片或设计软件中的稿件转化为实用工具。
+要点四：学习前端技术有助于提高设计工作的效率和专业性。
+要点五：前端技术可以帮助半吊子状态的人相对高效地将设计稿转化成实际工具。
+
+<br><br>总结: 学习前端技术可以提高开发效率，适配不同分辨率的设计稿，快速将设计稿转化成实际工具，提高设计工作的专业性和效率。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[分享发现] 我弄了个网站，免费的，本地运行模型 Llama3 模型，发散性思维助力程序开发 CodeCopilot AI</title>
+<link>https://www.v2ex.com/t/1038066</link>
+<guid>https://www.v2ex.com/t/1038066</guid>
+<content:encoded><![CDATA[
+<div> 关键词: CodeCopilot AI、隐私安全、智能建议、离线功能、反馈见解
+
+总结:<br><br>CodeCopilot AI是一款旨在提高编码效率和创造力的工具，完全保证用户隐私安全。它提供智能建议，根据上下文感知提供创新解决方案，并适应个人风格。同时具备离线功能，在没有网络连接或需要专注工作时非常实用。开发者正在寻求反馈和见解，以进一步完善CodeCopilot AI。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[前端开发] 如何在 Vue3 里使用 Three.js 创建随鼠标旋转的粒子天空</title>
+<link>https://www.v2ex.com/t/1038064</link>
+<guid>https://www.v2ex.com/t/1038064</guid>
+<content:encoded><![CDATA[
+<div> Three.js, 三维粒子效果, 初始化, 粒子几何体, 渲染循环
+<br>
+这篇文章介绍了如何使用Three.js创建一个由20,000个粒子组成的三维粒子效果。通过初始化设置相机、场景和渲染器，创建粒子几何体并定义粒子材质，将粒子添加到场景中，并建立渲染循环。在渲染过程中根据鼠标移动更新相机位置和场景旋转，最终实现了一个动态的三维粒子效果。这篇文章深入介绍了Three.js的核心概念，展示了如何创建和操作三维粒子效果，以及如何通过鼠标移动来控制相机。未来可以扩展和优化功能，如增加粒子密度、尝试不同的粒子形状、添加粒子动画和集成交互式元素。<br><br>总结: 本文介绍了使用Three.js创建三维粒子效果的步骤，包括初始化设置、粒子几何体、渲染循环等，深入解释了核心概念，并展望了未来的功能扩展和优化。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[分享发现] [今日分享] #004 - StoryDiffusion 高质量开源漫画生成</title>
+<link>https://www.v2ex.com/t/1038063</link>
+<guid>https://www.v2ex.com/t/1038063</guid>
+<content:encoded><![CDATA[
+<div> Go, 并发, Fan-Out, Fan-In, 模式
+
+Node.js 现在原生支持 .env 加载，不再需要 dotenv；StoryDiffusion 是一款高质量的开源漫画生成工具，支持连续人物和多种漫画风格。Go语言中的扇出/扇入模式可以有效管理goroutine和channel，使并发更容易并可维护。Node.js内置支持.env文件加载和process.env.loadEnvFile()函数，简化了环境变量管理。StoryDiffusion利用一致性自注意力机制生成长篇漫画或带连续剧情的视频，是一款强大的AI工具。 <br><br>总结: Go语言中的扇出/扇入模式简化了并发编程；Node.js原生支持.env加载，无需dotenv包；StoryDiffusion是高质量的漫画生成工具，支持连续人物和多种风格。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[酷工作] 准备开始接单了</title>
+<link>https://www.v2ex.com/t/1038061</link>
+<guid>https://www.v2ex.com/t/1038061</guid>
+<content:encoded><![CDATA[
+<div> HTML/CSS/JS、Vue、SpringBoot、Python、MySQL
+<br><br>总结:
+打算开始接单，主要涉及Web全栈开发和Python开发，技术栈包括前端和后端开发，最熟练使用SpringBoot。可接单时间为工作日晚上7点到10点，周末早上9点到晚上10点。联系方式可查看网站获取。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[浏览器] Arc 浏览器 Win10 下的食用方式</title>
+<link>https://www.v2ex.com/t/1038060</link>
+<guid>https://www.v2ex.com/t/1038060</guid>
+<content:encoded><![CDATA[
+<div> Arc 浏览器, Win10, Win11, 脚本, 安装
+
+总结:<br><br>
+本文介绍了一个搭配脚本，可以在Win10系统上安装Arc浏览器的方法。用户需要在开发者选项中设置开发者模式，并下载脚本文件。脚本会自动下载所需字体和Arc依赖，修改注册表以允许在Win10上安装Arc，并最终完成Arc浏览器的安装过程。该方法方便且成功率高，适合那些希望在Win10系统上尝试Arc浏览器的用户。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[全球工单系统] 噩耗！技术部的去留由你们决定！小程序被封禁公开搜索，调用分享，支付能力，因为经营类目问题！</title>
+<link>https://www.v2ex.com/t/1038058</link>
+<guid>https://www.v2ex.com/t/1038058</guid>
+<content:encoded><![CDATA[
+<div> 支付、搜索、分享、药品类目、类目权限
+<br>
+技术部因经营类目问题，小程序核心接口功能被禁用，包括支付、搜索和分享功能。公司经营药品，但无法添加处方药类目。尽管已联系微信客服，审核部门仍未解决问题，补充资质已提交两次。希望找到快速方法解除禁用，恢复推广和支付接口功能。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[路由器] tp link 路由器串口密码规则有哪些</title>
+<link>https://www.v2ex.com/t/1038057</link>
+<guid>https://www.v2ex.com/t/1038057</guid>
+<content:encoded><![CDATA[
+<div> 规则、TP-Link、串口、用户名、密码<br>
+<br>
+关于进入TP-Link路由器的串口需要用户名和密码的情况，本文介绍了通过12位MAC地址生成MD5散列值并截取前八位来尝试解锁的方法。然而，在最新的路由器上测试发现该方法不起作用，可能存在新的规则。建议尝试其他可能的规则或者寻求更多解锁方法。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[拼车] tailwindui 拼车</title>
+<link>https://www.v2ex.com/t/1038056</link>
+<guid>https://www.v2ex.com/t/1038056</guid>
+<content:encoded><![CDATA[
+<div> 微信 V2EX id 价格 230 25 人车 开车。拉满即开，25 人车。价格预估 230。
+<br>
+要点1: 微信V2EX ID连接
+要点2: 价格预估230
+要点3: 拉满即开，25人车
+<br>
+总结: 文中提及了微信连接V2EX ID，价格预估230，以及拉满即开，25人车的活动。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[奇思妙想] 好奇，至今还在 V2EX 活跃的 ID 是那些。</title>
+<link>https://www.v2ex.com/t/1038055</link>
+<guid>https://www.v2ex.com/t/1038055</guid>
+<content:encoded><![CDATA[
+<div> v2ex, ID, 活跃, 注册, 站长
+<br><br>总结: v2ex 是一个活跃的论坛，从开站至今已有18年历史。讨论了早期ID的活跃情况，最小ID也是几万位，发现几位活跃用户是在10年以后注册的。有疑问是否还有活跃的0几年注册用户，除了站长本人。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 卡巴机器人是智商税吗？</title>
+<link>https://www.v2ex.com/t/1038053</link>
+<guid>https://www.v2ex.com/t/1038053</guid>
+<content:encoded><![CDATA[
+<div> 卡巴，试课，活跃，消磨时间，建议
+<br><br>总结:
+宝妈宝爸带四岁的娃去卡巴试课，娃很活跃。课程一周一节，费用为180元，除了消磨时间外，对娃的其他用处有待验证。建议其他家长在考虑是否报名时，可以先了解课程内容和效果，以及是否符合孩子的兴趣和需求，再做决定。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[程序员] 有没有 flutter 的大哥，有偿请教问题</title>
+<link>https://www.v2ex.com/t/1038052</link>
+<guid>https://www.v2ex.com/t/1038052</guid>
+<content:encoded><![CDATA[
+<div> 后续会话可能会更换当前回答的API平台
+
+关键词: 基因编辑,生物技术,伦理道德,技术发展,潜在风险
+
+基因编辑技术日益成为生物技术领域的热门话题，虽然在医学领域有着巨大潜力，但也引发了伦理道德上的讨论。随着技术的发展，基因编辑技术应用领域不断扩大，但也随之而来的是潜在的风险和挑战。对于如何平衡技术发展和伦理道德的关系，以及如何规范基因编辑技术的应用和研究，是当前各国亟需面对的问题。要更好地推动基因编辑技术的发展，必须充分考虑技术发展背后的道德和社会影响，同时加强监管和规范，确保技术的应用符合伦理标准，最大限度地减少潜在的风险。总结:<br><br>基因编辑技术具有广阔的发展前景，但必须在技术发展、伦理道德和风险把控上取得平衡。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 失业的人，后来都去做什么了？</title>
+<link>https://www.v2ex.com/t/1038051</link>
+<guid>https://www.v2ex.com/t/1038051</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 文章 总结 要点 中文 输出
+总结: 
+文章中提到了重要的总结要点，强调了对关键词的提取与总结。通过中文输出，可以清晰地传达文章的主旨。总结包含了所有关键点，帮助读者快速了解文章内容。<br><br>总结:文章中提到了重要的总结要点，强调了对关键词的提取与总结。通过中文输出，可以清晰地传达文章的主旨。总结包含了所有关键点，帮助读者快速了解文章内容。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[旅行] 整理的仙本那十天开放潜水学习攻略</title>
+<link>https://www.v2ex.com/t/1038047</link>
+<guid>https://www.v2ex.com/t/1038047</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 车辆技术、自动驾驶、电动汽车、共享出行、未来发展
+
+自动驾驶技术是电动汽车领域的重要趋势之一，不仅提升了车辆技术水平，也改变了出行方式。共享出行概念的兴起推动了电动汽车的发展，未来可能会成为主流出行方式。随着技术的不断创新和完善，电动汽车的普及将会越来越广泛，推动整个交通行业向更加环保和智能的方向发展。在未来，人们可能会更多地选择共享出行方式，通过自动驾驶技术实现更便捷、安全的出行体验。总结：<br><br>未来发展的趋势将会是以电动汽车和自动驾驶技术为主导，共享出行将成为主流，推动整个交通行业转型升级。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[旅行] [川西] 7 日自驾归来</title>
+<link>https://www.v2ex.com/t/1038046</link>
+<guid>https://www.v2ex.com/t/1038046</guid>
+<content:encoded><![CDATA[
+<div> 四姑娘山、马尔康市、色达、理塘、贡嘎
+<br>
+这次旅程从成都出发，途径四姑娘山、马尔康市、色达、理塘、新都桥和贡嘎，交通主要通过国道和乡道，不建议自驾。饮食以土豆和牛肉为主，价格中等。景区门票主要是四姑娘山和色达需要购买，其他景点大部分免费。高反问题需要提前做好准备，海拔4500米以上区域也需谨慎。拍摄设备尼康Z9等。整体来说，这次旅程对于自然风光爱好者来说是一次不错的体验。 
+<br><br>总结:这次旅程从成都出发，途经四姑娘山、马尔康市、色达、理塘、新都桥和贡嘎，交通不宜自驾，以土豆和牛肉为主要食物，门票需要购买，高反需要提前准备，海拔4500米以上需谨慎，拍摄设备以尼康Z9为主，是一次对自然风光爱好者有着不错体验的旅程。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[路由器] 大神们中兴巡天 AX3000Pro+和中兴 5400pro+怎么选啊</title>
+<link>https://www.v2ex.com/t/1038044</link>
+<guid>https://www.v2ex.com/t/1038044</guid>
+<content:encoded><![CDATA[
+<div> 推荐、感谢、文章、关键词、中文<br>
+<br>
+本文为读者推荐一些值得阅读的文章，并表达感谢之情。关键词提取是提炼文章内容的关键点，帮助读者快速了解文章主题。使用中文是为了让读者更容易理解文章内容。文章内容主要包括推荐文章、感谢读者、关键词提取等方面。总结: 本文主要介绍了推荐文章的重要性，为读者提供了一些实用的建议，同时也感谢读者的支持，强调了文章中关键词的作用，希望读者能更好地理解文章内容。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[游戏] 万能的 v 友们，密室逃脱有什么套路，如果被关密室一般要怎么出去呀</title>
+<link>https://www.v2ex.com/t/1038043</link>
+<guid>https://www.v2ex.com/t/1038043</guid>
+<content:encoded><![CDATA[
+<div> 密室、剧情情节、代入感、突兀、时间有限
+<br>
+密室中的人面临着无窗、无法暴力破解的困境，他们必须顺应剧情情节来解开谜题，体验到代入感。时间有限，他们无法挖地道等方式逃脱，唯有依靠智慧和合作来找到解开密室之谜的线索，才能成功逃离。总结:密室剧情情节中，要增加代入感，避免突兀的情节过渡，让人们在有限的时间内用智慧解决难题，挑战自我。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 关于制做照片视频的问题</title>
+<link>https://www.v2ex.com/t/1038041</link>
+<guid>https://www.v2ex.com/t/1038041</guid>
+<content:encoded><![CDATA[
+<div> 视频软件、照片、对比、背景、背影音乐
+<br><br>总结: 希望制作一个视频，每一页有两张照片对比，需要加背景和背景音乐。虽然视频软件可以制作，但当照片较多时，制作会很繁琐。希望找到一个软件可以自动生成这种视频，无论收费与否都可接受。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 求一个开源的 chatgpt 套壳程序</title>
+<link>https://www.v2ex.com/t/1038040</link>
+<guid>https://www.v2ex.com/t/1038040</guid>
+<content:encoded><![CDATA[
+<div> 部署、chatgpt、费用、区分、套壳程序  
+部署了chatgpt小范围分享给朋友使用，最近升级到gpt4导致api费用增加，无法承受。想要部署一个能够区分gpt4和3.5的套壳程序或可行性办法。费用问题已经无法承受，需要解决。<br><br>总结: 部署chatgpt给朋友用，升级到gpt4导致费用增加，无法承受，寻找套壳程序或解决方案。 </div>
+]]></content:encoded>
+</item>
+<item>
+<title>[推广] wificalling 免费接电话接短信 新西兰接码神器 one NZ 非实名原封电话卡现货，￥ 76 广州圆通包邮</title>
+<link>https://www.v2ex.com/t/1038039</link>
+<guid>https://www.v2ex.com/t/1038039</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[宽带症候群] 求证：北京联通 IPTV 的央视 4k 频道消失了？</title>
+<link>https://www.v2ex.com/t/1038037</link>
+<guid>https://www.v2ex.com/t/1038037</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[分享发现] Gemini 现在可以打通你的 Gmail、Google Drive、文档等数据了</title>
+<link>https://www.v2ex.com/t/1038036</link>
+<guid>https://www.v2ex.com/t/1038036</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 求推荐手表或手环</title>
+<link>https://www.v2ex.com/t/1038035</link>
+<guid>https://www.v2ex.com/t/1038035</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[职场话题] 曾经怀抱着 35 岁被毕业的决心仍然想着来这行赚快钱的 00 后们，如今作何感想？</title>
+<link>https://www.v2ex.com/t/1038033</link>
+<guid>https://www.v2ex.com/t/1038033</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 白嫖免费机场的汇总</title>
+<link>https://www.v2ex.com/t/1038032</link>
+<guid>https://www.v2ex.com/t/1038032</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[OpenAI] chatgpt plus 会员共享， 4 人车，有两人下车， 补人</title>
+<link>https://www.v2ex.com/t/1038030</link>
+<guid>https://www.v2ex.com/t/1038030</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[分享发现] 有在中小创业公司呆过的朋友吗？</title>
+<link>https://www.v2ex.com/t/1038029</link>
+<guid>https://www.v2ex.com/t/1038029</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] Obsidian+Remotely Save 同步方案靠谱吗？</title>
+<link>https://www.v2ex.com/t/1038028</link>
+<guid>https://www.v2ex.com/t/1038028</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[iPad] 明天就是发布会了，期待新 iPad 和新的 smart keyboard 已经好多年没更新了</title>
+<link>https://www.v2ex.com/t/1038027</link>
+<guid>https://www.v2ex.com/t/1038027</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[求职] 程序员 15w 接了一个公寓系统+小程序</title>
+<link>https://www.v2ex.com/t/1038025</link>
+<guid>https://www.v2ex.com/t/1038025</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[汽车] 凯迪拉克 ct5 怎么样？</title>
+<link>https://www.v2ex.com/t/1038024</link>
+<guid>https://www.v2ex.com/t/1038024</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 微信读书非会员导入图书有限制，有其他同类图书 APP 推荐吗</title>
+<link>https://www.v2ex.com/t/1038022</link>
+<guid>https://www.v2ex.com/t/1038022</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[分享发现] 一个义务教育+高中段电子教材合集网站</title>
+<link>https://www.v2ex.com/t/1038021</link>
+<guid>https://www.v2ex.com/t/1038021</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[买买买] 一加 ACE2 pro root 准原生 rom</title>
+<link>https://www.v2ex.com/t/1038020</link>
+<guid>https://www.v2ex.com/t/1038020</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 有没有教我赚外快的</title>
+<link>https://www.v2ex.com/t/1038019</link>
+<guid>https://www.v2ex.com/t/1038019</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 有熟悉 amazon ses 的朋友吗？</title>
+<link>https://www.v2ex.com/t/1038018</link>
+<guid>https://www.v2ex.com/t/1038018</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[分享创造] 我开发了一款 AI 文字游戏《逃出升天》免费试玩！</title>
+<link>https://www.v2ex.com/t/1038017</link>
+<guid>https://www.v2ex.com/t/1038017</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 才想起来，你们通义灵码的盲盒有收到货吗</title>
+<link>https://www.v2ex.com/t/1038016</link>
+<guid>https://www.v2ex.com/t/1038016</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[分享创造] RunFlow v1.3.1 发布：支持固定结果，使结果始终显示在列表前面</title>
+<link>https://www.v2ex.com/t/1038015</link>
+<guid>https://www.v2ex.com/t/1038015</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[生活] 有没有人报过那些写作训练营的？</title>
+<link>https://www.v2ex.com/t/1038013</link>
+<guid>https://www.v2ex.com/t/1038013</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[程序员] 麻烦大家帮我做一下新网站的 DDOS 测试，我们加了盾，阿里云测试通过了，但是不知道有没有其他问题</title>
+<link>https://www.v2ex.com/t/1038012</link>
+<guid>https://www.v2ex.com/t/1038012</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 工作半年后的回顾，被回旋镖打中了</title>
+<link>https://www.v2ex.com/t/1038010</link>
+<guid>https://www.v2ex.com/t/1038010</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] youtube 的推荐机制</title>
+<link>https://www.v2ex.com/t/1038008</link>
+<guid>https://www.v2ex.com/t/1038008</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[问与答] 不太能理解，像旧款数码相机这样的电子产品也会因为停产而涨价吗？</title>
+<link>https://www.v2ex.com/t/1038007</link>
+<guid>https://www.v2ex.com/t/1038007</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[香港] 轮到我了-港卡 walk in 流程</title>
+<link>https://www.v2ex.com/t/1038005</link>
+<guid>https://www.v2ex.com/t/1038005</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[Markdown] obsidian 有没有类似 typora github 的主题</title>
+<link>https://www.v2ex.com/t/1038003</link>
+<guid>https://www.v2ex.com/t/1038003</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[程序员] 桌面应用中的第三方 key 和 secret 是不是理论上无法杜绝被破解？</title>
+<link>https://www.v2ex.com/t/1038002</link>
+<guid>https://www.v2ex.com/t/1038002</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[Android] 安卓有可以隐藏 app 的软件推荐吗</title>
+<link>https://www.v2ex.com/t/1038001</link>
+<guid>https://www.v2ex.com/t/1038001</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+<item>
+<title>[Python] 有什么比 Email 更健壮可靠的沟通工具？</title>
+<link>https://www.v2ex.com/t/1037999</link>
+<guid>https://www.v2ex.com/t/1037999</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+</item>
+
+</channel>
+</rss>
