@@ -275,8 +275,7 @@ def output(sec, language):
         f.write(f'append_entries: {len(append_entries)}\n')
 
     try:
-        # 使用modified_entries替换append_entries
-        rss = template.render(feed=feed, append_entries=modified_entries, existing_entries=existing_entries)
+        rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
         with open(out_dir + '.xml', 'w') as f:
             f.write(rss)
         with open(log_file, 'a') as f:
