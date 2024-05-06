@@ -121,3 +121,12 @@ Summarized using GPT-3.5-turbo
 Append: [本周节目预告 5.6~5.12](https://www.gcores.com/articles/181332)
 append_entries: 4
 Finish: 2024-05-06 10:07:41.446504
+------------------------------------------------------
+Started: 2024-05-06 10:34:25.395694
+Existing_entries: 29
+Fetching from 	https://www.gcores.com/rss
+Token length: 1514
+Summarized using GPT-3.5-turbo
+Append: [The CRPG Book 全新译本 《CRPG 通鉴》#299：《南方公园：真理之杖》](https://www.gcores.com/articles/181274)
+append_entries: 1
+Finish: 2024-05-06 10:34:31.846891
