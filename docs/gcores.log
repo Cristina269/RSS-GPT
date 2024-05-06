@@ -307,3 +307,12 @@ Existing_entries: 39
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-06 23:06:56.185006
+------------------------------------------------------
+Started: 2024-05-06 23:31:51.284899
+Existing_entries: 39
+Fetching from 	https://www.gcores.com/rss
+Token length: 1015
+Summarized using GPT-3.5-turbo
+Append: [上海摄影记录丨川沙，高桥](https://www.gcores.com/articles/181347)
+append_entries: 1
+Finish: 2024-05-06 23:31:57.345335
