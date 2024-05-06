@@ -274,19 +274,17 @@ def output(sec, language):
     with open(log_file, 'a') as f:
         f.write(f'append_entries: {len(append_entries)}\n')
 
-    template = Template(open('template.xml').read())
-    
-    with open(log_file, 'a') as f:
-        f.write(f'append_entries: {len(append_entries)}\n')
-
-    for entry in append_entries:
-        if entry.summary:
-            print(f"[{entry.title}]({entry.link})\n{entry.summary}\n")
-        else:
-            print(f"[{entry.title}]({entry.link})\n")
-
-    with open(log_file, 'a') as f:
-        f.write(f'Finish: {datetime.datetime.now()}\n')
+    try:
+        # 使用modified_entries替换append_entries
+        rss = template.render(feed=feed, append_entries=modified_entries, existing_entries=existing_entries)
+        with open(out_dir + '.xml', 'w') as f:
+            f.write(rss)
+        with open(log_file, 'a') as f:
+            f.write(f'Finish: {datetime.datetime.now()}\n')
+    except:
+        with open (log_file, 'a') as f:
+            f.write(f"error when rendering xml, skip {out_dir}\n")
+            print(f"error when rendering xml, skip {out_dir}\n"))
 
 
 
