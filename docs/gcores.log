@@ -76,3 +76,9 @@ Summarized using GPT-3.5-turbo
 Append: [汉米尔顿的银幕之旅，核聚变游戏嘉年华 2024 广州站 A13 展台再次开启](https://www.gcores.com/articles/181304)
 append_entries: 2
 Finish: 2024-05-06 08:10:11.138799
+------------------------------------------------------
+Started: 2024-05-06 08:33:11.763996
+Existing_entries: 22
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-06 08:33:13.766096
