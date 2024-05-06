@@ -35,3 +35,39 @@ Append: [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com
 append_entries: 10
 append_entries: 10
 Finish: 2024-05-06 06:11:00.361657
+------------------------------------------------------
+Started: 2024-05-06 07:01:47.639721
+Existing_entries: 0
+Fetching from https://sspai.com/feed
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [喀拉峻的瞬间](https://sspai.com/post/88505)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
+Token length: 18
+Summarized using GPT-3.5-turbo
+Append: [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
+Token length: 28
+Summarized using GPT-3.5-turbo
+Append: [用 Proxmox 敲开家庭服务器的大门](https://sspai.com/prime/story/proxmox-homelab-guide-1)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
+append_entries: 10
+Finish: 2024-05-06 07:02:28.582537
