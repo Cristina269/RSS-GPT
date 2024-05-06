@@ -97,3 +97,9 @@ Summarized using GPT-3.5-turbo
 Append: [【传闻】《博德之门3》明年将登陆IOS平台](https://www.gcores.com/articles/181325)
 append_entries: 3
 Finish: 2024-05-06 09:08:37.050575
+------------------------------------------------------
+Started: 2024-05-06 09:31:41.175154
+Existing_entries: 25
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-06 09:31:43.144327
