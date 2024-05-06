@@ -77,3 +77,15 @@ Existing_entries: 10
 Fetching from https://rsshub.app/infzm/2
 append_entries: 0
 Finish: 2024-05-06 07:07:41.969001
+------------------------------------------------------
+Started: 2024-05-06 07:32:23.153145
+Existing_entries: 10
+Fetching from https://rsshub.app/infzm/2
+Token length: 390
+Summarized using GPT-3.5-turbo
+Append: [国务院安委会对秦皇岛游船侧翻致12人死亡重大事故挂牌督办](https://www.infzm.com/contents/271032)
+Token length: 1295
+Summarized using GPT-3.5-turbo
+Append: [98岁马哈蒂尔缘何被查？马政坛“友敌之战”仍在继续](https://www.infzm.com/contents/270987)
+append_entries: 2
+Finish: 2024-05-06 07:32:31.327373
