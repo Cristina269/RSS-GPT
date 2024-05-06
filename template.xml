@@ -17,6 +17,7 @@
 <title>{{ entry.title.replace('&', '&amp;') }}</title>
 <link>{{ entry.link.replace('&', '&amp;') }}</link>
 <guid>{{ entry.link.replace('&', '&amp;') }}</guid>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>{% endfor %}
 </channel>
 </rss>
