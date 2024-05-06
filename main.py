@@ -274,6 +274,8 @@ def output(sec, language):
     with open(log_file, 'a') as f:
         f.write(f'append_entries: {len(append_entries)}\n')
 
+    template = Template(open('template.xml').read())
+    
     try:
         rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
         with open(out_dir + '.xml', 'w') as f:
@@ -284,8 +286,6 @@ def output(sec, language):
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
-
-
 
 config = configparser.ConfigParser()
 config.read('config.ini')
