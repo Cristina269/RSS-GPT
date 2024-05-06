@@ -142,3 +142,9 @@ Summarized using GPT-3.5-turbo
 Append: [超级民主与 PSN 账号，机浪 VOL.45](https://www.gcores.com/radios/181333)
 append_entries: 2
 Finish: 2024-05-06 11:04:57.344200
+------------------------------------------------------
+Started: 2024-05-06 11:31:38.797729
+Existing_entries: 32
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-06 11:31:40.460135
