@@ -211,3 +211,9 @@ Append: [研究机构：今年第一季度微软 Azure 云服务市场占比 25%
 Append: [华为 MateBook GT 14 笔记本电脑现身智慧生活 App，预计 5 月 7 日发布](https://www.ithome.com/0/765/946.htm)
 append_entries: 60
 Finish: 2024-05-06 07:05:42.020467
+------------------------------------------------------
+Started: 2024-05-06 07:07:48.673189
+Existing_entries: 60
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2024-05-06 07:07:50.424124
