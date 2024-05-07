@@ -370,3 +370,15 @@ Existing_entries: 46
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-07 03:31:53.223611
+------------------------------------------------------
+Started: 2024-05-07 04:08:39.558170
+Existing_entries: 46
+Fetching from 	https://www.gcores.com/rss
+Token length: 3578
+Summarized using GPT-3.5-turbo
+Append: [译注丨《The Level Design》中“关卡设计工作流”部分](https://www.gcores.com/articles/181344)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [喜剧电影《美国内战》确认引进，尚未定档](https://www.gcores.com/articles/181368)
+append_entries: 2
+Finish: 2024-05-07 04:08:46.573423
