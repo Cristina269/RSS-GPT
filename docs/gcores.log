@@ -547,3 +547,9 @@ Summarized using GPT-3.5-turbo
 Append: [微软宣布解散Arkane Austin及Tango Gameworks等三家工作室](https://www.gcores.com/articles/181411)
 append_entries: 1
 Finish: 2024-05-07 14:06:58.321555
+------------------------------------------------------
+Started: 2024-05-07 14:31:32.061406
+Existing_entries: 63
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 14:31:34.221269
