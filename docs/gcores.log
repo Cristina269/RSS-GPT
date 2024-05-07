@@ -400,3 +400,9 @@ Summarized using GPT-3.5-turbo
 Append: [《无敌号》现已实装“旅行者”更新](https://www.gcores.com/articles/181372)
 append_entries: 2
 Finish: 2024-05-07 05:08:38.540876
+------------------------------------------------------
+Started: 2024-05-07 05:32:24.149930
+Existing_entries: 50
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 05:32:26.122411
