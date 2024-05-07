@@ -382,3 +382,9 @@ Summarized using GPT-3.5-turbo
 Append: [喜剧电影《美国内战》确认引进，尚未定档](https://www.gcores.com/articles/181368)
 append_entries: 2
 Finish: 2024-05-07 04:08:46.573423
+------------------------------------------------------
+Started: 2024-05-07 04:33:22.633571
+Existing_entries: 48
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 04:33:24.329756

@@ -332,3 +332,12 @@ Existing_entries: 13
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2024-05-07 04:08:48.141008
+------------------------------------------------------
+Started: 2024-05-07 04:33:32.401930
+Existing_entries: 13
+Fetching from https://sspai.com/feed
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
+append_entries: 1
+Finish: 2024-05-07 04:33:36.455267
