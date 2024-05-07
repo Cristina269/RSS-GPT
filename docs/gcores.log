@@ -388,3 +388,15 @@ Existing_entries: 48
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-07 04:33:24.329756
+------------------------------------------------------
+Started: 2024-05-07 05:08:28.802809
+Existing_entries: 48
+Fetching from 	https://www.gcores.com/rss
+Token length: 569
+Summarized using GPT-3.5-turbo
+Append: [《暗黑破坏神4》公布第四赛季深入解析视频](https://www.gcores.com/articles/181371)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [《无敌号》现已实装“旅行者”更新](https://www.gcores.com/articles/181372)
+append_entries: 2
+Finish: 2024-05-07 05:08:38.540876
