@@ -439,3 +439,9 @@ Summarized using GPT-3.5-turbo
 Append: [任天堂新一季度财报公开：Switch累计销量达1.4亿](https://www.gcores.com/articles/181378)
 append_entries: 2
 Finish: 2024-05-07 07:10:29.467301
+------------------------------------------------------
+Started: 2024-05-07 07:31:47.742297
+Existing_entries: 55
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 07:31:49.548809
