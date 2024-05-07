@@ -565,3 +565,12 @@ Summarized using GPT-3.5-turbo
 Append: [M4版iPad Pro、Apple Pencil Pro：苹果“放飞吧”线上特别直播消息汇总](https://www.gcores.com/articles/181413)
 append_entries: 2
 Finish: 2024-05-07 15:06:59.333133
+------------------------------------------------------
+Started: 2024-05-07 15:31:26.271310
+Existing_entries: 65
+Fetching from 	https://www.gcores.com/rss
+Token length: 1589
+Summarized using GPT-3.5-turbo
+Append: [今晚读什么：文章推荐与导读（4.20-5.5）](https://www.gcores.com/articles/181386)
+append_entries: 1
+Finish: 2024-05-07 15:31:35.199320
