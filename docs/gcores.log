@@ -334,3 +334,15 @@ Summarized using GPT-3.5-turbo
 Append: [2024年QuakeCon将于8月8日开幕](https://www.gcores.com/articles/181360)
 append_entries: 2
 Finish: 2024-05-07 01:45:40.054344
+------------------------------------------------------
+Started: 2024-05-07 02:25:17.816589
+Existing_entries: 42
+Fetching from 	https://www.gcores.com/rss
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [《黑神话 悟空》现已登顶Steam愿望单榜首](https://www.gcores.com/articles/181363)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [《暗黑地牢2》将于6月迎来官方MOD工具，创意工坊支持在路上](https://www.gcores.com/articles/181362)
+append_entries: 2
+Finish: 2024-05-07 02:25:27.064200
