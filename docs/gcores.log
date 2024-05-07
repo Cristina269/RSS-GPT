@@ -427,3 +427,15 @@ Summarized using GPT-3.5-turbo
 Append: [游戏工业化带来了什么？](https://www.gcores.com/videos/181373)
 append_entries: 3
 Finish: 2024-05-07 06:36:29.573609
+------------------------------------------------------
+Started: 2024-05-07 07:10:19.506988
+Existing_entries: 53
+Fetching from 	https://www.gcores.com/rss
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [任天堂确认本财年公布NS继任机型](https://www.gcores.com/articles/181383)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [任天堂新一季度财报公开：Switch累计销量达1.4亿](https://www.gcores.com/articles/181378)
+append_entries: 2
+Finish: 2024-05-07 07:10:29.467301
