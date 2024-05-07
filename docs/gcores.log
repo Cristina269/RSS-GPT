@@ -412,3 +412,18 @@ Existing_entries: 50
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-07 06:10:04.708472
+------------------------------------------------------
+Started: 2024-05-07 06:36:09.561722
+Existing_entries: 50
+Fetching from 	https://www.gcores.com/rss
+Token length: 10315
+Summarized using GPT-3.5-turbo
+Append: [《星际拓荒》：何以伟大](https://www.gcores.com/articles/181355)
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [【游戏拉片室】游戏设计解读——恶意不息第一期](https://www.gcores.com/videos/181356)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [游戏工业化带来了什么？](https://www.gcores.com/videos/181373)
+append_entries: 3
+Finish: 2024-05-07 06:36:29.573609
