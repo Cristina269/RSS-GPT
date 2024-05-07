@@ -574,3 +574,9 @@ Summarized using GPT-3.5-turbo
 Append: [今晚读什么：文章推荐与导读（4.20-5.5）](https://www.gcores.com/articles/181386)
 append_entries: 1
 Finish: 2024-05-07 15:31:35.199320
+------------------------------------------------------
+Started: 2024-05-07 16:07:33.449008
+Existing_entries: 66
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 16:07:35.607067
