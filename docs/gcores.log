@@ -532,3 +532,9 @@ Summarized using GPT-3.5-turbo
 Append: [【聊聊天】关于《生化危机9》你有什么期待的内容？](https://www.gcores.com/articles/181408)
 append_entries: 1
 Finish: 2024-05-07 13:06:48.230385
+------------------------------------------------------
+Started: 2024-05-07 13:31:37.580087
+Existing_entries: 62
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-07 13:31:39.727236
