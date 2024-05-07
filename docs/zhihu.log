@@ -439,3 +439,9 @@ Existing_entries: 60
 Fetching from https://www.zhihu.com/rss
 append_entries: 0
 Finish: 2024-05-07 02:25:33.377421
+------------------------------------------------------
+Started: 2024-05-07 02:43:06.141607
+Existing_entries: 60
+Fetching from https://www.zhihu.com/rss
+append_entries: 0
+Finish: 2024-05-07 02:43:10.977778
