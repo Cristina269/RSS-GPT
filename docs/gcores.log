@@ -877,3 +877,9 @@ Summarized using GPT-3.5-turbo
 Append: [“这才是生活”，核聚变游戏嘉年华2024广州站解忧果调展区介绍](https://www.gcores.com/articles/181460)
 append_entries: 2
 Finish: 2024-05-08 10:33:57.518138
+------------------------------------------------------
+Started: 2024-05-08 11:06:49.290515
+Existing_entries: 93
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-08 11:06:51.468960
