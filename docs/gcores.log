@@ -865,3 +865,15 @@ Summarized using GPT-3.5-turbo
 Append: [著名插画师金子一马新作首次公布相关信息](https://www.gcores.com/articles/181457)
 append_entries: 2
 Finish: 2024-05-08 10:07:28.848789
+------------------------------------------------------
+Started: 2024-05-08 10:33:45.927060
+Existing_entries: 91
+Fetching from 	https://www.gcores.com/rss
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [游戏产业研究专家委员会将筹备成立](https://www.gcores.com/articles/181461)
+Token length: 855
+Summarized using GPT-3.5-turbo
+Append: [“这才是生活”，核聚变游戏嘉年华2024广州站解忧果调展区介绍](https://www.gcores.com/articles/181460)
+append_entries: 2
+Finish: 2024-05-08 10:33:57.518138
