@@ -682,3 +682,15 @@ Existing_entries: 66
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-08 01:14:25.881268
+------------------------------------------------------
+Started: 2024-05-08 01:50:00.537150
+Existing_entries: 66
+Fetching from 	https://www.gcores.com/rss
+Token length: 465
+Summarized using GPT-3.5-turbo
+Append: [音乐学习游戏《摇滚史密斯+》将于6月6日在Steam及PlayStation发售](https://www.gcores.com/articles/181419)
+Token length: 610
+Summarized using GPT-3.5-turbo
+Append: [《命运2》现已开启扩展包免费畅玩月](https://www.gcores.com/articles/181418)
+append_entries: 2
+Finish: 2024-05-08 01:50:13.608409
