@@ -979,3 +979,9 @@ Summarized using GPT-3.5-turbo
 Append: [汽车时代的乌托邦：Futurama展览描绘的未来生活](https://www.gcores.com/articles/181430)
 append_entries: 1
 Finish: 2024-05-08 16:09:01.572210
+------------------------------------------------------
+Started: 2024-05-08 16:37:53.352861
+Existing_entries: 105
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-08 16:37:55.425873
