@@ -883,3 +883,12 @@ Existing_entries: 93
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-08 11:06:51.468960
+------------------------------------------------------
+Started: 2024-05-08 11:31:36.782997
+Existing_entries: 93
+Fetching from 	https://www.gcores.com/rss
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [微软推出“烈火风暴”特别版Xbox手柄](https://www.gcores.com/articles/181466)
+append_entries: 1
+Finish: 2024-05-08 11:31:43.991445
