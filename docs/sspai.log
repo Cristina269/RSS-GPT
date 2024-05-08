@@ -686,3 +686,9 @@ Summarized using GPT-3.5-turbo
 Append: [如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)
 append_entries: 1
 Finish: 2024-05-08 08:08:33.561477
+------------------------------------------------------
+Started: 2024-05-08 08:32:11.289392
+Existing_entries: 21
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2024-05-08 08:32:12.636650
