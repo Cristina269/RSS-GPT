@@ -715,3 +715,9 @@ Summarized using GPT-3.5-turbo
 Append: [EA称下一部《战地》将是该系列规模最大的一部](https://www.gcores.com/articles/181421)
 append_entries: 1
 Finish: 2024-05-08 02:32:02.807327
+------------------------------------------------------
+Started: 2024-05-08 03:09:34.198479
+Existing_entries: 71
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-08 03:09:36.030743
