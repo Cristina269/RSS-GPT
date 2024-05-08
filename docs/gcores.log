@@ -754,3 +754,15 @@ Existing_entries: 74
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-08 05:07:03.581500
+------------------------------------------------------
+Started: 2024-05-08 05:31:35.926458
+Existing_entries: 74
+Fetching from 	https://www.gcores.com/rss
+Token length: 331
+Summarized using GPT-3.5-turbo
+Append: [《原子之心》开发方Mundfish在B站建立账号锐评游戏](https://www.gcores.com/articles/181437)
+Token length: 1327
+Summarized using GPT-3.5-turbo
+Append: [游记 | 小环线](https://www.gcores.com/articles/181350)
+append_entries: 2
+Finish: 2024-05-08 05:31:45.275390
