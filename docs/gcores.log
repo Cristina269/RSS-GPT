@@ -706,3 +706,12 @@ Summarized using GPT-3.5-turbo
 Append: [Remedy及腾讯宣布取消多人游戏“Kestrel”开发](https://www.gcores.com/articles/181420)
 append_entries: 2
 Finish: 2024-05-08 02:08:27.119342
+------------------------------------------------------
+Started: 2024-05-08 02:31:57.857642
+Existing_entries: 70
+Fetching from 	https://www.gcores.com/rss
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [EA称下一部《战地》将是该系列规模最大的一部](https://www.gcores.com/articles/181421)
+append_entries: 1
+Finish: 2024-05-08 02:32:02.807327
