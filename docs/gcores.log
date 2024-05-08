@@ -937,3 +937,12 @@ Existing_entries: 99
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-08 14:06:36.134217
+------------------------------------------------------
+Started: 2024-05-08 14:31:57.373197
+Existing_entries: 99
+Fetching from 	https://www.gcores.com/rss
+Token length: 1112
+Summarized using GPT-3.5-turbo
+Append: [第一人称生存游戏《血清》推出全新CG](https://www.gcores.com/articles/181480)
+append_entries: 1
+Finish: 2024-05-08 14:32:11.088742
