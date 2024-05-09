@@ -965,3 +965,12 @@ Existing_entries: 24
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2024-05-09 07:31:44.310140
+------------------------------------------------------
+Started: 2024-05-09 08:11:02.581076
+Existing_entries: 24
+Fetching from https://sspai.com/feed
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
+append_entries: 1
+Finish: 2024-05-09 08:11:11.236679
