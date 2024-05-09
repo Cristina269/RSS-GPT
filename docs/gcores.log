@@ -1360,3 +1360,9 @@ Summarized using GPT-3.5-turbo
 Append: [《冰与火之歌·卷一·权力的游戏 中册》：第六章 艾莉亚](https://www.gcores.com/radios/181377)
 append_entries: 5
 Finish: 2024-05-09 14:07:56.749355
+------------------------------------------------------
+Started: 2024-05-09 14:31:38.687156
+Existing_entries: 148
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-09 14:31:40.873601
