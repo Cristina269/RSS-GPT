@@ -1099,3 +1099,12 @@ Summarized using GPT-3.5-turbo
 Append: [《任天堂世界锦标赛FC世界大会》及《任天堂世界锦标赛NES版》将于7月18日发售](https://www.gcores.com/articles/181501)
 append_entries: 2
 Finish: 2024-05-09 02:23:09.316389
+------------------------------------------------------
+Started: 2024-05-09 02:40:11.670399
+Existing_entries: 109
+Fetching from 	https://www.gcores.com/rss
+Token length: 380
+Summarized using GPT-3.5-turbo
+Append: [《超侦探事件簿 雾雨谜宫 Plus》推出Steam商城页，将于7月17日发售](https://www.gcores.com/articles/181507)
+append_entries: 1
+Finish: 2024-05-09 02:40:21.201685
