@@ -1261,3 +1261,15 @@ Summarized using GPT-3.5-turbo
 Append: [阿姨请不要毁了我的玩具，录音笔 VOL.196](https://www.gcores.com/radios/181537)
 append_entries: 1
 Finish: 2024-05-09 09:08:22.702213
+------------------------------------------------------
+Started: 2024-05-09 09:31:26.765699
+Existing_entries: 135
+Fetching from 	https://www.gcores.com/rss
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: [EA考虑在游戏内投放广告，但会采取“深思熟虑”的方式](https://www.gcores.com/articles/181548)
+Token length: 4876
+Summarized using GPT-3.5-turbo
+Append: [“罪大滔天”的索尼，难掩玩家群体的尴尬](https://www.gcores.com/articles/181544)
+append_entries: 2
+Finish: 2024-05-09 09:31:35.816664
