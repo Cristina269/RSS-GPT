@@ -1252,3 +1252,12 @@ Existing_entries: 134
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-09 08:35:15.117037
+------------------------------------------------------
+Started: 2024-05-09 09:08:16.063052
+Existing_entries: 134
+Fetching from 	https://www.gcores.com/rss
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [阿姨请不要毁了我的玩具，录音笔 VOL.196](https://www.gcores.com/radios/181537)
+append_entries: 1
+Finish: 2024-05-09 09:08:22.702213
