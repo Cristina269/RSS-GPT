@@ -118,12 +118,12 @@ def gpt_summary(query,model,language):
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
+            {"role": "assistant", "content": f"Please summarize the content of the article in 100 words in Chinese. 请用 100 个字的中文总结文章的内容。"}
         ]
     else:
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
+            {"role": "assistant", "content": f"Please summarize the content of the article in 100 words in Chinese. 请用 100 个字的中文总结文章的内容。"}
         ]
     if not OPENAI_PROXY:
         client = OpenAI(
