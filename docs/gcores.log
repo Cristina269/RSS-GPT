@@ -1168,3 +1168,15 @@ Existing_entries: 118
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-09 05:32:11.086989
+------------------------------------------------------
+Started: 2024-05-09 06:09:42.267190
+Existing_entries: 118
+Fetching from 	https://www.gcores.com/rss
+Token length: 1127
+Summarized using GPT-3.5-turbo
+Append: [“新游登场”核聚变游戏嘉年华2024广州站Gamera Games展区介绍](https://www.gcores.com/articles/181456)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [《剑星》获PS四月玩家选择奖 中文赞誉宣传片公开](https://www.gcores.com/articles/181522)
+append_entries: 2
+Finish: 2024-05-09 06:09:50.459565
