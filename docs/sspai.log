@@ -1016,3 +1016,9 @@ Summarized using GPT-3.5-turbo
 Append: [处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
 append_entries: 1
 Finish: 2024-05-09 11:06:33.395765
+------------------------------------------------------
+Started: 2024-05-09 11:33:16.293564
+Existing_entries: 27
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2024-05-09 11:33:17.458593
