@@ -1288,3 +1288,9 @@ Summarized using GPT-3.5-turbo
 Append: [【抓紧啦！】核聚变游戏嘉年华2024广州站，周六场门票即将售罄](https://www.gcores.com/articles/181451)
 append_entries: 3
 Finish: 2024-05-09 10:09:12.772256
+------------------------------------------------------
+Started: 2024-05-09 10:34:36.505135
+Existing_entries: 140
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-09 10:34:38.353417
