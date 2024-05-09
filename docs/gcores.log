@@ -1120,3 +1120,15 @@ Summarized using GPT-3.5-turbo
 Append: [微软在关闭工作室后称:需要一些像《完美音浪》的游戏](https://www.gcores.com/articles/181508)
 append_entries: 2
 Finish: 2024-05-09 03:08:08.856287
+------------------------------------------------------
+Started: 2024-05-09 03:31:40.341505
+Existing_entries: 112
+Fetching from 	https://www.gcores.com/rss
+Token length: 782
+Summarized using GPT-3.5-turbo
+Append: [经典解谜游戏《The Night of the Rabbit》现已登陆Nintendo Switch](https://www.gcores.com/articles/181512)
+Token length: 632
+Summarized using GPT-3.5-turbo
+Append: [成为第十三位生肖：肉鸽动作游戏《13Z》公开Steam商店页](https://www.gcores.com/articles/181513)
+append_entries: 2
+Finish: 2024-05-09 03:31:51.246348
