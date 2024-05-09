@@ -1087,3 +1087,15 @@ Summarized using GPT-3.5-turbo
 Append: [《高达创坏者4》定于8月29日发售，国区售价298元起](https://www.gcores.com/articles/181499)
 append_entries: 2
 Finish: 2024-05-09 01:47:36.099422
+------------------------------------------------------
+Started: 2024-05-09 02:22:59.797675
+Existing_entries: 107
+Fetching from 	https://www.gcores.com/rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [纪录片《坂本龙一：杰作》中国内地定档](https://www.gcores.com/articles/181505)
+Token length: 385
+Summarized using GPT-3.5-turbo
+Append: [《任天堂世界锦标赛FC世界大会》及《任天堂世界锦标赛NES版》将于7月18日发售](https://www.gcores.com/articles/181501)
+append_entries: 2
+Finish: 2024-05-09 02:23:09.316389
