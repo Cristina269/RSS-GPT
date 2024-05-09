@@ -1366,3 +1366,12 @@ Existing_entries: 148
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-09 14:31:40.873601
+------------------------------------------------------
+Started: 2024-05-09 15:08:01.553149
+Existing_entries: 148
+Fetching from 	https://www.gcores.com/rss
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [齐家、治国、平天下，游戏茶话会Vol.68](https://www.gcores.com/radios/181339)
+append_entries: 1
+Finish: 2024-05-09 15:08:05.721541
