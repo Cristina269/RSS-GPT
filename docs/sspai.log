@@ -881,3 +881,12 @@ Existing_entries: 22
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2024-05-09 00:32:35.176283
+------------------------------------------------------
+Started: 2024-05-09 01:47:36.221008
+Existing_entries: 22
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
+append_entries: 1
+Finish: 2024-05-09 01:47:40.429057
