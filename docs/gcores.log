@@ -1771,3 +1771,9 @@ Summarized using GPT-3.5-turbo
 Append: [考试剧情，怎么才行 天天ACG 5.10](https://www.gcores.com/radios/181340)
 append_entries: 1
 Finish: 2024-05-10 15:06:56.644978
+------------------------------------------------------
+Started: 2024-05-10 15:31:45.577447
+Existing_entries: 189
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-10 15:31:47.374390
