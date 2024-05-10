@@ -1279,3 +1279,12 @@ Existing_entries: 60
 Fetching from https://www.zhihu.com/rss
 append_entries: 0
 Finish: 2024-05-10 02:41:35.821943
+------------------------------------------------------
+Started: 2024-05-10 03:08:18.297601
+Existing_entries: 60
+Fetching from https://www.zhihu.com/rss
+Token length: 5196
+Summarized using GPT-3.5-turbo
+Append: [《艾尔登法环》到底好不好玩？](http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+append_entries: 1
+Finish: 2024-05-10 03:08:28.141888
