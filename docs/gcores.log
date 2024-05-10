@@ -1678,3 +1678,12 @@ Summarized using GPT-3.5-turbo
 Append: [万代南梦宫将在涩谷建造可容纳2000人的音乐厅](https://www.gcores.com/articles/181610)
 append_entries: 4
 Finish: 2024-05-10 09:08:23.083323
+------------------------------------------------------
+Started: 2024-05-10 09:31:39.192961
+Existing_entries: 182
+Fetching from 	https://www.gcores.com/rss
+Token length: 502
+Summarized using GPT-3.5-turbo
+Append: [内置多种音效&BGM，PROPLICA推出《塞尔达传说》大师之剑1：1模型](https://www.gcores.com/articles/181614)
+append_entries: 1
+Finish: 2024-05-10 09:31:45.942400
