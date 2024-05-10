@@ -1561,3 +1561,12 @@ Summarized using GPT-3.5-turbo
 Append: [《艾尔登法环》“黄金树幽影”公布预购宣传片，国区售价198元](https://www.gcores.com/articles/181588)
 append_entries: 2
 Finish: 2024-05-10 04:08:37.080923
+------------------------------------------------------
+Started: 2024-05-10 04:32:19.566211
+Existing_entries: 163
+Fetching from 	https://www.gcores.com/rss
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [《魔兽世界》国服将于6月6日公布最新回归消息](https://www.gcores.com/articles/181594)
+append_entries: 1
+Finish: 2024-05-10 04:32:24.410926
