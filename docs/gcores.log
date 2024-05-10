@@ -1543,3 +1543,9 @@ Summarized using GPT-3.5-turbo
 Append: [麦当劳超火过家家玩具回归！](https://www.gcores.com/articles/181569)
 append_entries: 4
 Finish: 2024-05-10 03:08:17.004911
+------------------------------------------------------
+Started: 2024-05-10 03:31:34.401216
+Existing_entries: 161
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-10 03:31:35.858286
