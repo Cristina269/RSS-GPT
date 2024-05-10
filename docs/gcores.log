@@ -1591,3 +1591,9 @@ Summarized using GPT-3.5-turbo
 Append: [由真实事件改编！剧情向解谜游戏《全网公敌2 新世界》现已发售！](https://www.gcores.com/articles/181589)
 append_entries: 2
 Finish: 2024-05-10 05:31:40.075490
+------------------------------------------------------
+Started: 2024-05-10 06:09:43.346712
+Existing_entries: 167
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-10 06:09:45.213052
