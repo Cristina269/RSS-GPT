@@ -1549,3 +1549,15 @@ Existing_entries: 161
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-10 03:31:35.858286
+------------------------------------------------------
+Started: 2024-05-10 04:08:28.490331
+Existing_entries: 161
+Fetching from 	https://www.gcores.com/rss
+Token length: 405
+Summarized using GPT-3.5-turbo
+Append: [华纳称《自杀小队：杀死正义联盟》的失败令其损失2亿美元](https://www.gcores.com/articles/181584)
+Token length: 433
+Summarized using GPT-3.5-turbo
+Append: [《艾尔登法环》“黄金树幽影”公布预购宣传片，国区售价198元](https://www.gcores.com/articles/181588)
+append_entries: 2
+Finish: 2024-05-10 04:08:37.080923
