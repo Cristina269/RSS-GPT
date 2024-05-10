@@ -1519,3 +1519,9 @@ Summarized using GPT-3.5-turbo
 Append: [剧情向解谜游戏《全网公敌2 新世界》现已在机核商店发售](https://www.gcores.com/articles/181573)
 append_entries: 2
 Finish: 2024-05-10 02:24:57.030105
+------------------------------------------------------
+Started: 2024-05-10 02:41:27.221541
+Existing_entries: 157
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-10 02:41:29.120307
