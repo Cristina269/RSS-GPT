@@ -1741,3 +1741,12 @@ Existing_entries: 187
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-10 13:08:22.437321
+------------------------------------------------------
+Started: 2024-05-10 13:31:35.791563
+Existing_entries: 187
+Fetching from 	https://www.gcores.com/rss
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】萌新该如何入坑格斗游戏？](https://www.gcores.com/articles/181626)
+append_entries: 1
+Finish: 2024-05-10 13:31:41.584454
