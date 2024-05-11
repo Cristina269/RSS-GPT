@@ -4,23 +4,19 @@
 <title>知乎每日精选</title>
 <link>http://www.zhihu.com</link>
 
+
 <item>
 <title>你管这破玩意叫指针？</title>
 <link>http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</link>
 <guid>http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</guid>
-<content:encoded><![CDATA[
-<div> 本文讲解了内存格子的操作方式，通过使用指令来存取不同大小的数据，设计了类型系统来表示内存中数据的存储方式。讨论了变量的定义与赋值操作，以及指针的概念和使用方法。指针的本质和普通变量没有区别，只是用来方便程序员和编译器编程。最后总结了定义指针、赋值/初始化指针、修改指针内容以及指针的加减操作等基本知识点。文章提到了进阶内容包括二级指针、数组、函数指针、字符串、结构体等。文章内容深入浅出，逻辑清晰，有助于读者理解和掌握指针的使用。 </div>
-]]></content:encoded>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
 <item>
 <title>若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？</title>
 <link>http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</link>
 <guid>http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</guid>
-<content:encoded><![CDATA[
-<div> 文章主要讨论了关于艺术评价标准的问题，认为传统的标准如画得像、配色和透视正确对于当代艺术或流行艺术不再适用。作者认为当代艺术需要不断探索和挑战传统，而不是仅仅迎合市场或观众的口味。文章还介绍了三联画《人间乐园》的艺术特点，探讨了画作中的象征意义和巧妙之处。最后，作者呼吁支持多样化的文化和艺术表达形式。 </div>
-]]></content:encoded>
+<content:encoded><![CDATA[]]></content:encoded>
 </item>
-
 <item>
 <title>都说民国继承了清朝的法统，那么清朝的法统又源于何处？</title>
 <link>http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</link>
