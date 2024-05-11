@@ -2122,3 +2122,12 @@ Existing_entries: 222
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-11 13:05:54.623383
+------------------------------------------------------
+Started: 2024-05-11 13:32:00.171328
+Existing_entries: 222
+Fetching from 	https://www.gcores.com/rss
+Token length: 660
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】那些游戏中出现的动物朋友们~](https://www.gcores.com/articles/181687)
+append_entries: 1
+Finish: 2024-05-11 13:32:05.658483
