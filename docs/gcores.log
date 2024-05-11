@@ -2014,3 +2014,9 @@ Summarized using GPT-3.5-turbo
 Append: [《女神异闻录5X》或将在日本及全球范围内发行](https://www.gcores.com/articles/181662)
 append_entries: 1
 Finish: 2024-05-11 07:07:42.277703
+------------------------------------------------------
+Started: 2024-05-11 07:31:36.245187
+Existing_entries: 210
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-11 07:31:38.302360
