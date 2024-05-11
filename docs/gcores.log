@@ -1888,3 +1888,15 @@ Summarized using GPT-3.5-turbo
 Append: [《对马岛之魂》PC版在部分地区下架  Steam退款已开放](https://www.gcores.com/articles/181640)
 append_entries: 1
 Finish: 2024-05-11 01:43:12.091870
+------------------------------------------------------
+Started: 2024-05-11 02:17:54.026994
+Existing_entries: 190
+Fetching from 	https://www.gcores.com/rss
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [《波斯王子Rogue》因《黑帝斯2》突然上架而延期](https://www.gcores.com/articles/181641)
+Token length: 1800
+Summarized using GPT-3.5-turbo
+Append: [【机核发行】最新游戏试玩和周边放送！核聚变2024广州站机核发行展区介绍](https://www.gcores.com/articles/181396)
+append_entries: 2
+Finish: 2024-05-11 02:18:02.282014
