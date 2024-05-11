@@ -2005,3 +2005,12 @@ Summarized using GPT-3.5-turbo
 Append: [【公告】核聚变游戏嘉年华2024广州站，周六门票现已售罄](https://www.gcores.com/articles/181538)
 append_entries: 1
 Finish: 2024-05-11 06:32:22.487796
+------------------------------------------------------
+Started: 2024-05-11 07:07:37.633921
+Existing_entries: 209
+Fetching from 	https://www.gcores.com/rss
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [《女神异闻录5X》或将在日本及全球范围内发行](https://www.gcores.com/articles/181662)
+append_entries: 1
+Finish: 2024-05-11 07:07:42.277703
