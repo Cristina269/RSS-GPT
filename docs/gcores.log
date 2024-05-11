@@ -1975,3 +1975,15 @@ Summarized using GPT-3.5-turbo
 Append: [《2408太空漫游》的航行记录](https://www.gcores.com/articles/181587)
 append_entries: 9
 Finish: 2024-05-11 05:07:09.143397
+------------------------------------------------------
+Started: 2024-05-11 05:31:25.256630
+Existing_entries: 205
+Fetching from 	https://www.gcores.com/rss
+Token length: 421
+Summarized using GPT-3.5-turbo
+Append: [《马拉松》(1994)复刻版今日在Steam免费推出](https://www.gcores.com/articles/181658)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [《辐射4》将于5月13日迎来新一轮补丁，解决次世代更新问题](https://www.gcores.com/articles/181656)
+append_entries: 2
+Finish: 2024-05-11 05:31:32.642464
