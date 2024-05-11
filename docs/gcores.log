@@ -1987,3 +1987,12 @@ Summarized using GPT-3.5-turbo
 Append: [《辐射4》将于5月13日迎来新一轮补丁，解决次世代更新问题](https://www.gcores.com/articles/181656)
 append_entries: 2
 Finish: 2024-05-11 05:31:32.642464
+------------------------------------------------------
+Started: 2024-05-11 06:08:34.125978
+Existing_entries: 207
+Fetching from 	https://www.gcores.com/rss
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [微软计划在Windows11中投放XGP广告](https://www.gcores.com/articles/181659)
+append_entries: 1
+Finish: 2024-05-11 06:08:38.642179
