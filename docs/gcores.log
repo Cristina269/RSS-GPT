@@ -2053,3 +2053,15 @@ Summarized using GPT-3.5-turbo
 Append: [小小冒险，大大快乐：《小猫咪，大城市》满足了“想当猫”的快乐](https://www.gcores.com/articles/181666)
 append_entries: 1
 Finish: 2024-05-11 08:31:33.991518
+------------------------------------------------------
+Started: 2024-05-11 09:08:01.606950
+Existing_entries: 217
+Fetching from 	https://www.gcores.com/rss
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [查找你的设备，录音笔 VOL.198](https://www.gcores.com/radios/181670)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [《完美音浪》成为微软和贝塞斯达有史以来评分最高的游戏](https://www.gcores.com/articles/181671)
+append_entries: 2
+Finish: 2024-05-11 09:08:08.033890
