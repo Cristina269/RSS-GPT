@@ -1900,3 +1900,9 @@ Summarized using GPT-3.5-turbo
 Append: [【机核发行】最新游戏试玩和周边放送！核聚变2024广州站机核发行展区介绍](https://www.gcores.com/articles/181396)
 append_entries: 2
 Finish: 2024-05-11 02:18:02.282014
+------------------------------------------------------
+Started: 2024-05-11 02:35:45.046123
+Existing_entries: 192
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-11 02:35:46.673236
