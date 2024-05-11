@@ -2161,3 +2161,9 @@ Summarized using GPT-3.5-turbo
 Append: [炎上、解散！任天堂要出新主机 核周报05.11](https://www.gcores.com/radios/181341)
 append_entries: 1
 Finish: 2024-05-11 15:05:26.336653
+------------------------------------------------------
+Started: 2024-05-11 15:31:39.920555
+Existing_entries: 227
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-11 15:31:45.912705
