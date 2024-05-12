@@ -2461,3 +2461,12 @@ Existing_entries: 237
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-12 14:31:27.934767
+------------------------------------------------------
+Started: 2024-05-12 15:05:18.872052
+Existing_entries: 237
+Fetching from 	https://www.gcores.com/rss
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [通过赛博朋克了解一段二十世纪音乐史 下](https://www.gcores.com/radios/181621)
+append_entries: 1
+Finish: 2024-05-12 15:05:24.413289
