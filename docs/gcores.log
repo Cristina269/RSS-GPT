@@ -2470,3 +2470,9 @@ Summarized using GPT-3.5-turbo
 Append: [通过赛博朋克了解一段二十世纪音乐史 下](https://www.gcores.com/radios/181621)
 append_entries: 1
 Finish: 2024-05-12 15:05:24.413289
+------------------------------------------------------
+Started: 2024-05-12 15:31:37.893563
+Existing_entries: 238
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-12 15:31:40.198907
