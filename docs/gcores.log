@@ -2872,3 +2872,12 @@ Existing_entries: 278
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-13 15:31:41.489600
+------------------------------------------------------
+Started: 2024-05-13 16:09:41.458708
+Existing_entries: 278
+Fetching from 	https://www.gcores.com/rss
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [“刺客信条：影”：育碧公布《刺客信条》新作名称，完整揭晓5月16日0点公开](https://www.gcores.com/articles/181801)
+append_entries: 1
+Finish: 2024-05-13 16:09:48.357681
