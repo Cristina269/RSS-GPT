@@ -2848,3 +2848,9 @@ Summarized using GPT-3.5-turbo
 Append: [【聊聊天】在《王国之泪》后，还想再一次重游海拉鲁大陆吗？](https://www.gcores.com/articles/181789)
 append_entries: 1
 Finish: 2024-05-13 13:31:36.402587
+------------------------------------------------------
+Started: 2024-05-13 14:06:52.789646
+Existing_entries: 278
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-13 14:06:54.595342
