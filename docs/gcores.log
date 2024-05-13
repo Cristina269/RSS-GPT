@@ -2785,3 +2785,12 @@ Existing_entries: 271
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-13 10:07:48.849819
+------------------------------------------------------
+Started: 2024-05-13 10:34:04.145560
+Existing_entries: 271
+Fetching from 	https://www.gcores.com/rss
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [掌上智能量子计算机来咯！机核商店今天又有玩具上新](https://www.gcores.com/articles/181784)
+append_entries: 1
+Finish: 2024-05-13 10:34:09.034248
