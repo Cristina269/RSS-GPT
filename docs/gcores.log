@@ -2773,3 +2773,9 @@ Summarized using GPT-3.5-turbo
 Append: [可以在家学会的网络技术（二）：从网页到 TCP/IP](https://www.gcores.com/articles/181770)
 append_entries: 4
 Finish: 2024-05-13 09:07:55.525041
+------------------------------------------------------
+Started: 2024-05-13 09:31:37.393758
+Existing_entries: 271
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-13 09:31:38.963959
