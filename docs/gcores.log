@@ -2812,3 +2812,9 @@ Summarized using GPT-3.5-turbo
 Append: [机战播客系列确立！《机动警察》回顾](https://www.gcores.com/videos/181679)
 append_entries: 4
 Finish: 2024-05-13 11:05:46.837735
+------------------------------------------------------
+Started: 2024-05-13 11:31:42.729336
+Existing_entries: 276
+Fetching from 	https://www.gcores.com/rss
+append_entries: 0
+Finish: 2024-05-13 11:31:44.764357

@@ -2144,3 +2144,12 @@ Existing_entries: 35
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2024-05-13 11:05:48.331379
+------------------------------------------------------
+Started: 2024-05-13 11:31:44.873084
+Existing_entries: 35
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/88773)
+append_entries: 1
+Finish: 2024-05-13 11:31:48.759490
