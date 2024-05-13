@@ -2596,3 +2596,15 @@ Summarized using GPT-3.5-turbo
 Append: [《恶魔真探DICEMON》宣传PV](https://www.gcores.com/videos/181719)
 append_entries: 4
 Finish: 2024-05-13 01:51:25.974254
+------------------------------------------------------
+Started: 2024-05-13 02:23:39.243777
+Existing_entries: 242
+Fetching from 	https://www.gcores.com/rss
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [《塞尔达传说：王国之泪》迎来发售一周年！](https://www.gcores.com/articles/181743)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [《小猫咪大城市》发售48小时内销量破10万份](https://www.gcores.com/articles/181742)
+append_entries: 2
+Finish: 2024-05-13 02:23:45.056974
