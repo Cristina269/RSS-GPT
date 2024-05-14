@@ -2576,3 +2576,10 @@ Fetching from https://rsshub.app/infzm/2
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/summary_news
+------------------------------------------------------
+Started: 2024-05-14 03:08:43.387367
+Existing_entries: 19
+Fetching from https://rsshub.app/infzm/2
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/summary_news
