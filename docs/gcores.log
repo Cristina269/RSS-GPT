@@ -2977,3 +2977,18 @@ Existing_entries: 279
 Fetching from 	https://www.gcores.com/rss
 append_entries: 0
 Finish: 2024-05-14 00:32:30.060514
+------------------------------------------------------
+Started: 2024-05-14 01:44:47.356445
+Existing_entries: 279
+Fetching from 	https://www.gcores.com/rss
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [《怪物猎人》系列销量突破1亿份](https://www.gcores.com/articles/181806)
+Token length: 1146
+Summarized using GPT-3.5-turbo
+Append: [史诗级科幻体验:《家园3》现已发售](https://www.gcores.com/articles/181790)
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [索尼互娱任命西野秀明及Hermen Hulst担任CEO](https://www.gcores.com/articles/181805)
+append_entries: 3
+Finish: 2024-05-14 01:45:00.856653
