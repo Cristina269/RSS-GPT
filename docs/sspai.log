@@ -2309,3 +2309,12 @@ Existing_entries: 36
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2024-05-14 01:45:02.208659
+------------------------------------------------------
+Started: 2024-05-14 02:20:38.273181
+Existing_entries: 36
+Fetching from https://sspai.com/feed
+Token length: 42
+Summarized using GPT-3.5-turbo
+Append: [派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
+append_entries: 1
+Finish: 2024-05-14 02:20:41.630358
